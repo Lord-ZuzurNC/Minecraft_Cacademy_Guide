@@ -1,8 +1,8 @@
 # Minecraft_Cobblemon_Guide
 
-## Français / English
+## 🇫🇷 Français / 🇬🇧 English
 
-### Français
+### 🇫🇷 Français
 
 Eligos a créé le tuto initial en français.
 
@@ -10,7 +10,7 @@ Rejoignez le serveur discord "Cacademy" (lien dans les remerciements de RoiChees
 
 J'ai fait la traduction en anglais.
 
-### English
+### 🇬🇧 English
 
 Eligos created the tutorial initially in french.
 
@@ -20,7 +20,7 @@ I did the english translation.
 
 ## Tuto
 
-### Français
+### 🇫🇷 Français
 
 Ce modpack est sindé en un modpack client et un serveur.
 - Le modpack client est disponible sur le site de [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy).
@@ -36,7 +36,7 @@ Il est fortement recommendé de faire un nouveau monde en suivant ce tuto.
 
 Si vous voulez le tutoriel en français veuillez suivre ce [README_fr](README_fr.md).
 
-### English
+### 🇬🇧 English
 
 This modpack is divided into a client and a server modpack.
 - The client modpack is available on [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy).
@@ -54,7 +54,7 @@ If you want to follow the english tutorial please follow this [README_en](README
 
 ## Précisions / Details
 
-### Français
+### 🇫🇷 Français
 
 Lorsque le tuto indique un chemin de dossier, par exemple :
 ```bash
@@ -71,7 +71,7 @@ Ces chemins sont pour une installation Windows, si vous êtes sur Linux vous dev
 
 Ces chemins sont pour CurseForge, il vous suffira de remplacer pour Modrinth ou Prism ou tout autre laucher si vous n'utilisez pas CurseForge.
 
-### English
+### 🇬🇧 English
 
 When the tuto indicate a folder path, for example:
 ```bash
@@ -90,7 +90,7 @@ These paths are for CurseForge, you'll need to change them for Modrinth or Prism
 
 ## Limitation Github / Github Limitation
 
-### Français
+### 🇫🇷 Français
 
 > Github limite la taille des fichiers à 100MB. Certains fichiers dans ce repo sont trop gros donc ils sont divisé en plusieurs partis de 100MB.
 >
@@ -98,7 +98,7 @@ These paths are for CurseForge, you'll need to change them for Modrinth or Prism
 >
 > Faites un click droit sur un des fichiers divisé et cliquez sur "Join Split Files". Je donne, plus bas, une liste exhaustive de fichiers divisés pour que vous puissiez les fusionner sans devoir les chercher manuellement.
 
-### English
+### 🇬🇧 English
 
 > Github limits the size of file to 100MB. Some files in the repo will be more than this limit so I splitted up these files into 100MB chunks.
 >
@@ -118,17 +118,17 @@ Aucun / None
 
 ## Problèmes / Issues
 
-### Français
+### 🇫🇷 Français
 
 Si vous rencontrez un problème avec le tutoriel vous pouvez soit créer un ticket ici ou bien en parler sur le serveur discord dans ce [fil](https://discord.com/channels/1463127240173949042/1476168680206368880).
 
-### English
+### 🇬🇧 English
 
 If you encounter any issue with this tuto you can either create an issue here or ask for help in this discord [thread](https://discord.com/channels/1463127240173949042/1476168680206368880).
 
 ## Remerciements / Thanks
 
-### Français
+### 🇫🇷 Français
 
 BIG THANKS pour 👑RoiCheese.
 
@@ -146,7 +146,7 @@ Eligos souhaite également remercier :
 - Raws
 - Akwaa
 
-### English
+### 🇬🇧 English
 
 BIG THANKS to 👑RoiCheese.
 

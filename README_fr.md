@@ -1,4 +1,4 @@
-# Tuto français
+# Tuto français 🇫🇷
 
 🏗️
 En construction.
