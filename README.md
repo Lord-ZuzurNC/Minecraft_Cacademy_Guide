@@ -145,7 +145,7 @@ BIG THANKS pour 👑RoiCheese.
 > Allez voir ses réseaux sociaux : [Youtube](https://www.youtube.com/@RoiCheese), [Twitch](https://www.twitch.tv/roicheese), [Discord](https://discord.gg/fYmPwMBjdB), et si vous le pouvez et vous sentez généreux vous pouvez aussi le soutenir sur [Paypal](https://www.paypal.com/paypalme/che3sepay).
 
 Je voudrais aussi spécialement recmercier des membres discords :
-- Eligos - Qui, encore une fois, à créer ce tuto de A à Z.
+- Eligos - Qui, encore une fois, à créé ce tuto de A à Z.
 - Octoj - Avec qui nous avons eu de longues discussions sur le modpack, avec Eliigos.
 - Tous les autres membres des discords de "Cacademy" ainsi que "Cobblemon   Academy".
 
