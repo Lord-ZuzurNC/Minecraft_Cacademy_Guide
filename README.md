@@ -18,6 +18,8 @@ Join the "Cacademy" discord (link in the RoiCheese thanks) and go to his [thread
 
 I did the english translation.
 
+---
+
 ## Tuto
 
 ### 🇫🇷 Français
@@ -51,6 +53,8 @@ You can self-host, but this will not be optimum.
 It is heavily advised to create a new world while following this tuto.
 
 If you want to follow the english tutorial please follow this [README_en](README_en.md).
+
+---
 
 ## Précisions / Details
 
@@ -88,6 +92,8 @@ These paths are given for Windows, if you are under Linux you will need to adapt
 
 These paths are for CurseForge, you'll need to change them for Modrinth or Prism or any other MC launcher if you do not use CurseForge.
 
+---
+
 ## Limitation Github / Github Limitation
 
 ### 🇫🇷 Français
@@ -116,6 +122,8 @@ These paths are for CurseForge, you'll need to change them for Modrinth or Prism
 Aucun / None
 ```
 
+---
+
 ## Problèmes / Issues
 
 ### 🇫🇷 Français
@@ -125,6 +133,8 @@ Si vous rencontrez un problème avec le tutoriel vous pouvez soit créer un tick
 ### 🇬🇧 English
 
 If you encounter any issue with this tuto you can either create an issue here or ask for help in this discord [thread](https://discord.com/channels/1463127240173949042/1476168680206368880).
+
+---
 
 ## Remerciements / Thanks
 
