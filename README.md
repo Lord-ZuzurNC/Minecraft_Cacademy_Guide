@@ -70,6 +70,7 @@ Ce tutriel assume que :
 - Vous avez installé le modpack client depuis le site de [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy) sur votre PC.
 
 > Notez que tous les autres services d'hosting n'ont **<ins>pas</ins>** le véritable modpack serveur, il faudra donc les traiter comme un self-host et tout faire à la main.
+> 
 > Si self-host alors les ports à ouvrir sont:
 > - server.properties → **22055** + **25575**
 > - config/voicechat/voicechat-server.properties → **42158**
@@ -84,6 +85,7 @@ This tutorial is assuming that:
 - You did install the client modpack from the [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy) site on your PC.
 
 > Please note that any other hosting service will **<ins>not</ins>** the true server modpack, thus you'll have to trat it as a self-host and do everything accordingly.
+> 
 > If you selfhost then you'll have to open these ports:
 > - server.properties → **22055** + **25575**
 > - config/voicechat/voicechat-server.properties → **42158**
