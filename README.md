@@ -157,36 +157,6 @@ In the file the tuto ask you to replace:
 
 ---
 
-## Limitation Github / Github Limitation
-
-### 🇫🇷 Français 🇫🇷
-
-> Github limite la taille des fichiers à 100MB. Certains fichiers dans ce repo sont trop gros donc ils sont divisé en plusieurs partis de 100MB.
->
-> Pour re-fusionner des fichiers divisés il vous faut installer [VSCode](https://code.visualstudio.com/) (mais je recommande plutôt [VSCodium](https://vscodium.com/)) ainsi que le plugin gratuit "File & Folder Splitter Pro".
->
-> Faites un click droit sur un des fichiers divisé et cliquez sur "Join Split Files". Je donne, plus bas, une liste exhaustive de fichiers divisés pour que vous puissiez les fusionner sans devoir les chercher manuellement.
-
-### 🇬🇧 English 🇬🇧
-
-> Github limits the size of file to 100MB. Some files in the repo will be more than this limit so I splitted up these files into 100MB chunks.
->
-> To join back these files into 1 you'll need to install [VSCode](https://code.visualstudio.com/) (but I personnally advise using [VSCodium](https://vscodium.com/)), install the "File & Folder Splitter Pro" plugin (it's free).
->
-> You'll have to right click and "Join Split Files". I'll provide, bellow, an exhaustive list of all splitted files to avoid searching manually.
-
-### File and Folder Splitter Pro
-
-![File and Folder Splitter Pro VSCode plugin](resources/VSCode_File-Splitter.png)
-
-### Fichiers divisés / Splitted files
-
-```yaml
-Aucun / None
-```
-
----
-
 ## Problèmes / Issues
 
 ### 🇫🇷 Français 🇫🇷
