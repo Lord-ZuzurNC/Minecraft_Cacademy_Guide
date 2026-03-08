@@ -1,0 +1,41 @@
+{
+  "pokemon": {
+    "species": "tapukoko",
+    "ability": "electric_surge",
+    "nature": "timid",
+    "level": 100,
+    "moves": [
+      "thunderbolt",
+      "dazzlinggleam",
+      "voltswitch",
+      "bravebird"
+    ]
+  },
+  "boss": {
+    "min_perfect_ivs": 6,
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "spa": 252,
+      "spe": 4
+    },
+    "held_item": {
+      "item": "cobblemon:magnet"
+    }
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "ELECTRIC",
+  "raid_feature": "DEFAULT",
+  "weight": 10.0,
+  "den": ["#cobblemonraiddens:default"],
+  "max_players": 4,
+  "max_clears": 1,
+  "ha_rate": 0.0,
+  "max_cheers": 3,
+  "raid_party_size": 1,
+  "health_multiplier": 80,
+  "multiplayer_health_multiplier": 1.2,
+  "shiny_rate": 50.0,
+  "max_catches": 1,
+  "raid_ai": "STRONG"
+}

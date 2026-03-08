@@ -1,0 +1,47 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-tinglu-1",
+      "pokemon": "tinglu",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "50-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#minecraft:is_badlands",
+          "#minecraft:is_mountain",
+          "minecraft:dripstone_caves"
+        ],
+        "key_item": "academy:vessel_of_ruin"
+      }
+    },
+    {
+      "id": "mythsandlegends-tinglu-1",
+      "pokemon": "tinglu",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#minecraft:is_badlands",
+          "#minecraft:is_mountain",
+          "minecraft:dripstone_caves"
+        ]
+      }
+    }
+  ]
+}
+

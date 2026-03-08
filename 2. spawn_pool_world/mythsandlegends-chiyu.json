@@ -1,0 +1,47 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-chiyu-1",
+      "pokemon": "chiyu",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "50-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#minecraft:is_badlands",
+          "minecraft:desert",
+          "minecraft:basalt_deltas"
+        ],
+        "key_item": "academy:beads_of_ruin"
+      }
+    },
+    {
+      "id": "mythsandlegends-chiyu-1",
+      "pokemon": "chiyu",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#minecraft:is_badlands",
+          "minecraft:desert",
+          "minecraft:basalt_deltas"
+        ]
+      }
+    }
+  ]
+}
+

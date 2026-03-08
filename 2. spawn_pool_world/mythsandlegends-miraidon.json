@@ -1,0 +1,80 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-miraidon-1",
+      "pokemon": "miraidon",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "68-72",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:windswept_gravelly_hills",
+          "minecraft:deep_dark"
+        ],
+        "key_item": "myths_and_legends:violet_book"
+      }
+    },
+    {
+      "id": "mythsandlegends-miraidon-2",
+      "pokemon": "miraidon",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "68-72",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_deep_dark"
+        ],
+        "key_item": "myths_and_legends:violet_book"
+      }
+    },
+     {
+      "id": "mythsandlegends-miraidon-3",
+      "pokemon": "miraidon",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "68-72",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:windswept_gravelly_hills",
+          "minecraft:deep_dark"
+        ]
+      }
+    },
+    {
+      "id": "mythsandlegends-miraidon-4",
+      "pokemon": "miraidon",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "68-72",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_deep_dark"
+        ]
+      }
+    }  
+  ]
+}
+

@@ -1,0 +1,232 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:red_apricorn_seed",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.25
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:blue_apricorn_seed",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.25
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:green_apricorn_seed",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.25
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:pink_apricorn_seed",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.25
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:yellow_apricorn_seed",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.25
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:white_apricorn_seed",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.25
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:black_apricorn_seed",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.25
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.185
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:vivichoke_seeds",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.185
+        }
+      ]
+    },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:link_cable",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.10
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.01
+        }
+      ]
+     },
+
+    {
+      "bonus_rolls": 1,
+      "entries": [
+        { "type": "loot_table", "value": "academy:basic/t0", "weight": 10 },
+        { "type": "loot_table", "value": "academy:basic/t1", "weight": 9 },
+        { "type": "loot_table", "value": "academy:basic/t2", "weight": 8 },
+        { "type": "loot_table", "value": "academy:basic/t3", "weight": 7 },
+        { "type": "loot_table", "value": "academy:basic/t4", "weight": 6 },
+        { "type": "loot_table", "value": "academy:basic/t5", "weight": 5 },
+        { "type": "loot_table", "value": "academy:basic/t6", "weight": 4 },
+        { "type": "loot_table", "value": "academy:basic/t7", "weight": 3 },
+        { "type": "loot_table", "value": "academy:basic/t8", "weight": 2 },
+        { "type": "loot_table", "value": "academy:basic/t9", "weight": 1 }
+      ],
+      "conditions": [
+        { "condition": "minecraft:random_chance", "chance": 0.0273 }
+      ]
+    },
+
+    {
+      "rolls": 1,
+      "conditions": [
+        { "condition": "minecraft:random_chance", "chance": 0.025 }
+      ],
+      "entries": [
+        { "type": "minecraft:item", "name": "myths_and_legends:tidal_bell_articuno", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:azelf_fang", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:reins_of_unity", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:ironwill_sword", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:lillies_bag", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:lunar_feather", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:adamant_orb", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:reveal_glass_enamorus", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:clear_bell_entei", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:eternatus_core", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:genesect_drive", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:griseous_orb", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:iceroot_carrot", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:red_orb", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:magma_stone", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:scarlet_book", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:kubfus_band", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:blue_orb", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:dna_splicer", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:reveal_glass_landorus", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:eon_ticket_latias", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:eon_ticket_latios", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:moon_flute", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:tidal_bell", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:mesprit_plume", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:dr_fujis_diary", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:violet_book", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:tidal_bell_moltres", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:necro_prism", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:lustrous_orb", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:teal_mask", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:ice_tablet", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:jade_orb", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:clear_bell_raikou", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:scaly_tablet", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:ancient_tablet", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:sun_flute", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:light_stone", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:clear_bell_suicune", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:shaderoot_carrot", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:bulu_totem", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:fini_totem", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:koko_totem", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:lele_totem", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:prismatic_shell", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:cavern_shield", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:reveal_glass_thundurus", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:reveal_glass_tornadus", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:type_null_mask", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:uxie_claw", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:grassland_blade", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:sapling_of_life", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:cocoon_of_destruction", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:rusted_sword", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:rusted_shield", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:tidal_bell_zapdos", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:dark_stone", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:zygarde_cube", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:zygarde_cell", "weight": 1 },
+        { "type": "minecraft:item", "name": "myths_and_legends:zygarde_core", "weight": 1 }
+      ]
+    }
+  ]
+}

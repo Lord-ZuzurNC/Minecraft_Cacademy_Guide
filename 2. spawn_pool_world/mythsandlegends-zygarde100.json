@@ -1,0 +1,168 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-zygarde-1",
+      "pokemon": "zygarde",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:birch_forest",
+          "minecraft:forest",
+          "minecraft:jungle",
+          "minecraft:mangrove_swamp",
+          "minecraft:swamp"
+        ],
+        "key_item": "myths_and_legends:zygarde_cube"
+      }
+    },
+    {
+      "id": "mythsandlegends-zygarde-2",
+      "pokemon": "zygarde",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_forest",
+          "#cobblemon:is_cave",
+          "#cobblemon:is_swamp"
+        ],
+        "key_item": "myths_and_legends:zygarde_cube"
+      }
+    },
+    {
+      "id": "mythsandlegends-zygarde-3",
+      "pokemon": "zygarde",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_forest",
+          "#cobblemon:is_cave",
+          "#cobblemon:is_swamp"
+        ],
+        "key_item": "myths_and_legends:zygarde_cell"
+      }
+    },
+    {
+      "id": "mythsandlegends-zygarde-4",
+      "pokemon": "zygarde",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_forest",
+          "#cobblemon:is_cave",
+          "#cobblemon:is_swamp"
+        ],
+        "key_item": "myths_and_legends:zygarde_core"
+      }
+    },
+    {
+      "id": "mythsandlegends-zygarde-5",
+      "pokemon": "zygarde",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:birch_forest",
+          "minecraft:forest",
+          "minecraft:jungle",
+          "minecraft:mangrove_swamp",
+          "minecraft:swamp"
+        ]
+      }
+    },
+    {
+      "id": "mythsandlegends-zygarde-6",
+      "pokemon": "zygarde",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_forest",
+          "#cobblemon:is_cave",
+          "#cobblemon:is_swamp"
+        ]
+      }
+    },
+      {
+      "id": "mythsandlegends-zygarde-7",
+      "pokemon": "zygarde",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_forest",
+          "#cobblemon:is_cave",
+          "#cobblemon:is_swamp"
+        ]
+      }
+    },
+    {
+      "id": "mythsandlegends-zygarde-8",
+      "pokemon": "zygarde",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_forest",
+          "#cobblemon:is_cave",
+          "#cobblemon:is_swamp"
+        ]
+      }
+    } 
+  ]
+}
+

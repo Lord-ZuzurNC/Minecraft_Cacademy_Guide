@@ -1,0 +1,124 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.025,
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1.0,
+        "max": 2.0
+      },
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:basic/t3",
+          "weight": 60
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:basic/t4",
+          "weight": 50
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:basic/t5",
+          "weight": 40
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:basic/t6",
+          "weight": 30
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:basic/t7",
+          "weight": 10
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:basic/t8",
+          "weight": 6
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:basic/t9",
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.01
+        }
+      ],
+      "entries": [
+        { "type": "minecraft:item", "name": "myths_and_legends:azelf_fang" },
+        { "type": "minecraft:item", "name": "myths_and_legends:reins_of_unity" },
+        { "type": "minecraft:item", "name": "myths_and_legends:ironwill_sword" },
+        { "type": "minecraft:item", "name": "myths_and_legends:lillies_bag" },
+        { "type": "minecraft:item", "name": "myths_and_legends:adamant_orb" },
+        { "type": "minecraft:item", "name": "myths_and_legends:reveal_glass_enamorus" },
+        { "type": "minecraft:item", "name": "myths_and_legends:clear_bell_entei" },
+        { "type": "minecraft:item", "name": "myths_and_legends:eternatus_core" },
+        { "type": "minecraft:item", "name": "myths_and_legends:genesect_drive" },
+        { "type": "minecraft:item", "name": "myths_and_legends:griseous_orb" },
+        { "type": "minecraft:item", "name": "myths_and_legends:iceroot_carrot" },
+        { "type": "minecraft:item", "name": "myths_and_legends:red_orb" },
+        { "type": "minecraft:item", "name": "myths_and_legends:magma_stone" },
+        { "type": "minecraft:item", "name": "myths_and_legends:clear_bell" },
+        { "type": "minecraft:item", "name": "myths_and_legends:scarlet_book" },
+        { "type": "minecraft:item", "name": "myths_and_legends:kubfus_band" },
+        { "type": "minecraft:item", "name": "myths_and_legends:blue_orb" },
+        { "type": "minecraft:item", "name": "myths_and_legends:dna_splicer" },
+        { "type": "minecraft:item", "name": "myths_and_legends:reveal_glass_landorus" },
+        { "type": "minecraft:item", "name": "myths_and_legends:eon_ticket_latias" },
+        { "type": "minecraft:item", "name": "myths_and_legends:eon_ticket_latios" },
+        { "type": "minecraft:item", "name": "myths_and_legends:moon_flute" },
+        { "type": "minecraft:item", "name": "myths_and_legends:tidal_bell" },
+        { "type": "minecraft:item", "name": "myths_and_legends:mesprit_plume" },
+        { "type": "minecraft:item", "name": "myths_and_legends:dr_fujis_diary" },
+        { "type": "minecraft:item", "name": "myths_and_legends:tidal_bell_moltres" },
+        { "type": "minecraft:item", "name": "myths_and_legends:necro_prism" },
+        { "type": "minecraft:item", "name": "myths_and_legends:lustrous_orb" },
+        { "type": "minecraft:item", "name": "myths_and_legends:teal_mask" },
+        { "type": "minecraft:item", "name": "myths_and_legends:ice_tablet" },
+        { "type": "minecraft:item", "name": "myths_and_legends:jade_orb" },
+        { "type": "minecraft:item", "name": "myths_and_legends:clear_bell_raikou" },
+        { "type": "minecraft:item", "name": "myths_and_legends:scaly_tablet" },
+        { "type": "minecraft:item", "name": "myths_and_legends:ancient_tablet" },
+        { "type": "minecraft:item", "name": "myths_and_legends:sun_flute" },
+        { "type": "minecraft:item", "name": "myths_and_legends:light_stone" },
+        { "type": "minecraft:item", "name": "myths_and_legends:clear_bell_suicune" },
+        { "type": "minecraft:item", "name": "myths_and_legends:shaderoot_carrot" },
+        { "type": "minecraft:item", "name": "myths_and_legends:bulu_totem" },
+        { "type": "minecraft:item", "name": "myths_and_legends:fini_totem" },
+        { "type": "minecraft:item", "name": "myths_and_legends:koko_totem" },
+        { "type": "minecraft:item", "name": "myths_and_legends:lele_totem" },
+        { "type": "minecraft:item", "name": "myths_and_legends:prismatic_shell" },
+        { "type": "minecraft:item", "name": "myths_and_legends:cavern_shield" },
+        { "type": "minecraft:item", "name": "myths_and_legends:reveal_glass_thundurus" },
+        { "type": "minecraft:item", "name": "myths_and_legends:reveal_glass_tornadus" },
+        { "type": "minecraft:item", "name": "myths_and_legends:type_null_mask" },
+        { "type": "minecraft:item", "name": "myths_and_legends:uxie_claw" },
+        { "type": "minecraft:item", "name": "myths_and_legends:grassland_blade" },
+        { "type": "minecraft:item", "name": "myths_and_legends:rusted_sword" },
+        { "type": "minecraft:item", "name": "myths_and_legends:rusted_shield" },
+        { "type": "minecraft:item", "name": "myths_and_legends:tidal_bell_zapdos" },
+        { "type": "minecraft:item", "name": "myths_and_legends:dark_stone" },
+        { "type": "minecraft:item", "name": "myths_and_legends:zygarde_cube" },
+        { "type": "minecraft:item", "name": "myths_and_legends:zygarde_cell" },
+        { "type": "minecraft:item", "name": "myths_and_legends:zygarde_core" },
+        { "type": "minecraft:item", "name": "myths_and_legends:lunar_feather" },
+        { "type": "minecraft:item", "name": "myths_and_legends:plasma_tablet" },
+        { "type": "minecraft:item", "name": "myths_and_legends:rainbow_wing" },
+        { "type": "minecraft:item", "name": "myths_and_legends:silver_wing" },
+        { "type": "minecraft:item", "name": "myths_and_legends:violet_book" },
+        { "type": "minecraft:item", "name": "myths_and_legends:cocoon_of_destruction" },
+        { "type": "minecraft:item", "name": "myths_and_legends:sapling_of_life" }
+      ]
+    }
+  ]
+}

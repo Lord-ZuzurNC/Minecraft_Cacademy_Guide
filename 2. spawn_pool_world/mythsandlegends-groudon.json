@@ -1,0 +1,90 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-groudon-1",
+      "pokemon": "groudon",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "45-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_volcanic",
+          "minecraft:badlands",
+          "minecraft:desert",
+          "minecraft:eroded_badlands"
+        ],
+        "key_item": "myths_and_legends:red_orb"
+      }
+    },
+    {
+      "id": "mythsandlegends-groudon-2",
+      "pokemon": "groudon",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "45-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_volcanic",
+          "#cobblemon:is_desert",
+          "#cobblemon:is_arid",
+          "#cobblemon:is_thermal"
+        ],
+        "key_item": "myths_and_legends:red_orb"
+      }
+    },
+    {
+      "id": "mythsandlegends-groudon-3",
+      "pokemon": "groudon",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "45-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_volcanic",
+          "minecraft:badlands",
+          "minecraft:desert",
+          "minecraft:eroded_badlands"
+        ]
+      }
+    },
+    {
+      "id": "mythsandlegends-groudon-4",
+      "pokemon": "groudon",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "45-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_volcanic",
+          "#cobblemon:is_desert",
+          "#cobblemon:is_arid",
+          "#cobblemon:is_thermal"
+        ]
+      }
+    }  
+  ]
+}
+

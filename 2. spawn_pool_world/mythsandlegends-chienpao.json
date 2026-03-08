@@ -1,0 +1,49 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-chienpao-1",
+      "pokemon": "chienpao",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#minecraft:is_snowy",
+          "#cobblemon:is_freezing",
+          "minecraft:snowy_slopes",
+          "minecraft:ice_spikes"
+        ],
+        "key_item": "academy:sword_of_ruin"
+      }
+    },
+    {
+      "id": "mythsandlegends-chienpao-1",
+      "pokemon": "chienpao",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#minecraft:is_snowy",
+          "#cobblemon:is_freezing",
+          "minecraft:snowy_slopes",
+          "minecraft:ice_spikes"
+        ]
+      }
+    }
+  ]
+}
+

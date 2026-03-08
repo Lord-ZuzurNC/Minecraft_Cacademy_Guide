@@ -1,0 +1,48 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-cresselia-1",
+      "pokemon": "cresselia",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "50-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_field_shore",
+          "minecraft:snowy_tundra"
+        ],
+        "canSeeSky": true,
+        "timeRange": "night",
+        "key_item": "myths_and_legends:lunar_feather"
+      }
+    },
+    {
+      "id": "mythsandlegends-cresselia-2",
+      "pokemon": "cresselia",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:mushroom_fields",
+          "minecraft:mushroom_field_shore",
+          "minecraft:snowy_tundra"
+        ],
+        "canSeeSky": true,
+        "timeRange": "night"
+      }
+    }  
+  ]
+}
+
+

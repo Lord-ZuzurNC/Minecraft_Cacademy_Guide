@@ -1,0 +1,101 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [
+  ],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-palkia-1",
+      "pokemon": "Palkia",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "47-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "terralith:skylands_winter",
+          "minecraft:the_end",
+          "minecraft:end_barrens",
+          "minecraft:end_highlands",
+          "minecraft:end_midlands",
+          "minecraft:small_end_islands"
+        ],
+        "key_item": "myths_and_legends:lustrous_orb"
+      }
+    },
+    {
+      "id": "mythsandlegends-palkia-2",
+      "pokemon": "Palkia",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "47-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "terralith:skylands_winter",
+          "minecraft:the_end",
+          "minecraft:end_barrens",
+          "minecraft:end_highlands",
+          "minecraft:end_midlands",
+          "#cobblemon:is_end",
+          "minecraft:small_end_islands"
+        ],
+        "key_item": "myths_and_legends:lustrous_orb"
+      }
+    },
+    {
+      "id": "mythsandlegends-palkia-3",
+      "pokemon": "Palkia",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "47-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "terralith:skylands_winter",
+          "minecraft:the_end",
+          "minecraft:end_barrens",
+          "minecraft:end_highlands",
+          "minecraft:end_midlands",
+          "minecraft:small_end_islands"
+        ]
+      }
+    },
+    {
+      "id": "mythsandlegends-palkia-4",
+      "pokemon": "Palkia",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "47-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "terralith:skylands_winter",
+          "minecraft:the_end",
+          "minecraft:end_barrens",
+          "minecraft:end_highlands",
+          "minecraft:end_midlands",
+          "#cobblemon:is_end",
+          "minecraft:small_end_islands"
+        ]
+      }
+    }  
+  ]
+}
+

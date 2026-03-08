@@ -1,0 +1,84 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-moltres-1",
+      "pokemon": "moltres",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "50-60",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:badlands",
+          "minecraft:windswept_hills"
+        ],
+        "key_item": "myths_and_legends:tidal_bell_moltres"
+      }
+    },
+    {
+      "id": "mythsandlegends-moltres-2",
+      "pokemon": "moltres",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "50-60",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_volcanic",
+          "#cobblemon:is_thermal",
+          "#cobblemon:is_sky"
+        ],
+        "key_item": "myths_and_legends:tidal_bell_moltres"
+      }
+    },
+    {
+      "id": "mythsandlegends-moltres-3",
+      "pokemon": "moltres",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-60",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:badlands",
+          "minecraft:windswept_hills"
+        ]
+      }
+    },
+    {
+      "id": "mythsandlegends-moltres-4",
+      "pokemon": "moltres",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-60",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_volcanic",
+          "#cobblemon:is_thermal",
+          "#cobblemon:is_sky"
+        ]
+      }
+    }  
+  ]
+}
+

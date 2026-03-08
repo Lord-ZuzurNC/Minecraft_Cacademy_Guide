@@ -1,0 +1,39 @@
+{
+  "pokemon": {
+    "species": "diancie",
+    "ability": "clear_body",
+    "nature": "relaxed",
+    "level": 100,
+    "moves": [
+      "diamondstorm",
+      "moonblast",
+      "psyshock",
+      "irondefense"
+    ]
+  },
+  "boss": {
+    "min_perfect_ivs": 6,
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "def": 128,
+      "spd": 128
+    },
+    "held_item": "cobblemon:bright_powder"
+  },
+  "raid_tier": "TIER_SIX",
+  "raid_type": "ROCK",
+  "raid_feature": "DEFAULT",
+  "weight": 10.0,
+  "den": ["#cobblemonraiddens:default"],
+  "max_players": 4,
+  "max_clears": 1,
+  "ha_rate": 0.0,
+  "max_cheers": 3,
+  "raid_party_size": 1,
+  "health_multiplier": 70,
+  "multiplayer_health_multiplier": 1.2,
+  "shiny_rate": 10.0,
+  "max_catches": 1,
+  "raid_ai": "STRONG"
+}

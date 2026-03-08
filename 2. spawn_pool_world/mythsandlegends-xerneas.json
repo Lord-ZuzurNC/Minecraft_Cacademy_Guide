@@ -1,0 +1,86 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-xerneas-1",
+      "pokemon": "xerneas",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "50",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:flower_forest",
+          "minecraft:forest",
+          "minecraft:meadow"
+        ],
+        "key_item": "myths_and_legends:sapling_of_life"
+      }
+    },
+    {
+      "id": "mythsandlegends-xerneas-2",
+      "pokemon": "xerneas",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "50",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_forest",
+          "#cobblemon:is_magical",
+          "#cobblemon:is_floral"
+        ],
+        "key_item": "myths_and_legends:sapling_of_life"
+      }
+    },
+    {
+      "id": "mythsandlegends-xerneas-3",
+      "pokemon": "xerneas",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:flower_forest",
+          "minecraft:forest",
+          "minecraft:meadow"
+        ]
+      }
+    },
+    {
+      "id": "mythsandlegends-xerneas-4",
+      "pokemon": "xerneas",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_forest",
+          "#cobblemon:is_magical",
+          "#cobblemon:is_floral"
+        ]
+      }
+    }  
+  ]
+}
+

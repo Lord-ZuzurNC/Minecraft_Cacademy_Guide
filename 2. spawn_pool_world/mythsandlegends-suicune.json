@@ -1,0 +1,82 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-suicune-1",
+      "pokemon": "suicune",
+      "presets": [
+        "river"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "50-60",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:river"
+        ],
+        "key_item": "myths_and_legends:clear_bell_suicune"
+      }
+    },
+    {
+      "id": "mythsandlegends-suicune-2",
+      "pokemon": "suicune",
+      "presets": [
+        "river"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "50-60",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_freshwater",
+          "#cobblemon:is_cold_ocean"
+        ],
+        "key_item": "myths_and_legends:clear_bell_suicune"
+      }
+    },
+    {
+      "id": "mythsandlegends-suicune-3",
+      "pokemon": "suicune",
+      "presets": [
+        "river"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-60",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:river"
+        ]
+      }
+    },
+    {
+      "id": "mythsandlegends-suicune-4",
+      "pokemon": "suicune",
+      "presets": [
+        "river"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-60",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_freshwater",
+          "#cobblemon:is_cold_ocean"
+        ]
+      }
+    }  
+  ]
+}
+

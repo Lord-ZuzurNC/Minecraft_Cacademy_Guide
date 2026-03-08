@@ -1,0 +1,86 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-kyurem-1",
+      "pokemon": "kyurem",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "75",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_peaks",
+          "minecraft:snowy_slopes",
+          "minecraft:snowy_taiga"
+        ],
+        "key_item": "myths_and_legends:dna_splicer"
+      }
+    },
+    {
+      "id": "mythsandlegends-kyurem-2",
+      "pokemon": "kyurem",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "75",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_freezing",
+          "#cobblemon:is_glacial",
+          "#cobblemon:is_snowy_forest"
+        ],
+        "key_item": "myths_and_legends:dna_splicer"
+      }
+    },
+    {
+      "id": "mythsandlegends-kyurem-3",
+      "pokemon": "kyurem",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "75",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_peaks",
+          "minecraft:snowy_slopes",
+          "minecraft:snowy_taiga"
+        ]
+      }
+    },
+    {
+      "id": "mythsandlegends-kyurem-4",
+      "pokemon": "kyurem",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "75",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_freezing",
+          "#cobblemon:is_glacial",
+          "#cobblemon:is_snowy_forest"
+        ]
+      }
+    }  
+  ]
+}
+

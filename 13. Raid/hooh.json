@@ -1,0 +1,39 @@
+{
+  "pokemon": {
+    "species": "hooh",
+    "ability": "regenerator",
+    "nature": "impish",
+    "level": 100,
+    "moves": [
+      "sacredfire",
+      "bravebird",
+      "swordsdance",
+      "earthquake"
+    ]
+  },
+  "boss": {
+    "min_perfect_ivs": 6,
+    "level": 100,
+    "evs": {
+      "hp": 248,
+      "def": 252,
+      "spd": 8
+    },
+    "held_item": "cobblemon:heavy_duty_boots"
+  },
+  "raid_tier": "TIER_SEVEN",
+  "raid_type": "FIRE",
+  "raid_feature": "DEFAULT",
+  "weight": 3.0,
+  "den": ["#cobblemonraiddens:default"],
+  "max_players": 4,
+  "max_clears": 1,
+  "ha_rate": 0.2,
+  "max_cheers": 3,
+  "raid_party_size": 1,
+  "health_multiplier": 50,
+  "multiplayer_health_multiplier": 1.0,
+  "shiny_rate": 50.0,
+  "max_catches": 1,
+  "raid_ai": "STRONG"
+}

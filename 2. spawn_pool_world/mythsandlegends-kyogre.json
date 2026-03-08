@@ -1,0 +1,92 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-kyogre-1",
+      "pokemon": "kyogre",
+      "presets": [
+        "freshwater",
+        "underwater"
+      ],
+      "type": "pokemon",
+      "context": "submerged",
+      "bucket": "summons",
+      "level": "45-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_ocean",
+          "minecraft:deep_cold_ocean",
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_ocean",
+          "minecraft:ocean"
+        ],
+        "key_item": "myths_and_legends:blue_orb"
+      }
+    },
+    {
+      "id": "mythsandlegends-kyogre-2",
+      "pokemon": "kyogre",
+      "presets": [
+        "freshwater",
+        "underwater"
+      ],
+      "type": "pokemon",
+      "context": "submerged",
+      "bucket": "summons",
+      "level": "45-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_deep_ocean",
+          "#cobblemon:is_ocean"
+        ],
+        "key_item": "myths_and_legends:blue_orb"
+      }
+    },
+    {
+      "id": "mythsandlegends-kyogre-3",
+      "pokemon": "kyogre",
+      "presets": [
+        "freshwater",
+        "underwater"
+      ],
+      "type": "pokemon",
+      "context": "submerged",
+      "bucket": "ultra-rare",
+      "level": "45-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_ocean",
+          "minecraft:deep_cold_ocean",
+          "minecraft:deep_frozen_ocean",
+          "minecraft:deep_ocean",
+          "minecraft:ocean"
+        ]
+      }
+    },
+    {
+      "id": "mythsandlegends-kyogre-4",
+      "pokemon": "kyogre",
+      "presets": [
+        "freshwater",
+        "underwater"
+      ],
+      "type": "pokemon",
+      "context": "submerged",
+      "bucket": "ultra-rare",
+      "level": "45-70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_deep_ocean",
+          "#cobblemon:is_ocean"
+        ]
+      }
+    }
+  ]
+}
+

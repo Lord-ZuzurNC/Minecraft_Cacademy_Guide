@@ -1,0 +1,78 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-glastrier-1",
+      "pokemon": "glastrier",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_snowy_forest",
+          "#cobblemon:is_taiga",
+          "#cobblemon:is_mountain"
+        ],
+        "key_item": "myths_and_legends:iceroot_carrot"
+      }
+    },
+    {
+      "id": "mythsandlegends-glastrier-2",
+      "pokemon": "glastrier",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_snowy_forest",
+          "#cobblemon:is_taiga",
+          "#cobblemon:is_mountain"
+        ],
+        "key_item": "myths_and_legends:iceroot_carrot"
+      }
+    },
+    {
+      "id": "mythsandlegends-glastrier-3",
+      "pokemon": "glastrier",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_snowy_forest",
+          "#cobblemon:is_taiga",
+          "#cobblemon:is_mountain"
+        ]
+      }
+    },
+    {
+      "id": "mythsandlegends-glastrier-4",
+      "pokemon": "glastrier",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_snowy_forest",
+          "#cobblemon:is_taiga",
+          "#cobblemon:is_mountain"
+        ]
+      }
+    }  
+  ]
+}
+

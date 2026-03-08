@@ -1,0 +1,82 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-zapdos-1",
+      "pokemon": "zapdos",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "50-60",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:plains",
+          "minecraft:savanna"
+        ],
+        "key_item": "myths_and_legends:tidal_bell_zapdos"
+      }
+    },
+    {
+      "id": "mythsandlegends-zapdos-2",
+      "pokemon": "zapdos",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "50-60",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_sky",
+          "#cobblemon:is_mountain"
+        ],
+        "key_item": "myths_and_legends:tidal_bell_zapdos"
+      }
+    },
+    {
+      "id": "mythsandlegends-zapdos-3",
+      "pokemon": "zapdos",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-60",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:plains",
+          "minecraft:savanna"
+        ]
+      }
+    },
+    {
+      "id": "mythsandlegends-zapdos-4",
+      "pokemon": "zapdos",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-60",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_sky",
+          "#cobblemon:is_mountain"
+        ]
+      }
+    }  
+  ]
+}
+

@@ -1,0 +1,102 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-mesprit-1",
+      "pokemon": "mesprit",
+      "presets": [
+        "water_surface"
+      ],
+      "type": "pokemon",
+      "context": "surface",
+      "bucket": "summons",
+      "level": "50",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:mangrove_swamp",
+          "minecraft:swamp",
+          "#byg:is_swamp",
+          "#c:swamp",
+          "#forge:is_swamp",
+          "#wythers:is_swamp",
+          "terralith:ice_marsh",
+          "terralith:orchid_swampc",
+          "wythers:billabong"
+        ],
+        "key_item": "myths_and_legends:mesprit_plume"
+      }
+    },
+    {
+      "id": "mythsandlegends-mesprit-2",
+      "pokemon": "mesprit",
+      "presets": [
+        "water_surface"
+      ],
+      "type": "pokemon",
+      "context": "surface",
+      "bucket": "summons",
+      "level": "50",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_river",
+          "wythers:lantern_river",
+          "#minecraft:is_river",
+          "wythers:tropical_forest_river",
+          "#cobblemon:is_freshwater"
+        ],
+        "key_item": "myths_and_legends:mesprit_plume"
+      }
+    },
+    {
+      "id": "mythsandlegends-mesprit-3",
+      "pokemon": "mesprit",
+      "presets": [
+        "water_surface"
+      ],
+      "type": "pokemon",
+      "context": "surface",
+      "bucket": "ultra-rare",
+      "level": "50",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:mangrove_swamp",
+          "minecraft:swamp",
+          "#byg:is_swamp",
+          "#c:swamp",
+          "#forge:is_swamp",
+          "#wythers:is_swamp",
+          "terralith:ice_marsh",
+          "terralith:orchid_swampc",
+          "wythers:billabong"
+        ]
+      }
+    },
+    {
+      "id": "mythsandlegends-mesprit-4",
+      "pokemon": "mesprit",
+      "presets": [
+        "water_surface"
+      ],
+      "type": "pokemon",
+      "context": "surface",
+      "bucket": "ultra-rare",
+      "level": "50",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_river",
+          "wythers:lantern_river",
+          "#minecraft:is_river",
+          "wythers:tropical_forest_river",
+          "#cobblemon:is_freshwater"
+        ]
+      }
+    }  
+  ]
+} 
+

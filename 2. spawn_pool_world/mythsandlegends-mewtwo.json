@@ -1,0 +1,86 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mythsandlegends-mewtwo-1",
+      "pokemon": "mewtwo",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "70-75",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:windswept_gravelly_hills",
+          "minecraft:dark_forest",
+          "minecraft:deep_dark"
+        ],
+        "key_item": "myths_and_legends:dr_fujis_diary"
+      }
+    },
+    {
+      "id": "mythsandlegends-mewtwo-2",
+      "pokemon": "mewtwo",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "summons",
+      "level": "70-75",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_cave",
+          "#cobblemon:is_deep_dark",
+          "#cobblemon:is_spooky"
+        ],
+        "key_item": "myths_and_legends:dr_fujis_diary"
+      }
+    },
+    {
+      "id": "mythsandlegends-mewtwo-3",
+      "pokemon": "mewtwo",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70-75",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "minecraft:windswept_gravelly_hills",
+          "minecraft:dark_forest",
+          "minecraft:deep_dark"
+        ]
+      }
+    },
+    {
+      "id": "mythsandlegends-mewtwo-4",
+      "pokemon": "mewtwo",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70-75",
+      "weight": 0.001,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_cave",
+          "#cobblemon:is_deep_dark",
+          "#cobblemon:is_spooky"
+        ]
+      }
+    }  
+  ]
+}
+
