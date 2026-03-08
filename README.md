@@ -90,6 +90,8 @@ This tutorial is assuming that:
 > - config/cobblecheesescore.json → **44310**
 </details>
 
+---
+
 ## Précisions / Details
 
 <details>
