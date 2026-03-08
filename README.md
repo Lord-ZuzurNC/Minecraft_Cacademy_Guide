@@ -199,6 +199,18 @@ If you encounter any issue with this tuto you can either create an issue here or
 
 ---
 
+## Roadmap
+
+### 🇫🇷 Français 🇫🇷
+
+Je planifie de sûrement ajouter un tuto avancé pour installer un serveur en self-host, sûrement avec comment j'ai moi-même fait mon serveur.
+
+### 🇬🇧 English 🇬🇧
+
+I'm planning to maybe add an advanced tuto to explain how to install a self-hosted server, surely exactly as I'll make mine.
+
+---
+
 ## Remerciements / Thanks
 
 ### 🇫🇷 Français 🇫🇷
