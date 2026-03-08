@@ -23,7 +23,7 @@ I did the english translation.
 ## Tuto
 
 <details>
-<summary>### 🇫🇷 Français 🇫🇷</summary>
+<summary>🇫🇷 Français 🇫🇷</summary>
 
 Ce modpack est sindé en un modpack client et un serveur.
 - Le modpack client est disponible sur le site de [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy).
@@ -41,7 +41,7 @@ Il est fortement recommendé de faire un nouveau monde en suivant ce tuto.
 Si vous voulez le tutoriel en français veuillez suivre ce [README_fr](README_fr.md).
 
 <details>
-<summary>### 🇬🇧 English 🇬🇧</summary>
+<summary>🇬🇧 English 🇬🇧</summary>
 
 This modpack is divided into a client and a server modpack.
 - The client modpack is available on [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy).
@@ -63,7 +63,7 @@ If you want to follow the english tutorial please follow this [README_en](README
 ## Précisions / Details
 
 <details>
-<summary>### 🇫🇷 Français 🇫🇷</summary>
+<summary>🇫🇷 Français 🇫🇷</summary>
 
 Lorsque le tuto indique un chemin de dossier, par exemple :
 ```bash
@@ -93,7 +93,7 @@ Dans les fichiers que le tuto vous demande de remplacer :
 </details>
 
 <details>
-<summary>### 🇬🇧 English 🇬🇧</summary>
+<summary>🇬🇧 English 🇬🇧</summary>
 
 When the tuto indicate a folder path, for example:
 ```bash
