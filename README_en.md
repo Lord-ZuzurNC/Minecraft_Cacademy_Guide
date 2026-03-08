@@ -1,9 +1,5 @@
 # English tuto 🇬🇧
 
-🏗️
-Work in progress.
-🏗️
-
 ## Increasing the items loot to loot legendary items and T4 to T9 items in the Cobblemon mod injections
 
 In the `1. chests` folder, you can find `.json` files.
@@ -134,6 +130,7 @@ C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\world\region
 If you do not have generated a world yet, create a `world` folder and a `region` folder inside it.
 
 Cacademy coordinates: **X=500 ; Y=79 ; Z=-260**
+
 Pokérayou coordinates: **X=858 ; Y=142 ; Z=618**
 
 ## Add legendaries as bosses in the cobble raid dens (Thanks to Akwaa)
@@ -145,16 +142,15 @@ Replace the original in:
 C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\datapack\Cacademymons\data\cobbleraiddens\raid\boss
 ```
 
-## Commandes utiles
+## Useful commands
 
-| Command                                             | Result                                 |
-| --------------------------------------------------- | -------------------------------------- |
-| /ec lunarForecast                                   | To know the actual lunar phase         |
-| /ec lunarForecast recompute                         | Restart the service in case of error   |
-| /ec setlunarevent [moon_name]                       | Trigger a lunar event                  |
-| /setworldspawn                                      | Define the spawn point for new players |
-| /locate structure …                                 | Locate the structures                  |
-| /rctmod trainer summon_persistent [id_gym_leader]   | Spawn an arena champion                |
-| /summon rctmod:trainer_association ~ ~ ~            |
-| {NoAI:1b,PersistenceRequired:1b,Rotation:[-90f,0f]} | Spawn the card trader NPC              |
-| /whitelist add player_name                          | Add a player to the server whitelist   |
+| Command                                                                                      | Result                                 |
+| -------------------------------------------------------------------------------------------- | -------------------------------------- |
+| /ec lunarForecast                                                                            | To know the actual lunar phase         |
+| /ec lunarForecast recompute                                                                  | Restart the service in case of error   |
+| /ec setlunarevent [moon_name]                                                                | Trigger a lunar event                  |
+| /setworldspawn                                                                               | Define the spawn point for new players |
+| /locate structure …                                                                          | Locate the structures                  |
+| /rctmod trainer summon_persistent [id_gym_leader]                                            | Spawn an arena champion                |
+| /summon rctmod:trainer_association ~ ~ ~ {NoAI:1b,PersistenceRequired:1b,Rotation:[-90f,0f]} | Spawn the card trader NPC              |
+| /whitelist add player_name                                                                   | Add a player to the server whitelist   |

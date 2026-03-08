@@ -1,9 +1,5 @@
 # Tuto français 🇫🇷
 
-🏗️
-En construction.
-🏗️
-
 ## Augmenter les loots d’items pour faire apparaître les légendaires et les items T4 à T9 dans les injections du mod Cobblemon
 
 Dans le dossier `1. chests`, vous trouverez des fichiers `.json`.
@@ -134,6 +130,7 @@ C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\world\region
 Si vous n’avez pas encore généré votre monde, créez le dossier `world` puis dans ce dernier le dossier `region`.
 
 Coordonnées Cacademy : **X=500 ; Y=79 ; Z=-260**
+
 Coordonnées Pokérayou : **X=858 ; Y=142 ; Z=618**
 
 ## Ajouter les légendaires en temps que boss dans cobble raid dens (Merci à Akwaa)
@@ -147,14 +144,13 @@ C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\datapack\Cacademymons\da
 
 ## Commandes utiles
 
-| Commande                                            | Resultat                                                |
-| --------------------------------------------------- | ------------------------------------------------------- |
-| /ec lunarForecast                                   | Permet de connaître le cycle lunaire actuel             |
-| /ec lunarForecast recompute                         | Redémarre le service en cas d’erreur                    |
-| /ec setlunarevent [nom_de_la_lune]                  | Déclenche un événement lunaire                          |
-| /setworldspawn                                      | Définit le point d’apparition des nouveaux joueurs      |
-| /locate structure …                                 | Permet de localiser une structure                       |
-| /rctmod trainer summon_persistent [id_gym_leader]   | Fait apparaître un champion d’arène                     |
-| /summon rctmod:trainer_association ~ ~ ~            |
-| {NoAI:1b,PersistenceRequired:1b,Rotation:[-90f,0f]} | Fait apparaître le PNJ d’échange des cartes de dresseur |
-| /whitelist add nom_du_joueur                        | Ajoute un joueur à la whitelist du serveur              |
+| Commande                                                                                     | Resultat                                                |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| /ec lunarForecast                                                                            | Permet de connaître le cycle lunaire actuel             |
+| /ec lunarForecast recompute                                                                  | Redémarre le service en cas d’erreur                    |
+| /ec setlunarevent [nom_de_la_lune]                                                           | Déclenche un événement lunaire                          |
+| /setworldspawn                                                                               | Définit le point d’apparition des nouveaux joueurs      |
+| /locate structure …                                                                          | Permet de localiser une structure                       |
+| /rctmod trainer summon_persistent [id_gym_leader]                                            | Fait apparaître un champion d’arène                     |
+| /summon rctmod:trainer_association ~ ~ ~ {NoAI:1b,PersistenceRequired:1b,Rotation:[-90f,0f]} | Fait apparaître le PNJ d’échange des cartes de dresseur |
+| /whitelist add nom_du_joueur                                                                 | Ajoute un joueur à la whitelist du serveur              |
