@@ -1,18 +1,18 @@
-# Minecraft_Cobblemon_Guide
+# Minecraft Cacademy Guide
 
 ## 🇫🇷 Français / 🇬🇧 English
 
-### 🇫🇷 Français
+### 🇫🇷 Français 🇫🇷
 
-Eligos a créé le tuto initial en français.
+**Eligos** a créé le tuto initial en français.
 
 Rejoignez le serveur discord "Cacademy" (lien dans les remerciements de RoiCheese) et accédez au [fil](https://discord.com/channels/1463127240173949042/1476164016173879409).
 
 J'ai fait la traduction en anglais.
 
-### 🇬🇧 English
+### 🇬🇧 English 🇬🇧
 
-Eligos created the tutorial initially in french.
+**Eligos** created the tutorial initially in french.
 
 Join the "Cacademy" discord (link in the RoiCheese thanks) and go to his [thread](https://discord.com/channels/1463127240173949042/1476164016173879409).
 
@@ -22,7 +22,8 @@ I did the english translation.
 
 ## Tuto
 
-### 🇫🇷 Français
+<details>
+<summary>### 🇫🇷 Français 🇫🇷</summary>
 
 Ce modpack est sindé en un modpack client et un serveur.
 - Le modpack client est disponible sur le site de [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy).
@@ -35,10 +36,12 @@ Les mods sont à installer côté client et côté serveur, sauf indication cont
 Vous pouvez jouer en self-host, mais ce ne sera pas optimal.
 
 Il est fortement recommendé de faire un nouveau monde en suivant ce tuto.
+</details>
 
 Si vous voulez le tutoriel en français veuillez suivre ce [README_fr](README_fr.md).
 
-### 🇬🇧 English
+<details>
+<summary>### 🇬🇧 English 🇬🇧</summary>
 
 This modpack is divided into a client and a server modpack.
 - The client modpack is available on [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy).
@@ -51,6 +54,7 @@ The mods are to be installed on both side server and client but if instruction s
 You can self-host, but this will not be optimum.
 
 It is heavily advised to create a new world while following this tuto.
+</details>
 
 If you want to follow the english tutorial please follow this [README_en](README_en.md).
 
@@ -58,45 +62,70 @@ If you want to follow the english tutorial please follow this [README_en](README
 
 ## Précisions / Details
 
-### 🇫🇷 Français
+<details>
+<summary>### 🇫🇷 Français 🇫🇷</summary>
 
 Lorsque le tuto indique un chemin de dossier, par exemple :
 ```bash
-C:\Users\"user"\curseforge\minecraft\Instances\Cacademy - The Ultimate Cobblemon Academy\config\cobbleride
+C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\config\cobbleride
 ```
 👉 "user" est à remplacer par le nom de votre compte.
 
-Si vous vous appelez Timothée, cela donnera :
+Si vous vous appelez `Timothée`, cela donnera :
 ```bash
-C:\Users\Timothée\curseforge\minecraft\Instances\Cacademy - The Ultimate Cobblemon Academy\config\cobbleride
+C:\Users\Timothée\curseforge\minecraft\Instances\Cacademy\config\cobbleride
 ```
 
-Ces chemins sont pour une installation Windows, si vous êtes sur Linux vous devrez adapter accordémment.
+Ces chemins sont pour une installation <ins>Windows</ins>, si vous êtes sur Linux vous devrez adapter accordémment.
 
-Ces chemins sont pour CurseForge, il vous suffira de remplacer pour Modrinth ou Prism ou tout autre laucher si vous n'utilisez pas CurseForge.
+Ces chemins sont pour <ins>CurseForge</ins>, il vous suffira de remplacer pour Modrinth ou Prism ou tout autre laucher si vous n'utilisez pas CurseForge.
 
-### 🇬🇧 English
+
+Dans les fichiers du jeu, il existe un dossier contenant des fichiers nommés **t1**, **t2**, **t3**... jusqu’à **t9**.
+
+Ce sont des fichiers qui répertorient des items (principalement issus de mods), comme les fossiles par exemple.
+
+Ils déterminent les chances d’apparition de ces objets dans les coffres (ce sont en quelque sorte des listes de loot).
+
+Dans les fichiers que le tuto vous demande de remplacer :
+- La liste des items légendaires sont ajoutés,
+- Pour les autres items moddées, il est simplement indiqué au jeu de choisir aléatoirement un item dans ces listes.
+</details>
+
+<details>
+<summary>### 🇬🇧 English 🇬🇧</summary>
 
 When the tuto indicate a folder path, for example:
 ```bash
-C:\Users\"user"\curseforge\minecraft\Instances\Cacademy - The Ultimate Cobblemon Academy\config\cobbleride
+C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\config\cobbleride
 ```
 👉 "user" is to be replaced with your username.
 
-If your username is Timothée, it will  gives:
+If your username is `Timothée`, it will  gives:
 ```bash
-C:\Users\Timothée\curseforge\minecraft\Instances\Cacademy - The Ultimate Cobblemon Academy\config\cobbleride
+C:\Users\Timothée\curseforge\minecraft\Instances\Cacademy\config\cobbleride
 ```
 
-These paths are given for Windows, if you are under Linux you will need to adapt accordingly.
+These paths are given for <ins>Windows</ins>, if you are under Linux you will need to adapt accordingly.
 
-These paths are for CurseForge, you'll need to change them for Modrinth or Prism or any other MC launcher if you do not use CurseForge.
+These paths are for <ins>CurseForge</ins>, you'll need to change them for Modrinth or Prism or any other MC launcher if you do not use CurseForge.
+
+In the game files, it exists a folder with files called **t1**, **t2**, **t3**... until **t9**.
+
+These are file who declares items (mainly from mods) like fossils.
+
+They determins the probability of appearing in chests (that's a kind of list of loot).
+
+In the file the tuto ask you to replace:
+- Legendary items are addes,
+- For all other modded items, that's simply indicating to pick randomly an item from these lists.
+</details>
 
 ---
 
 ## Limitation Github / Github Limitation
 
-### 🇫🇷 Français
+### 🇫🇷 Français 🇫🇷
 
 > Github limite la taille des fichiers à 100MB. Certains fichiers dans ce repo sont trop gros donc ils sont divisé en plusieurs partis de 100MB.
 >
@@ -104,7 +133,7 @@ These paths are for CurseForge, you'll need to change them for Modrinth or Prism
 >
 > Faites un click droit sur un des fichiers divisé et cliquez sur "Join Split Files". Je donne, plus bas, une liste exhaustive de fichiers divisés pour que vous puissiez les fusionner sans devoir les chercher manuellement.
 
-### 🇬🇧 English
+### 🇬🇧 English 🇬🇧
 
 > Github limits the size of file to 100MB. Some files in the repo will be more than this limit so I splitted up these files into 100MB chunks.
 >
@@ -114,7 +143,7 @@ These paths are for CurseForge, you'll need to change them for Modrinth or Prism
 
 ### File and Folder Splitter Pro
 
-![File and Folder Splitter Pro VSCode plugin](docs/Images/VSCode_File-Splitter.png)
+![File and Folder Splitter Pro VSCode plugin](resources/VSCode_File-Splitter.png)
 
 ### Fichiers divisés / Splitted files
 
@@ -126,11 +155,11 @@ Aucun / None
 
 ## Problèmes / Issues
 
-### 🇫🇷 Français
+### 🇫🇷 Français 🇫🇷
 
 Si vous rencontrez un problème avec le tutoriel vous pouvez soit créer un ticket ici ou bien en parler sur le serveur discord dans ce [fil](https://discord.com/channels/1463127240173949042/1476168680206368880).
 
-### 🇬🇧 English
+### 🇬🇧 English 🇬🇧
 
 If you encounter any issue with this tuto you can either create an issue here or ask for help in this discord [thread](https://discord.com/channels/1463127240173949042/1476168680206368880).
 
@@ -138,9 +167,9 @@ If you encounter any issue with this tuto you can either create an issue here or
 
 ## Remerciements / Thanks
 
-### 🇫🇷 Français
+### 🇫🇷 Français 🇫🇷
 
-BIG THANKS pour 👑RoiCheese.
+BIG THANKS pour **👑RoiCheese**.
 
 > Allez voir ses réseaux sociaux : [Youtube](https://www.youtube.com/@RoiCheese), [Twitch](https://www.twitch.tv/roicheese), [Discord](https://discord.gg/fYmPwMBjdB), et si vous le pouvez et vous sentez généreux vous pouvez aussi le soutenir sur [Paypal](https://www.paypal.com/paypalme/che3sepay).
 
@@ -156,9 +185,9 @@ Eligos souhaite également remercier :
 - Raws
 - Akwaa
 
-### 🇬🇧 English
+### 🇬🇧 English 🇬🇧
 
-BIG THANKS to 👑RoiCheese.
+BIG THANKS to **👑RoiCheese**.
 
 >Look out his social networks: [Youtube](https://www.youtube.com/@RoiCheese), [Twitch](https://www.twitch.tv/roicheese), [Discord](https://discord.gg/fYmPwMBjdB), and if you can and feel generous help him via [Paypal](https://www.paypal.com/paypalme/che3sepay).
 
