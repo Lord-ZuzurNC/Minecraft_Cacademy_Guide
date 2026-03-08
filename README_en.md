@@ -153,4 +153,5 @@ C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\datapack\Cacademymons\da
 | /locate structure …                                                                          | Locate the structures                  |
 | /rctmod trainer summon_persistent [id_gym_leader]                                            | Spawn an arena champion                |
 | /summon rctmod:trainer_association ~ ~ ~ {NoAI:1b,PersistenceRequired:1b,Rotation:[-90f,0f]} | Spawn the card trader NPC              |
+| /schedulerestart                                                                             | Schedule a restart/stop/maintenance    |
 | /whitelist add player_name                                                                   | Add a player to the server whitelist   |

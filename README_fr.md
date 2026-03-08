@@ -153,4 +153,5 @@ C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\datapack\Cacademymons\da
 | /locate structure …                                                                          | Permet de localiser une structure                       |
 | /rctmod trainer summon_persistent [id_gym_leader]                                            | Fait apparaître un champion d’arène                     |
 | /summon rctmod:trainer_association ~ ~ ~ {NoAI:1b,PersistenceRequired:1b,Rotation:[-90f,0f]} | Fait apparaître le PNJ d’échange des cartes de dresseur |
+| /schedulerestart                                                                             | Configurer un restart/stop/maintenance                  |
 | /whitelist add nom_du_joueur                                                                 | Ajoute un joueur à la whitelist du serveur              |

@@ -60,6 +60,36 @@ If you want to follow the english tutorial please follow this [README_en](README
 
 ---
 
+## Prérequis / Prerequisites
+
+<details>
+<summary>🇫🇷 Français 🇫🇷</summary>
+
+Ce tutriel assume que :
+- Vous avez installé le modpack serveur depuis le discord Cacademy sur un serveur self-host ou un service d'hosting (recommandé, le plus simple) comme [Minestrator](https://minestrator.com/a/ROICHEESE) (lien affilié de 👑RoiCheese, -10% code `ROICHEESE`).
+- Vous avez installé le modpack client depuis le site de [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy) sur votre PC.
+
+> Notez que tous les autres services d'hosting n'ont **<ins>pas</ins>** le véritable modpack serveur, il faudra donc les traiter comme un self-host et tout faire à la main.
+> Si self-host alors les ports à ouvrir sont:
+> - server.properties → **22055** + **25575**
+> - config/voicechat/voicechat-server.properties → **42158**
+> - config/cobblecheesescore.json → **44310**
+</details>
+
+<details>
+<summary>🇬🇧 English 🇬🇧</summary>
+
+This tutorial is assuming that:
+- You did install the server modpack from the Cacademy server on a self-host server or a hosting service (recommanded) like [Minestrator](https://minestrator.com/a/ROICHEESE) (affiliated link of 👑RoiCheese, -10% code `ROICHEESE`).
+- You did install the client modpack from the [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy) site on your PC.
+
+> Please note that any other hosting service will **<ins>not</ins>** the true server modpack, thus you'll have to trat it as a self-host and do everything accordingly.
+> If you selfhost then you'll have to open these ports:
+> - server.properties → **22055** + **25575**
+> - config/voicechat/voicechat-server.properties → **42158**
+> - config/cobblecheesescore.json → **44310**
+</details>
+
 ## Précisions / Details
 
 <details>
