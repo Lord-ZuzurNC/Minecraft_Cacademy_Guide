@@ -38,7 +38,9 @@ Vous pouvez jouer en self-host, mais ce ne sera pas optimal.
 Il est fortement recommendé de faire un nouveau monde en suivant ce tuto.
 </details>
 
-Si vous voulez le tutoriel en français veuillez suivre ce [README_fr](README_fr.md).
+Si vous voulez suivre le tutoriel en français veuillez lire ce [README_fr](README_fr.md).
+
+Pour plus d'astuce veuillez lire ce [Astuces-Tips](Astuces-Tips.md).
 
 <details>
 <summary>🇬🇧 English 🇬🇧</summary>
@@ -56,7 +58,9 @@ You can self-host, but this will not be optimum.
 It is heavily advised to create a new world while following this tuto.
 </details>
 
-If you want to follow the english tutorial please follow this [README_en](README_en.md).
+If you want to follow the english tutorial please read this [README_en](README_en.md).
+
+For more tips please read this [Astuces-Tips](Astuces-Tips.md).
 
 ---
 
@@ -66,7 +70,7 @@ If you want to follow the english tutorial please follow this [README_en](README
 <summary>🇫🇷 Français 🇫🇷</summary>
 
 Ce tutriel assume que :
-- Vous avez installé le modpack serveur depuis le discord Cacademy sur un serveur self-host ou un service d'hosting (recommandé, le plus simple) comme [Minestrator](https://minestrator.com/a/ROICHEESE) (lien affilié de 👑RoiCheese, -10% code `ROICHEESE`).
+- Vous avez installé le modpack serveur depuis le discord Cacademy sur un serveur self-host ou un service d'hosting (recommandé, le plus simple) comme [Minestrator](https://minestrator.com/a/ROICHEESE) (lien affilié de 👑RoiCheese, -10% code `ROICHEESE` pour le premier mois).
 - Vous avez installé le modpack client depuis le site de [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy) sur votre PC.
 
 > Notez que tous les autres services d'hosting n'ont **<ins>pas</ins>** le véritable modpack serveur, il faudra donc les traiter comme un self-host et tout faire à la main.
@@ -81,7 +85,7 @@ Ce tutriel assume que :
 <summary>🇬🇧 English 🇬🇧</summary>
 
 This tutorial is assuming that:
-- You did install the server modpack from the Cacademy server on a self-host server or a hosting service (recommanded) like [Minestrator](https://minestrator.com/a/ROICHEESE) (affiliated link of 👑RoiCheese, -10% code `ROICHEESE`).
+- You did install the server modpack from the Cacademy server on a self-host server or a hosting service (recommanded) like [Minestrator](https://minestrator.com/a/ROICHEESE) (affiliated link of 👑RoiCheese, -10% code `ROICHEESE` for the first month).
 - You did install the client modpack from the [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy) site on your PC.
 
 > Please note that any other hosting service will **<ins>not</ins>** the true server modpack, thus you'll have to trat it as a self-host and do everything accordingly.
@@ -165,7 +169,7 @@ Si vous rencontrez un problème avec le tutoriel vous pouvez soit créer un tick
 
 ### 🇬🇧 English 🇬🇧
 
-If you encounter any issue with this tuto you can either create an issue here or ask for help in this discord [thread](https://discord.com/channels/1463127240173949042/1476168680206368880).
+If you encounter any issue with this tuto you can either create an issue here or ask for help in this discord [thread](https://discord.com/channels/1463127240173949042/1476168680206368880) (French thread, you can create a new English thread if you don't speak french).
 
 ---
 
