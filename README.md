@@ -1,8 +1,27 @@
-# Minecraft Cacademy Guide
+# Minecraft Arkensia Guide
+
+> Une nouvelle grosse update + changement de nom, Arkensia 4.0 Beta, est sortie. Ce tutoriel devrait être mis à jour bientôt.
+> Pour le moment, ne faites pas de mise à jour ni d'installation de nouveau serveur car la 4.1 devrait bientôt sortir à la suite des retours des joueurs.
+> 
+> A big new update + rebrand, Arkensia 4.0 Beta, is released. This tutorial should soon be updated.
+> For now, do not upgrade nor create your new server as 4.1 will soon be released to address the first player feedback.
+
+| #   | 🇫🇷 Français                              | 🇬🇧 English                                  |
+| --- | --------------------------------------- | ------------------------------------------ |
+| 1   | [Introduction](#-français---english)    | [Introduction](#-français---english)       |
+| 2   | [Tuto](#tuto)                           | [Tuto](#tuto)                              |
+| 3   | [Prérequis](#prérequis--prerequisites)  | [Prerequisites](#prérequis--prerequisites) |
+| 4   | [Précisions](#précisions--details)      | [Details](#précisions--details)            |
+| 5   | [Problèmes](#problèmes--issues)         | [Issues](#problèmes--issues)               |
+| 6   | [Remerciements](#remerciements--thanks) | [Thanks](#remerciements--thanks)           |
+
+---
 
 ## 🇫🇷 Français / 🇬🇧 English
 
 ### 🇫🇷 Français 🇫🇷
+
+Ceci est un **tutoriel de customisation uniquement**, vous devez suivre le tutoriel d'installation depuis le serveur discord de RoiCheese puis suivre ce tutoriel si vous souhaitez customiser votre serveur.
 
 **Eligos** a créé le tuto initial en français.
 
@@ -12,11 +31,13 @@ J'ai fait la traduction en anglais.
 
 ### 🇬🇧 English 🇬🇧
 
-**Eligos** created the tutorial initially in french.
+That is a **customization tutorial only**, you'll need to follow the installation tutorial from RoiCheese discord server then follow this tutorial to customize your server.
+
+**Eligos** created the tutorial initially in French.
 
 Join the "Cacademy" discord (link in the RoiCheese thanks) and go to his [thread](https://discord.com/channels/1463127240173949042/1476164016173879409).
 
-I did the english translation.
+I did the English translation.
 
 ---
 
@@ -25,8 +46,8 @@ I did the english translation.
 <details>
 <summary>🇫🇷 Français 🇫🇷</summary>
 
-Ce modpack est sindé en un modpack client et un serveur.
-- Le modpack client est disponible sur le site de [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy).
+Ce modpack est divisé en un modpack client et un serveur.
+- Le modpack client est disponible sur le site de [CurseForge](https://www.curseforge.com/minecraft/modpacks/arkensia).
 - Le modpack serveur est disponible uniquement en rejoignant le serveur discord.
 
 Les mods sont à installer côté client et côté serveur, sauf indication contraire.
@@ -35,21 +56,21 @@ Les mods sont à installer côté client et côté serveur, sauf indication cont
 
 Vous pouvez jouer en self-host, mais ce ne sera pas optimal.
 
-Il est fortement recommendé de faire un nouveau monde en suivant ce tuto.
+Il est fortement recommandé de faire un nouveau monde en suivant ce tuto.
 </details>
 
 Si vous voulez suivre le tutoriel en français veuillez lire ce [README_fr](README_fr.md).
 
-Pour plus d'astuce veuillez lire ce [Astuces-Tips](Astuces-Tips.md).
+Pour plus d'astuces veuillez lire ce [Astuces-Tips](Astuces-Tips.md).
 
 <details>
 <summary>🇬🇧 English 🇬🇧</summary>
 
 This modpack is divided into a client and a server modpack.
-- The client modpack is available on [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy).
+- The client modpack is available on [CurseForge](https://www.curseforge.com/minecraft/modpacks/arkensia).
 - The server modpack is only available if you join the discord.
 
-The mods are to be installed on both side server and client but if instruction says othewise.
+The mods are to be installed on both side server and client unless stated otherwise.
 
 ⚠️ As a reminder, this modpack has been created to be played with a server.
 
@@ -58,7 +79,7 @@ You can self-host, but this will not be optimum.
 It is heavily advised to create a new world while following this tuto.
 </details>
 
-If you want to follow the english tutorial please read this [README_en](README_en.md).
+If you want to follow the English tutorial please read this [README_en](README_en.md).
 
 For more tips please read this [Astuces-Tips](Astuces-Tips.md).
 
@@ -69,9 +90,9 @@ For more tips please read this [Astuces-Tips](Astuces-Tips.md).
 <details>
 <summary>🇫🇷 Français 🇫🇷</summary>
 
-Ce tutriel assume que :
+Ce tutoriel assume que :
 - Vous avez installé le modpack serveur depuis le discord Cacademy sur un serveur self-host ou un service d'hosting (recommandé, le plus simple) comme [Minestrator](https://minestrator.com/a/ROICHEESE) (lien affilié de 👑RoiCheese, -10% code `ROICHEESE` pour le premier mois).
-- Vous avez installé le modpack client depuis le site de [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy) sur votre PC.
+- Vous avez installé le modpack client depuis le site de [CurseForge](https://www.curseforge.com/minecraft/modpacks/arkensia) sur votre PC.
 
 > Notez que tous les autres services d'hosting n'ont **<ins>pas</ins>** le véritable modpack serveur, il faudra donc les traiter comme un self-host et tout faire à la main.
 > 
@@ -85,10 +106,10 @@ Ce tutriel assume que :
 <summary>🇬🇧 English 🇬🇧</summary>
 
 This tutorial is assuming that:
-- You did install the server modpack from the Cacademy server on a self-host server or a hosting service (recommanded) like [Minestrator](https://minestrator.com/a/ROICHEESE) (affiliated link of 👑RoiCheese, -10% code `ROICHEESE` for the first month).
-- You did install the client modpack from the [CurseForge](https://www.curseforge.com/minecraft/modpacks/cacademy) site on your PC.
+- You did install the server modpack from the Cacademy server on a self-host server or a hosting service (recommended) like [Minestrator](https://minestrator.com/a/ROICHEESE) (affiliated link of 👑RoiCheese, -10% code `ROICHEESE` for the first month).
+- You did install the client modpack from the [CurseForge](https://www.curseforge.com/minecraft/modpacks/arkensia) site on your PC.
 
-> Please note that any other hosting service will **<ins>not</ins>** the true server modpack, thus you'll have to trat it as a self-host and do everything accordingly.
+> Please note that any other hosting service will **<ins>not</ins>** have the true server modpack, thus you'll have to treat it as a self-host and do everything accordingly.
 > 
 > If you selfhost then you'll have to open these ports:
 > - server.properties → **22055** + **25575**
@@ -114,9 +135,9 @@ Si vous vous appelez `Timothée`, cela donnera :
 C:\Users\Timothée\curseforge\minecraft\Instances\Cacademy\config\cobbleride
 ```
 
-Ces chemins sont pour une installation <ins>Windows</ins>, si vous êtes sur Linux vous devrez adapter accordémment.
+Ces chemins sont pour une installation <ins>Windows</ins>, si vous êtes sur Linux vous devrez adapter en conséquence.
 
-Ces chemins sont pour <ins>CurseForge</ins>, il vous suffira de remplacer pour Modrinth ou Prism ou tout autre laucher si vous n'utilisez pas CurseForge.
+Ces chemins sont pour <ins>CurseForge</ins>, il vous suffira de remplacer pour Modrinth ou Prism ou tout autre launcher si vous n'utilisez pas CurseForge.
 
 
 Dans les fichiers du jeu, il existe un dossier contenant des fichiers nommés **t1**, **t2**, **t3**... jusqu’à **t9**.
@@ -133,13 +154,13 @@ Dans les fichiers que le tuto vous demande de remplacer :
 <details>
 <summary>🇬🇧 English 🇬🇧</summary>
 
-When the tuto indicate a folder path, for example:
+When the tuto indicates a folder path, for example:
 ```bash
 C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\config\cobbleride
 ```
 👉 "user" is to be replaced with your username.
 
-If your username is `Timothée`, it will  gives:
+If your username is `Timothée`, it will give:
 ```bash
 C:\Users\Timothée\curseforge\minecraft\Instances\Cacademy\config\cobbleride
 ```
@@ -148,15 +169,15 @@ These paths are given for <ins>Windows</ins>, if you are under Linux you will ne
 
 These paths are for <ins>CurseForge</ins>, you'll need to change them for Modrinth or Prism or any other MC launcher if you do not use CurseForge.
 
-In the game files, it exists a folder with files called **t1**, **t2**, **t3**... until **t9**.
+In the game files, there is a folder with files called **t1**, **t2**, **t3**... until **t9**.
 
-These are file who declares items (mainly from mods) like fossils.
+These are files that declare items (mainly from mods) like fossils.
 
-They determins the probability of appearing in chests (that's a kind of list of loot).
+They determine the probability of appearing in chests (that's a kind of list of loot).
 
 In the file the tuto ask you to replace:
-- Legendary items are addes,
-- For all other modded items, that's simply indicating to pick randomly an item from these lists.
+- Legendary items are added,
+- For all other modded items, it simply tells the game to randomly pick an item from these lists.
 </details>
 
 ---
@@ -173,18 +194,6 @@ If you encounter any issue with this tuto you can either create an issue here or
 
 ---
 
-## Roadmap
-
-### 🇫🇷 Français 🇫🇷
-
-Je planifie de sûrement ajouter un tuto avancé pour installer un serveur en self-host, sûrement avec comment j'ai moi-même fait mon serveur.
-
-### 🇬🇧 English 🇬🇧
-
-I'm planning to maybe add an advanced tuto to explain how to install a self-hosted server, surely exactly as I'll make mine.
-
----
-
 ## Remerciements / Thanks
 
 ### 🇫🇷 Français 🇫🇷
@@ -193,10 +202,10 @@ BIG THANKS pour **👑RoiCheese**.
 
 > Allez voir ses réseaux sociaux : [Youtube](https://www.youtube.com/@RoiCheese), [Twitch](https://www.twitch.tv/roicheese), [Discord](https://discord.gg/fYmPwMBjdB), et si vous le pouvez et vous sentez généreux vous pouvez aussi le soutenir sur [Paypal](https://www.paypal.com/paypalme/che3sepay).
 
-Je voudrais aussi spécialement recmercier des membres discords :
-- Eligos - Qui, encore une fois, à créé ce tuto de A à Z.
-- Octoj - Avec qui nous avons eu de longues discussions sur le modpack, avec Eliigos.
-- Tous les autres membres des discords de "Cacademy" ainsi que "Cobblemon   Academy".
+Je voudrais aussi spécialement remercier des membres discords :
+- Eligos - Qui, encore une fois, a créé ce tuto de A à Z.
+- Octoj - Avec qui nous avons eu de longues discussions sur le modpack, avec Eligos.
+- Tous les autres membres des discords de "Cacademy" ainsi que "Cobblemon Academy".
 
 Eligos souhaite également remercier :
 - Johann.but
@@ -209,14 +218,14 @@ Eligos souhaite également remercier :
 
 BIG THANKS to **👑RoiCheese**.
 
->Look out his social networks: [Youtube](https://www.youtube.com/@RoiCheese), [Twitch](https://www.twitch.tv/roicheese), [Discord](https://discord.gg/fYmPwMBjdB), and if you can and feel generous help him via [Paypal](https://www.paypal.com/paypalme/che3sepay).
+> Check out his social networks: [Youtube](https://www.youtube.com/@RoiCheese), [Twitch](https://www.twitch.tv/roicheese), [Discord](https://discord.gg/fYmPwMBjdB), and if you can and feel generous help him via [Paypal](https://www.paypal.com/paypalme/che3sepay).
 
-I would also like specifically thanks these discord members:
+I would also like to specifically thank these discord members:
 - Eligos - Who, again, created this tuto in its entirety.
-- Octoj - Which we had conversation, with Eligos, about the modpack.
+- Octoj - With whom we had conversations, with Eligos, about the modpack.
 - All other person of the "Cacademy" and "Cobblemon Academy" Discord servers.
 
-Eligos would also like to thanks:
+Eligos would also like to thank:
 - Johann.but
 - Atnos
 - KaNaWeeD447

@@ -1,18 +1,27 @@
 # Minecraft Cacademy Astuce/Tips
 
+| # | 🇫🇷 Astuce | 🇬🇧 Tip |
+|---|---|---|
+| 1 | [Optimiser son serveur Minestrator](#optimiser-son-serveur-minestrator-ou-autre-serveur-self-host) | [Minestrator server optimisation](#optimisation-of-your-minestrator-server-or-any-other-self-hosted-server) |
+| 2 | [Raccourcis et fix de raccourcis](#raccourcis-et-fix-de-raccourcis) | [Keybinds and keybinds fixes](#keybinds-and-keybinds-fixes) |
+| 3 | [Machine à fossile crash serveur](#machine-à-fossile-crash-serveur) | [Fossil machine server crash](#fossil-machine-server-crash) |
+| 4 | [Évoluer Evoli en nouvelles Eeveelutions](#comment-évoluer-evoli-vers-les-nouvelles-eeveelutions) | [How to evolve Eevee to new Eeveelutions](#how-to-evolve-eevee-to-the-new-eeveelutions) |
+
+---
+
 ## 🇫🇷 Français 🇫🇷
 
 ### Optimiser son serveur Minestrator (ou autre serveur self-host)
 
 Lisez ce [fil](https://discord.com/channels/1463127240173949042/1473624096645578825).
 
-### Racourcis et fix de racourcis
+### Raccourcis et fix de raccourcis
 
-Pour changer un racourcis clavier il vous faut faire `ECHAP` > `Contrôles` > `Assignation des touches`.
+Pour changer un raccourcis clavier il vous faut faire `ECHAP` > `Contrôles` > `Assignation des touches`.
 
-Certaines touches sont configuré sur plusieurs mods. Il faut donc supprimer des assignations pour éviter les effets indérisables.
+Certaines touches sont configurées sur plusieurs mods. Il faut donc supprimer des assignations pour éviter les effets indésirables.
 
-Dans la barre de recherche en haut écrivez `key:` suivi de la touche que vous voulez vérifier (`key:B` pour vérifier les assignations comprennant la touche B).
+Dans la barre de recherche en haut écrivez `key:` suivi de la touche que vous voulez vérifier (`key:B` pour vérifier les assignations comprenant la touche B).
 
 Touches à supprimer :
 - **B** → Gardez uniquement "Ouvrir le sac à dos"
@@ -20,10 +29,10 @@ Touches à supprimer :
 - **M** → Gardez uniquement "Afficher/cacher la carte en plein écran"
 - **K** → Gardez uniquement "Open Armor Config"
 
-Racourcis utiles (en plus de ceux cité ci-dessus) :
-- **R** → Lancer le pokémon séléctionné
+Racourcis utiles (en plus de ceux cités ci-dessus) :
+- **R** → Lancer le pokémon sélectionné
 - **C** → Ouvrir le résumé (voir la team Pokémon)
-- **V** → Interface utilisateur du chat vocale
+- **V** → Interface utilisateur du chat vocal
 
 ### Machine à fossile crash serveur
 
@@ -45,7 +54,7 @@ Read this [thread](https://discord.com/channels/1463127240173949042/147362409664
 
 To change your keybinds do `ESC` > `Controls` > `Key Binds`.
 
-Some keys are configured on multiple mods. You'll so need to delete any extra binds to avoid conflicts.
+Some keys are configured on multiple mods. You'll therefore need to delete any extra binds to avoid conflicts.
 
 In the top search bar, write `key:` followed by the key you want to check (`key:B` to check the binds for the B key).
 
@@ -55,7 +64,7 @@ Binds to delete:
 - **M** → Keep only "Show/hide Fullscreen Map"
 - **K** → Keep only "Open Armor Config"
 
-Useful keybinds (in addition of the aboves):
+Useful keybinds (in addition to the above):
 - **R** → Throw Selected Pokémon
 - **C** → Open Summary (Open the Pokémon team)
 - **V** → Voice Chat Menu
