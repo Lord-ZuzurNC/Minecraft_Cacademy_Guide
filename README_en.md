@@ -1,21 +1,22 @@
 # English tuto 🇬🇧
 
-| # | Chapter |
-|---|---|
-| 1 | [Legendary & T4-T9 loot (Cobblemon chests)](#increasing-the-items-loot-to-loot-legendary-items-and-t4-to-t9-items-in-the-cobblemon-mod-injections) |
-| 2 | [Natural spawn of legendaries + fix 4 calamities](#activate-the-natural-spawn-of-legendaries--fix-of-the-4-calamities-thanks-to-raws) |
-| 3 | [Global waystones](#make-waystones-global) |
-| 4 | [Remove sprint endurance cost (Cobbleride)](#removing-endurance-cost-when-sprinting-in-cobbleride) |
-| 5 | [Alpha Pokémon spawn announce with coordinates](#modify-the-spawning-announce-of-aplha-pokémon-and-show-coordinates) |
-| 6 | [Generate more structures](#activate-and-generate-more-structures) |
-| 7 | [Useful mods compatible 3.1.X](#useful-mods--nice-and-compatible-31x) |
-| 8 | [Ultra Wormhole appearance chance](#increase-the-appearance-chance-of-ultra-wormhole) |
-| 9 | [Legendary & T5-T9 loot (Blue Towers)](#add-the-item-loots-to-loot-legendaries-and-t5-to-t9-items-in-blue-towers) |
-| 10 | [Super Candies XS→XL crafts](#add-the-super-candies-xs--xl--thanks-to-johannbut) |
-| 11 | [Shiny alerts with player name](#activate-shiny-alerts-with-the-nearest-player-name-thanks-to-raws) |
-| 12 | [PokéRayou season 2 spawn](#add-the-spawn-like-in-pokerayou-season-2) |
-| 13 | [Legendaries as bosses in cobble raid dens](#add-legendaries-as-bosses-in-the-cobble-raid-dens-thanks-to-akwaa) |
-| 14 | [Useful commands](#useful-commands) |
+| #   | Chapter                                                                                                                                            |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Legendary & T4-T9 loot (Cobblemon chests)](#increasing-the-items-loot-to-loot-legendary-items-and-t4-to-t9-items-in-the-cobblemon-mod-injections) |
+| 2   | [Natural spawn of legendaries + fix 4 calamities](#activate-the-natural-spawn-of-legendaries--fix-of-the-4-calamities-thanks-to-raws)              |
+| 3   | [Global waystones](#make-waystones-global)                                                                                                         |
+| 4   | [Remove sprint endurance cost (Cobbleride)](#removing-endurance-cost-when-sprinting-in-cobbleride)                                                 |
+| 5   | [Alpha Pokémon spawn announce with coordinates](#modify-the-spawning-announce-of-aplha-pokémon-and-show-coordinates)                               |
+| 6   | [Generate more structures](#activate-and-generate-more-structures)                                                                                 |
+| 7   | [Useful mods compatible 3.1.X](#useful-mods--nice-and-compatible-31x)                                                                              |
+| 8   | [Ultra Wormhole appearance chance](#increase-the-appearance-chance-of-ultra-wormhole)                                                              |
+| 9   | [Legendary & T5-T9 loot (Blue Towers)](#add-the-item-loots-to-loot-legendaries-and-t5-to-t9-items-in-blue-towers)                                  |
+| 10  | [Super Candies XS→XL crafts](#add-the-super-candies-xs--xl--thanks-to-johannbut)                                                                   |
+| 11  | [Shiny alerts with player name](#activate-shiny-alerts-with-the-nearest-player-name-thanks-to-raws)                                                |
+| 12  | [PokéRayou season 2 spawn](#add-the-spawn-like-in-pokerayou-season-2)                                                                              |
+| 13  | [Legendaries as bosses in cobble raid dens](#add-legendaries-as-bosses-in-the-cobble-raid-dens-thanks-to-akwaa)                                    |
+| 14  | [Translate FTBQuest in French](#translate-ftbquest-in-french)                                                                                      |
+| 15  | [Useful commands](#useful-commands)                                                                                                                |
 
 ---
 
@@ -159,6 +160,15 @@ In the `13. raid` folder, you can find `.json` files.
 Replace the original in:
 ```bash
 C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\datapack\Cacademymons\data\cobbleraiddens\raid\boss
+```
+
+## Translate FTBQuest in French
+
+In the `14.FTB_quests` folder, you can find the `fr_fr.snbt` file.
+
+To place in :
+```bash
+C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\config/ftbquest/quests/lang
 ```
 
 ## Useful commands

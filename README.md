@@ -1,9 +1,12 @@
 # Minecraft Arkensia Guide
 
 > Une nouvelle grosse update + changement de nom, Arkensia 4.0 Beta, est sortie. Ce tutoriel devrait être mis à jour bientôt.
-> Pour le moment, ne faites pas de mise à jour ni d'installation de nouveau serveur car la 4.1 devrait bientôt sortir à la suite des retours des joueurs.
 > 
+> Pour le moment, ne faites pas de mise à jour ni d'installation de nouveau serveur car la 4.1 devrait bientôt sortir à la suite des retours des joueurs.
+>
+
 > A big new update + rebrand, Arkensia 4.0 Beta, is released. This tutorial should soon be updated.
+> 
 > For now, do not upgrade nor create your new server as 4.1 will soon be released to address the first player feedback.
 
 | #   | 🇫🇷 Français                              | 🇬🇧 English                                  |
@@ -25,9 +28,9 @@ Ceci est un **tutoriel de customisation uniquement**, vous devez suivre le tutor
 
 **Eligos** a créé le tuto initial en français.
 
-Rejoignez le serveur discord "Cacademy" (lien dans les remerciements de RoiCheese) et accédez au [fil](https://discord.com/channels/1463127240173949042/1476164016173879409).
-
 J'ai fait la traduction en anglais.
+
+Rejoignez le serveur discord "Cacademy" (lien dans les remerciements de RoiCheese) et accédez au [fil](https://discord.com/channels/1463127240173949042/1476164016173879409).
 
 ### 🇬🇧 English 🇬🇧
 
@@ -35,9 +38,9 @@ That is a **customization tutorial only**, you'll need to follow the installatio
 
 **Eligos** created the tutorial initially in French.
 
-Join the "Cacademy" discord (link in the RoiCheese thanks) and go to his [thread](https://discord.com/channels/1463127240173949042/1476164016173879409).
-
 I did the English translation.
+
+Join the "Cacademy" discord (link in the RoiCheese thanks) and go to his [thread](https://discord.com/channels/1463127240173949042/1476164016173879409).
 
 ---
 
@@ -205,6 +208,7 @@ BIG THANKS pour **👑RoiCheese**.
 Je voudrais aussi spécialement remercier des membres discords :
 - Eligos - Qui, encore une fois, a créé ce tuto de A à Z.
 - Octoj - Avec qui nous avons eu de longues discussions sur le modpack, avec Eligos.
+- AzLorD - Qui a fait la traduction des quêtes FTBQuest en français.
 - Tous les autres membres des discords de "Cacademy" ainsi que "Cobblemon Academy".
 
 Eligos souhaite également remercier :
@@ -223,6 +227,7 @@ BIG THANKS to **👑RoiCheese**.
 I would also like to specifically thank these discord members:
 - Eligos - Who, again, created this tuto in its entirety.
 - Octoj - With whom we had conversations, with Eligos, about the modpack.
+- AzLorD - Who translated FTBQuest quests in French.
 - All other person of the "Cacademy" and "Cobblemon Academy" Discord servers.
 
 Eligos would also like to thank:

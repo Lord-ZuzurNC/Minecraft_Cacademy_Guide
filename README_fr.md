@@ -1,21 +1,22 @@
 # Tuto français 🇫🇷
 
-| # | Chapitre |
-|---|---|
-| 1 | [Loots légendaires T4-T9 (coffres Cobblemon)](#augmenter-les-loots-ditems-pour-faire-apparaître-les-légendaires-et-les-items-t4-à-t9-dans-les-injections-du-mod-cobblemon) |
-| 2 | [Spawn naturel des légendaires + fix des 4 fléaux](#activer-le-spawn-naturel-des-légendaires--correction-des-4-fléaux-merci-à-raws) |
-| 3 | [Waystones globales](#rendre-les-waystones-globales) |
-| 4 | [Supprimer le coût de sprint (Cobbleride)](#supprimer-le-coût-dendurance-du-sprint-avec-cobbleride) |
-| 5 | [Annonce spawn Pokémon alpha avec coordonnées](#modifier-lannonce-lors-du-spawn-dun-pokémon-alpha-et-afficher-les-coordonnées) |
-| 6 | [Générer plus de structures](#activer-et-générer-davantage-de-structures) |
-| 7 | [Mods utiles compatibles 3.1.X](#mods-utiles--sympas-et-compatibles-31x) |
-| 8 | [Taux d'apparition des Ultra-Brèches](#augmenter-le-taux-dapparition-des-ultra-brèches) |
-| 9 | [Loots légendaires T5-T9 (Tours Bleues)](#ajouter-les-loots-ditems-pour-faire-apparaître-les-légendaires-et-items-t5-à-t9-dans-les-tours-bleues) |
-| 10 | [Craft Super Bonbons XS→XL](#ajouter-le-craft-des-super-bonbons-xs--xl-merci-à-johannbut) |
-| 11 | [Alertes Shiny avec nom du joueur](#activer-les-alertes-shiny-avec-le-nom-du-joueur-merci-à-raws) |
-| 12 | [Spawn PokéRayou saison 2](#mettre-le-spawn-de-pokérayou-saison-2) |
-| 13 | [Légendaires boss dans cobble raid dens](#ajouter-les-légendaires-en-temps-que-boss-dans-cobble-raid-dens-merci-à-akwaa) |
-| 14 | [Commandes utiles](#commandes-utiles) |
+| #   | Chapitre                                                                                                                                                                   |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Loots légendaires T4-T9 (coffres Cobblemon)](#augmenter-les-loots-ditems-pour-faire-apparaître-les-légendaires-et-les-items-t4-à-t9-dans-les-injections-du-mod-cobblemon) |
+| 2   | [Spawn naturel des légendaires + fix des 4 fléaux](#activer-le-spawn-naturel-des-légendaires--correction-des-4-fléaux-merci-à-raws)                                        |
+| 3   | [Waystones globales](#rendre-les-waystones-globales)                                                                                                                       |
+| 4   | [Supprimer le coût de sprint (Cobbleride)](#supprimer-le-coût-dendurance-du-sprint-avec-cobbleride)                                                                        |
+| 5   | [Annonce spawn Pokémon alpha avec coordonnées](#modifier-lannonce-lors-du-spawn-dun-pokémon-alpha-et-afficher-les-coordonnées)                                             |
+| 6   | [Générer plus de structures](#activer-et-générer-davantage-de-structures)                                                                                                  |
+| 7   | [Mods utiles compatibles 3.1.X](#mods-utiles--sympas-et-compatibles-31x)                                                                                                   |
+| 8   | [Taux d'apparition des Ultra-Brèches](#augmenter-le-taux-dapparition-des-ultra-brèches)                                                                                    |
+| 9   | [Loots légendaires T5-T9 (Tours Bleues)](#ajouter-les-loots-ditems-pour-faire-apparaître-les-légendaires-et-items-t5-à-t9-dans-les-tours-bleues)                           |
+| 10  | [Craft Super Bonbons XS→XL](#ajouter-le-craft-des-super-bonbons-xs--xl-merci-à-johannbut)                                                                                  |
+| 11  | [Alertes Shiny avec nom du joueur](#activer-les-alertes-shiny-avec-le-nom-du-joueur-merci-à-raws)                                                                          |
+| 12  | [Spawn PokéRayou saison 2](#mettre-le-spawn-de-pokérayou-saison-2)                                                                                                         |
+| 13  | [Légendaires boss dans cobble raid dens](#ajouter-les-légendaires-en-temps-que-boss-dans-cobble-raid-dens-merci-à-akwaa)                                                   |
+| 14  | [Traduire les quêtes FTBQuest en français](#traduire-les-quêtes-ftbquest-en-français)                                                                                      |
+| 15  | [Commandes utiles](#commandes-utiles)                                                                                                                                      |
 
 ---
 
@@ -159,6 +160,15 @@ Dans le dossier `13. raid`, vous trouverez des fichiers `.json`.
 À remplacer dans :
 ```bash
 C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\datapack\Cacademymons\data\cobbleraiddens\raid\boss
+```
+
+## Traduire les quêtes FTBQuest en français
+
+Dans le dossier `14.FTB_quests`, vous trouverez un fichier `fr_fr.snbt`.
+
+À placer dans :
+```bash
+C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\config/ftbquest/quests/lang
 ```
 
 ## Commandes utiles

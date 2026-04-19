@@ -1,0 +1,1948 @@
+	{
+	chapter.077FA79B724AB32E.title: "Recherche quotidienne"
+	chapter.0E4B2C7DC5AB90A6.title: "Core Principles"
+	chapter.218B94E662596968.title: "&fBienvenue&r"
+	chapter.40507D5A38B13F53.title: "Projets de novembre"
+	chapter.43262CABF6F72C07.title: "Monde du Safari "
+	chapter.4F7746C1CDA48F41.title: "Shiny Pokedolls"
+	chapter.632FA90912114627.title: "Maîtrises"
+	chapter.69AF2FEAB8E68DAB.title: "Legendaires"
+	chapter.7518EBE7DCB985AC.title: "Études d’été"
+	chapter.76C37C8AC0E905B9.title: "Curiosités d’octobre"
+	chapter.7C0B29ABDBDD01B4.title: "Combats d’arène"
+	chapter_group.106985F193D08BCF.title: "&dCourse Challenges"
+	chapter_group.373657F33DE2511A.title: "&cFondamentaux de l’académie&r"
+	file.0000000000000001.title: "&bCobblemon Academy&r"
+	quest.0005CB00886E4013.quest_desc: ["&eBeartic&r a une chance d’être obtenu lors de la capture d’un Beartic sauvage dans la forêt glaciale de Starlight Permafrost du &2Safari World&r"]
+	quest.002C1B8AC67E2EEB.title: "Investisseur"
+	quest.0056E650018ABDD0.title: "Distribution de friandises"
+	quest.0091D9098A631E5B.title: "Arène Spectre"
+	quest.00AA41D02AECE170.quest_desc: [
+		"Le monde est composé de centaines de structures remplies de butin. Sites de fouilles, donjons, îles flottantes et bien plus encore !"
+		""
+		"&eLootr&r donne un nouveau design aux conteneurs de butin et les rend &6uniques&r pour chaque joueur, afin que vous n’ayez jamais à vous inquiéter de rater du butin en jouant avec d’autres. S’il est &6doré&r, il n’a pas encore été pillé !"
+	]
+	quest.00AA41D02AECE170.title: "Pillage"
+	quest.00D54B69E6060976.quest_desc: [
+		"&eArboliva&r est remis aux champions de l’&6Arène de type Plante&r"
+		""
+		"Les chances d’en obtenir un augmentent avec le niveau de l’arène et sont garanties au niveau 100"
+	]
+	quest.02B6911224835FB6.quest_desc: [
+		"Une &6Capsule d’aptitude&r permet de remplacer la capacité d’un Cobblemon par son autre capacité standard."
+		""
+		"Une &6Patch d’aptitude&r remplace la capacité d’un Cobblemon par sa capacité cachée, &o mais ne fonctionne pas dans l’autre sens.&r"
+	]
+	quest.03377F3F81A42A01.quest_desc: [
+		"Au fil des jours, la couleur des feuilles et le temps à l’extérieur changeront. Pensez à apporter des vêtements de rechange !"
+		""
+		"&dSerene Seasons&r introduit des saisons dans le monde qui évoluent à chaque jour en jeu. Une saison complète dure &524 jours&r. Vous pouvez consulter la saison et le jour sous votre mini-carte."
+		""
+		"Les saisons &5affectent la croissance de vos cultures&r, alors planifiez vos récoltes en conséquence. Les cultures influencées par les saisons vous l’indiqueront lorsque vous les survolerez."
+	]
+	quest.03377F3F81A42A01.title: "Saisons sereines"
+	quest.0337D368CF9EEA22.quest_desc: ["&eMareep&r est un objet garanti lors de la capture d’un &eMareep chromatique sauvage&r"]
+	quest.039B0912FF1D86CC.title: "Rejoindre l’Académie!"
+	quest.03F654A215644361.title: "Capturer 50 Cobblemon"
+	quest.03FE482CBDAC38CE.quest_desc: [
+		"Ogerpon peut être invoqué en utilisant cet objet clé dans ces biomes:"
+		""
+		"• Floral Biomes"
+		"• Bamboo Biomes"
+		"• Jungle Biomes"
+	]
+	quest.03FE482CBDAC38CE.quest_subtitle: "Invoque &3Ogerpon"
+	quest.03FE482CBDAC38CE.title: "Masque Turquoise"
+	quest.053BDF98E4FBEA8E.quest_desc: [
+		"Une &6Méga-Gemme clé&r est l’ingrédient principal pour fabriquer un Méga-Bracelet, nécessaire pour permettre à un Cobblemon de méga-évoluer. Il existe plusieurs Méga-Bracelets pouvant être fabriqués à partir d’une Méga-Gemme clé, la seule différence étant leur apparence."
+		""
+		"Une &6Méga-Gemme brute&r est l’ingrédient principal pour fabriquer une Méga-Gemme complète. Chaque Cobblemon capable de méga-évolution possède sa propre Méga-Gemme unique."
+		""
+		"&8&oEn raison de la nature déséquilibrée de la recherche des structures qui les contiennent, l’Académie a retiré ces structures du monde et a déclaré ces objets exclusifs à la boutique"
+	]
+quest.053BDF98E4FBEA8E.title: "Méga-Évolution"
+quest.05C2D013CCAE64C4.quest_desc: [
+	"Le monde autour de vous semble différent, mais familier."
+	""
+	"&3William Wythers' Overhauled Overworld&r, &3Regions Unexplored&r et &3Oh The Biomes We've Gone&r introduisent de nouveaux biomes dans l'Overworld et le Nether, tandis que &3Stellarity&r façonne l'End."
+	""
+	"Si vous avez besoin d'aide pour vous déplacer, procurez-vous une &2Boussole de la nature&r dans la &6Boutique&r. Cet outil vous indiquera la direction de n'importe quel biome que vous choisissez."
+	""
+	"Chaque biome possède également ses propres apparitions uniques de &cCobblemon&r. Pour voir lesquels peuvent apparaître autour de vous, consultez votre &cPokéNav&r !"
+]
+quest.05C2D013CCAE64C4.title: "Nouveaux biomes"
+quest.0683D6AAD47F963A.quest_desc: [
+	"Raikou peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Plaines"
+	"• Savane"
+	"• Biomes de prairies"
+	"• Biomes arides"
+]
+quest.0683D6AAD47F963A.quest_subtitle: "Invoque &3Raikou"
+quest.0683D6AAD47F963A.title: "Cloche Claire"
+quest.068A551F5550E942.quest_desc: [
+	"Les &bAutocollants de capsule&r sont des récompenses obtenues en complétant des arènes qui ajoutent des effets visuels supplémentaires à vos Cobblemon lorsque vous les envoyez au combat depuis leur Poké Ball !"
+	""
+	"Chaque arène vous donne toujours une &3Capsule Ball&r ainsi qu’un autocollant de son type correspondant. Appliquer un autocollant à une capsule lui ajoutera ses effets."
+	""
+	"Vous pouvez appliquer plusieurs autocollants à une seule capsule. Les autocollants sont permanents, alors assurez-vous de leur utilisation avant de les appliquer !"
+	""
+	"La &3Station de capsules&r peut contenir six capsules, une pour chacun des Cobblemon de votre équipe."
+	""
+	"&8&oLes capsules ne sont pas liées aux Cobblemon eux-mêmes et peuvent être retirées et déplacées librement."
+]
+quest.068F0A4E26D32124.title: "Arène Sol"
+quest.0703C574D9724B85.quest_desc: [
+	"Articuno peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Océans gelés"
+	"• Pics gelés"
+	"• Rivières gelées"
+	"• Plage enneigée"
+	"• Plaines enneigées"
+	"• Pentes enneigées"
+	"• Taïga enneigée"
+	"• Forêts enneigées"
+	"• Biomes froids"
+	"• Biomes glacials"
+	"• Biomes glaciaires"
+]
+quest.0703C574D9724B85.quest_subtitle: "Invoque &3Articuno"
+quest.0703C574D9724B85.title: "Cloche des marées"
+quest.079EBF22B54691CF.quest_subtitle: "Tu as bien gardé de la place dans ton PC pour ton starter après tout ça, non ?"
+quest.079EBF22B54691CF.title: "Maîtrise complète"
+quest.07E858DE7F975984.title: "Achèvement du parcours"
+quest.081C7F205575C069.quest_desc: ["&eFroslass&r est garanti en drop en capturant un &eFroslass shiny sauvage&r"]
+quest.0862088B6D24901F.title: "Ténèbres"
+quest.0960E5DA1FA7CFC7.quest_subtitle: "&d+1 &dPoint de récompense"
+quest.0A4006DCBF189F0C.title: "Lance-pierre"
+quest.0A4A5776F4912C1E.title: "Arène Vol"
+quest.0B322A133A31C84B.quest_subtitle: "&9+1 &9Point de récompense"
+quest.0CF0ED0DE3432BD8.quest_desc: [
+	"Entei peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Badlands"
+	"• Savane"
+	"• Biomes venteux"
+	"• Biomes volcaniques"
+	"• Biomes thermiques"
+	"• Terres désolées du Nether"
+]
+quest.0CF0ED0DE3432BD8.title: "Cloche Claire"
+quest.0D9E9943C1DD5519.quest_desc: [
+	"Zamazenta peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Taïga"
+	"• Forêt balayée par les vents"
+	"• Biomes de plateau"
+	"• Biomes de savane"
+	"• Biomes de hautes terres"
+]
+quest.0D9E9943C1DD5519.quest_subtitle: "Invoque &3Zamazenta"
+quest.0D9E9943C1DD5519.title: "Bouclier rouillé"
+quest.0E0E873DB36D41EC.quest_desc: ["&eFlaaffy&r est une récompense garantie en capturant un &eFlaaffy chromatique sauvage&r"]
+quest.0E329592A74461E8.title: "Stockage"
+quest.0EE64DCF35103E25.quest_desc: [
+	"Le Royaume Safari possède de nombreux biomes magnifiques à explorer grâce à la dimension &5Éclat stellaire éternel&r."
+	""
+	"&eChaque biome possède ses propres apparitions uniques&r, alors n'oublie pas d'emporter ton &cPokénav&r avec toi !"
+]
+	quest.0EE64DCF35103E25.title: "Visiter tous les biomes Safari"
+quest.0EF0AD0F04CE2CE8.quest_desc: [
+	"La première étape du voyage de tout dresseur commence par le choix de son &cStarter&r !"
+	""
+	"La touche par défaut pour le faire est &cC&r. Choisis avec soin et entraîne-le bien !"
+	""
+	"L'Académie a offert quelques objets pour te féliciter de ta nouvelle parentalité."
+]
+quest.0F055A6CB70C9769.quest_desc: ["&eQuagsire&r est une récompense garantie en capturant un &eQuagsire chromatique sauvage&r"]
+quest.0F06C836A67994D1.quest_subtitle: "&9+1 &9Point de récompense"
+quest.0F0AB98AA1713D21.quest_desc: ["&eSorboul&r est une récompense garantie en capturant un &eSorboul chromatique sauvage&r"]
+quest.0F7AC8F97A316973.title: "Remettre 64 Park Balls"
+quest.0F928902D636E1EB.quest_desc: ["&ePolarhume&r est une récompense garantie en capturant un &ePolarhume chromatique sauvage&r"]
+quest.0FE3721DEB615EA2.title: "Fin de parcours"
+quest.0FEF4397A23FE40C.quest_desc: [
+	"Électhor peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Plaines"
+	"• Savane"
+	"• Le ciel"
+	"• Biomes de montagne"
+]
+quest.0FEF4397A23FE40C.quest_subtitle: "Invoque &3Électhor"
+quest.0FEF4397A23FE40C.title: "Cloche des marées"
+quest.10338628A6222985.quest_desc: [
+	"Chi-Yu peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Vallée des âmes de sable"
+	"• Bosquet infernal"
+	"• Biomes volcaniques"
+]
+quest.10338628A6222985.quest_subtitle: "Invoque &3Chi-Yu"
+quest.10338628A6222985.title: "Perles de ruine"
+quest.109D7BE1C314E3BF.quest_subtitle: "&d+1 &dPoint de récompense"
+quest.10CCF22A12C8E043.quest_desc: [
+	"Zekrom peut être invoqué en utilisant cet objet clé dans ces biomes &cen étant dans une faible luminosité&r :"
+	""
+	"• Marais"
+	"• Forêt obscure"
+	"• Forêt couverte"
+]
+quest.10CCF22A12C8E043.quest_subtitle: "Invoque &3Zekrom"
+quest.10CCF22A12C8E043.title: "Pierre noire"
+quest.10EB48B64DEE2BE4.title: "Essentiels du dresseur"
+quest.1197C1F99C88E94A.title: "Ramasser les feuilles"
+quest.11F639DFF7AFA060.title: "Starter Plante"
+quest.123237D6F35400B2.title: "Dragon"
+quest.12835AB097334B90.title: "Vaincre 50 types Psy, Spectre ou Ténèbres"
+quest.12FCCCB6172827BF.quest_desc: [
+	"&eBanshitrouye&r est une récompense accordée aux champions de l’&6Arène de type Spectre&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et sont garanties au niveau 100"
+]
+quest.13504B2CA0405C17.title: "Arène de Feu"
+quest.13E77C47A7687454.quest_desc: [
+	"Bienvenue dans ton second &dDéfi de cours&r ! Il s’agit de pages de quêtes thématiques proposées par l’Académie aux dresseurs à chaque nouvelle saison."
+	""
+	"Espérons que les feuilles qui commencent à tomber ne soient pas un signe que tes notes suivent le même chemin..."
+	""
+	"Merci de signaler tes &6Accomplissements de novembre&r à l’Académie en complétant ce cours."
+]
+quest.13E77C47A7687454.quest_subtitle: "Novembre '25"
+quest.13E77C47A7687454.title: "Introduction : &6Accomplissements de novembre"
+quest.145D5E2E73B8A972.quest_desc: [
+	"&eEctoplasma&r est une récompense accordée aux champions de l’&6Arène de type Poison&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et sont garanties au niveau 100"
+]
+quest.14ED222932985745.quest_desc: [
+	"Fulguris peut être invoqué en utilisant cet objet clé dans ces biomes &9pendant un orage&r :"
+	""
+	"• Plaines"
+	"• Montagnes"
+	"• Badlands"
+]
+quest.14ED222932985745.quest_subtitle: "Invoque &3Fulguris"
+quest.14ED222932985745.title: "Glas révélateur"
+quest.14F59AD497E52216.quest_desc: ["&eAquarium de Magicarpe chromatique&r a une petite chance de tomber en &crempensant un Magicarpe sauvage&r"]
+quest.15527B85830BD59E.title: "Forêt de givre stellaire"
+quest.1612A88E11218286.quest_desc: [
+	"Pyrobut peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Biomes de montagne"
+	"• Biomes magiques"
+	"• Biomes de rivière"
+	"• Biomes de jungle"
+]
+quest.1612A88E11218286.quest_subtitle: "Invoquer &3Pyrobut"
+quest.1612A88E11218286.title: "Coquille prismatique"
+quest.16F722780AEC3E02.quest_desc: [
+	"Solgaleo peut être invoqué en utilisant cet objet clé dans ces biomes &ependant la journée&r :"
+	""
+	"• Désert classique"
+	"• Biomes de plateau"
+]
+quest.16F722780AEC3E02.quest_subtitle: "Invoque &3Solgaleo"
+quest.16F722780AEC3E02.title: "Flûte solaire"
+quest.17F8C12CF34FFBC3.quest_desc: [
+	"Le &2Monde Safari&r est un défi quotidien limité dans le temps, rempli de créatures rares et de butin précieux !"
+	""
+	"Pour entrer dans ce monde, tu dois d’abord &6payer un droit d’entrée de &l1 pièce d’or&r &6au spécialiste Safari&r. Le spécialiste Safari se trouve dans des portails générés naturellement dans l’Overworld."
+	""
+	"Tu recevras quelques &2Safari Balls&r lors de ta première entrée de la journée. C’est la seule balle utilisable dans ce monde, alors sois stratégique. Si tu en manques, tu peux en acheter au &6Shop&r ou attendre le jour suivant."
+	""
+	"Tu n’auras aussi qu’un temps limité avant d’être expulsé du monde. Chaque nouveau jour réel t’accorde plus de temps et de Safari Balls. Si tu ne veux pas attendre, les &2Tickets Safari&r sont des objets rares qui augmentent ton temps."
+	""
+	"&o&8Pour vérifier le changement de jour, maintiens TAB dans l’Overworld et regarde le minuteur en bas à gauche. Il t’indiquera aussi le portail ouvert le plus proche, s’il y en a un dans ton monde.&r"
+]
+quest.17F8C12CF34FFBC3.title: "Introduction à : &2Le Monde Safari&r"
+quest.1801DCF4D12712B5.title: "Électrique"
+quest.183544342B96F047.quest_desc: [
+	"Ethernatos peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Marécage de mangrove"
+	"• Marais"
+	"• Biomes de la dimension End vanilla"
+]
+quest.183544342B96F047.quest_subtitle: "Invoque &3Ethernatos"
+quest.183544342B96F047.title: "Noyau d’Ethernatos"
+quest.18BD2804404A8912.quest_desc: [
+	"Sylveroy peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Biomes d’automne"
+	"• Forêt fleurie"
+]
+quest.18BD2804404A8912.quest_subtitle: "Invoque &3Sylveroy"
+quest.18BD2804404A8912.title: "Rênes de l’Unité"
+quest.18E9F4780CF4C606.quest_desc: [
+	"Suicune peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Rivières"
+	"• Rivières gelées"
+	"• Océans froids"
+	"• Biomes d’eau douce"
+]
+quest.18E9F4780CF4C606.quest_subtitle: "Invoque &3Suicune"
+quest.18E9F4780CF4C606.title: "Cloche claire"
+quest.198433A3DB33DB8D.quest_desc: [
+	"Bienvenue dans ton second &dDéfi de cours&r ! Il s’agit de pages de quêtes thématiques proposées par l’Académie aux dresseurs à chaque nouvelle saison."
+	""
+	"Que tu choisisses de rester chez toi ou d’explorer à la recherche de friandises et de farces, prendre le temps pour tes études reste toujours bénéfique."
+	""
+	"Merci de signaler tes &5Étrangetés d’octobre&r à l’Académie en complétant ce cours."
+]
+quest.198433A3DB33DB8D.quest_subtitle: "Octobre '25"
+quest.198433A3DB33DB8D.title: "Introduction : &5Étrangetés d’octobre"
+quest.19AF3125EFB3CF93.quest_desc: [
+	"Chongjian peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Taïga ancienne à épicéas géants"
+	"• Séquoias"
+]
+quest.19AF3125EFB3CF93.quest_subtitle: "Invoque &3Chongjian"
+quest.19AF3125EFB3CF93.title: "Tablettes de ruine"
+quest.1AAD7F31B7D111D6.title: "Normal"
+quest.1ABA56B66604F92C.quest_desc: ["Une &6Plume du Vide&r remet les EV d’un Cobblemon à 0."]
+quest.1AC87C230FEF455E.quest_desc: [
+	"Rayquaza peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Biomes de jungle"
+	"• Biomes de hautes terres"
+	"• Tous les biomes de la dimension End"
+]
+quest.1AC87C230FEF455E.quest_subtitle: "Invoque &3Rayquaza"
+quest.1AC87C230FEF455E.title: "Orbe de jade"
+quest.1ADB8B6F98F494BF.quest_desc: ["&eCorvaillus&r peut parfois être trouvé au-dessus des nuages dans les coffres et tonneaux des &bStructures volantes de Moog&r"]
+quest.1AE103E9239ED711.quest_desc: [
+	"Les &bCartes&r sont de puissantes collections qui améliorent tes compétences de chasse aux Cobblemon !"
+	""
+	"Les cartes s’obtiennent via des &bPacks de boosters&r, que tu peux obtenir en accomplissant tes &cRecherches quotidiennes&r, en remportant des &9Arènes&r et en pillant des structures de haut niveau."
+	""
+	"Chaque carte donne un bonus de statistiques. Pour qu’un bonus soit actif, la carte doit être placée dans un &3Album de cartes&r et équipée dans ton emplacement de bibelot."
+	""
+	"Si tu obtiens une carte rare ou utile, tu peux l’apporter à une &6Boutique de cartes&r pour la faire &6grader&r ! &bElles se trouvent dans l’Overworld&r."
+	""
+	"Le grading d’une carte peut augmenter ou diminuer son bonus selon la note obtenue."
+]
+quest.1AE103E9239ED711.title: "Cartes"
+quest.1BE07193FECCFCEF.title: "Voir rouge"
+quest.1C0124DF0C77F6C4.quest_desc: [
+	"Boréas peut être invoqué en utilisant cet objet clé dans ces biomes &9pendant un orage&r :"
+	""
+	"• Jungle"
+	"• Jungle de bambous"
+	"• Bordure de jungle"
+]
+quest.1C0124DF0C77F6C4.quest_subtitle: "Invoque &3Boréas"
+quest.1C0124DF0C77F6C4.title: "Glas révélateur"
+quest.1C6F85C507150ACB.quest_subtitle: "&d+3 &dPoints de récompense"
+quest.1C6F85C507150ACB.title: "Capturer un Cobblemon chromatique"
+quest.1D055C81126E13C8.title: "Fin de cours"
+quest.1D18DE9DC3907D5A.quest_subtitle: "&9+3 &9Points de récompense"
+quest.1D778E7DB69A2393.quest_desc: [
+	"Lorsque tu ouvres ton inventaire, tu remarques une &bbarre de recherche&r en bas à droite. Elle appartient à &bEMI&r et te permet de voir et rechercher tous les blocs du jeu !"
+	""
+	"Ces résultats peuvent aussi être filtrés. Par exemple, taper le symbole &b@&r suivi du nom d’un mod affiche tous les objets de ce mod. Essaie avec &b@cobblemon&r, par exemple !"
+	""
+	"C’est aussi un visualiseur de recettes. En survolant un objet et en appuyant sur &bU&r, tu peux voir ses utilisations et recettes."
+	""
+	"Si tu veux garder un objet, appuyer sur &bA&r en le survolant l’ajoute à ta &bliste de favoris&r à gauche de ton inventaire. Appuie de nouveau sur &bA&r pour le retirer."
+]
+quest.1D778E7DB69A2393.title: "EMI"
+quest.1E06BABFE1571802.quest_desc: [
+	"&eMarshadow&r peut être trouvé rarement en creusant des &epoints lumineux de pierre de l’End chanceux&r, qui apparaissent comme des marques lumineuses sur les blocs de pierre de l’End"
+	""
+	"Il existe de nombreux blocs sur lesquels ces marques peuvent apparaître, alors assure-toi de bien chercher sur la pierre de l’End !"
+]
+quest.1E0CCE7660D21A19.quest_subtitle: "&9+1 &9Point de récompense"
+quest.1E3B31BED6CD0A93.quest_desc: ["&eKyogre&r est une récompense garantie en &dcapturant un Kyogre sauvage&r"]
+quest.1F43C5453A206D0B.title: "Capturer 10 Cobblemon"
+quest.1F7BE94A94399047.quest_subtitle: "&d+1 &dPoint de récompense"
+quest.1F7F7070CACB2E66.title: "Introduction à : &bLes cartes"
+quest.1F8571422498D77C.title: "Arène de Dragon"
+quest.1F85D7AF1AF17474.title: "Découvrir les Unown"
+quest.1F86F149290C773F.quest_desc: ["&eFouinette&r est une récompense garantie en capturant un &eFouinette chromatique sauvage&r"]
+quest.1FE3945AA2BCD3F9.quest_desc: [
+	"Tokopiyon peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Biomes de jungle"
+	"• Rivage rocheux"
+	"• Biomes de plage"
+]
+quest.1FE3945AA2BCD3F9.quest_subtitle: "Invoque &3Tokopiyon"
+quest.1FE3945AA2BCD3F9.title: "Totem de Lele"
+quest.2131DE8612810B7E.quest_desc: ["&eBrindibou&r peut être obtenu rarement en &9ressuscitant un fossile&r"]
+quest.2131ED50490377D4.quest_desc: ["Un &6Marteau&r est un outil puissant qui casse les blocs dans une zone de 3x3."]
+quest.21C2365DFED58D4F.quest_desc: [
+	"Créhelf peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Marécage de mangrove"
+	"• Marais"
+	"• Biomes de rivière"
+]
+quest.21C2365DFED58D4F.quest_subtitle: "Invoque &3Créhelf"
+quest.21C2365DFED58D4F.title: "Plume de Créhelf"
+quest.2218E33CA1CC63FB.quest_desc: ["&eFouinar&r peut parfois être trouvé dans des coffres à côté des &4portails en ruine&r"]
+quest.22B3AB19ED810219.quest_desc: ["&eMinisange&r peut parfois être trouvé au-dessus des nuages dans les coffres et tonneaux des &bStructures volantes de Moog&r"]
+quest.23033CB25AC514FD.quest_desc: [
+	"Viridium peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Biomes de collines"
+	"• Biomes de hautes terres"
+	"• Biomes de montagne"
+]
+quest.23033CB25AC514FD.quest_subtitle: "Invoque &3Viridium"
+quest.23033CB25AC514FD.title: "Lame des prairies"
+quest.237539E70D82812F.quest_desc: ["Un &6Aimant&r attire les objets dans un rayon de 7 blocs vers toi lorsqu’il est dans la main principale, la main secondaire ou placé dans un cadre d’objet."]
+quest.23A87B8F99C3C011.quest_subtitle: "&9+1 &9Point de récompense"
+quest.23B1B0B9E5895D3B.quest_desc: ["Les &6Générateurs Alpha&r invoquent un Cobblemon Alpha lorsqu’ils sont placés. Les Alphas sont des variantes géantes et garantissent au moins quatre IV parfaites."]
+quest.24786A786CCEEDAC.quest_subtitle: "&9+1 &9Point de récompense"
+quest.24ED86617DC589A2.title: "Capturer la forme du Nether du Cobblemon"
+quest.250333C6250B82BE.title: "1 001 pièces de chocolat"
+quest.2537315D34A84FBC.quest_subtitle: "&d+2 &dPoints de récompense"
+quest.25EB7F5EF46C6EF8.quest_desc: [
+	"Registeel peut être invoqué en utilisant cet objet clé dans ces biomes &cen étant près d’un bloc de fer&r :"
+	""
+	"• Profondeur sombre"
+	"• Structures de village"
+]
+quest.25EB7F5EF46C6EF8.quest_subtitle: "Invoque &3Registeel"
+quest.25EB7F5EF46C6EF8.title: "Tablette d’acier"
+quest.2669D82702A5BCB0.title: "Chef légendaire"
+quest.2769F6C69AA5E401.quest_desc: [
+	"Dialga peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Bord de montagne"
+	"• Pics rocheux"
+	"• Taïga enneigée"
+	"• Biomes de hautes terres"
+	"• Biomes de sommets"
+	"• Biomes de montagne"
+]
+quest.2769F6C69AA5E401.quest_subtitle: "Invoque &3Dialga"
+quest.2769F6C69AA5E401.title: "Orbe adamant"
+quest.2903A6176CA813B5.title: "Capturer 20 Cobblemon"
+quest.2916FDEE16963672.quest_desc: [
+	"&eMarshadow Zénith&r est une récompense accordée aux champions de l’&6Arène de type Feu&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et sont garanties au niveau 100"
+]
+quest.2952781348AABF3B.quest_desc: [
+	"Regirock peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Désert"
+	"• Badlands"
+]
+quest.2952781348AABF3B.quest_subtitle: "Invoque &3Regirock"
+quest.2952781348AABF3B.title: "Tablette de pierre"
+quest.2991553802B50642.title: "Psy"
+quest.29D346A9B9508A91.title: "Marais sombre"
+quest.29DE19F0E0773C7A.quest_desc: [
+	"Les &9Arènes&r sont des défis solo qui te mettent, toi et ton équipe de Cobblemon, face aux anciens élèves les plus prestigieux de l’Académie."
+	""
+	"Tu auras besoin d’une &dClé d’arène&r pour entrer, chaque clé donnant une admission."
+	""
+	"Les clés d’arène peuvent être obtenues en accomplissant tes &cRecherches quotidiennes&r, comme récompenses de quêtes et en pillant des structures de haut niveau."
+	""
+	"Lors de l’utilisation d’une clé, on te demandera le &3niveau&r auquel tu souhaites affronter l’arène. Cela détermine le niveau des Cobblemon ennemis, mais pas le tien."
+	""
+	"Les arènes de niveau élevé donnent de meilleures récompenses, il est donc conseillé d’adapter le niveau de l’arène à celui moyen de ton équipe."
+	""
+	"&cPrépare-toi bien avant d’utiliser une clé !&r Une fois entré, ton équipe ne peut plus être modifiée et tu ne peux pas quitter sans abandonner ton essai."
+]
+quest.29DE19F0E0773C7A.title: "Introduction aux : &9Arènes"
+quest.2A3FFFD24CDC54C4.title: "Nageoire ajustée"
+quest.2A7D69D8F6DDC03D.quest_desc: [
+	"Regigigas peut être invoqué en &6ayant les cinq Regis dans ton équipe&r et en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Savane"
+]
+quest.2A7D69D8F6DDC03D.quest_subtitle: "Invoque &3Regigigas"
+quest.2A7D69D8F6DDC03D.title: "Tablette ancienne"
+quest.2AE8202070F0D96B.quest_desc: [
+	"L’Académie t’a confié un objectif spécial :"
+	"Collecter les &e70 différents Pokedolls chromatiques&r !"
+	""
+	"Les Pokedolls chromatiques sont des objets rares, chacun ayant sa &eméthode d’obtention unique&r. Clique sur l’un d’eux pour découvrir comment il s’obtient."
+	""
+	"Lâcher un Cobblemon chromatique de ton PC a &l50% de chances&r de te donner un &aSac à butin de peluche chromatique&r, qui contient un Pokedoll chromatique aléatoire. Si tu ne peux pas te séparer de tes shinys, ils peuvent aussi être achetés à la &6Boutique&r."
+	""
+	"Tous les &5coffres de structures&r ont &l1/1024&r de chances de contenir un Pokedoll chromatique."
+]
+quest.2AE8202070F0D96B.title: "Introduction aux : &ePokedolls chromatiques"
+quest.2BC26E9BCCB05A6B.quest_desc: [
+	"&eMomartik&r peut parfois être trouvé profondément sous terre dans les &5Cités anciennes&r"
+	""
+	"Ils sont assez intelligents pour rester au frais dans les coffres des structures &bBoîtes de glace&r de la ville"
+]
+quest.2C2A5CA0D6188F76.title: "Mer stellaire"
+quest.2C5F0A54B6E230BB.title: "Entrer dans le Monde Safari"
+quest.2CD219E660256F26.quest_desc: ["&eCoquiperl&r peut parfois être trouvé dans des coffres de &3Trésor enfoui&r"]
+quest.2CF2FEBC74CA235E.title: "Rivière de Torreya"
+quest.2D53BC531B4FC4F6.quest_desc: ["&eBacabouh&r est une récompense garantie en capturant un &eBacabouh chromatique sauvage&r"]
+quest.2E2398690FC8F428.quest_desc: ["&eLovdisc&r a une chance d’être obtenu en capturant un Lovdisc sauvage dans la &bRivière scintillante&r du &2Monde Safari&r"]
+quest.2F4C2994CE8AC6EC.quest_subtitle: "&d+1 &dPoint de récompense"
+quest.2F9BFF97075B7F17.quest_desc: ["&eTénéfix&r a une chance d’être obtenu en capturant un Ténéfix sauvage dans le &5Désert cristallisé&r du &2Monde Safari&r"]
+quest.2FAD220EA1991ADC.title: "Faire évoluer Évoli en Phyllali"
+quest.2FF8F2E48A397316.quest_desc: [
+	"Bleu... sang... récolte... aurore..."
+	""
+	"&9Enhanced Celestials&r introduit des &dévénements lunaires&r qui affectent les Cobblemon de ton monde de différentes façons."
+	""
+	"&4Lunes de sang&r - Les Cobblemon sauvages apparaissent plus puissants sous cette lune."
+	"&1Lunes bleues&r - Les Cobblemon apparaissent plus souvent sous leur forme chromatique."
+	"&eLunes de récolte&r - Tes Cobblemon s’entraînent plus efficacement sous cette lune."
+	"&5Lunes d’aurore&r - Des Cobblemon rares sont connus pour apparaître sous cette lune."
+	""
+	"Les lunes peuvent aussi apparaître sous leur rare &dforme super&r, amplifiant fortement ces effets."
+	""
+	"Le &dHologramme de prévision lunaire&r est un bloc à placer qui affiche les prochaines lunes prévues."
+]
+quest.2FF8F2E48A397316.title: "Événements célestes"
+quest.30521A9B84EEF380.quest_desc: [
+	"Tu entends un grondement au loin ? Le Monde Safari est sujet à des météores tombants qui offrent un butin rare et unique !"
+	""
+	"Ces météores sont composés de &eFragments météoriques&r, qui lâchent du butin lorsqu’ils sont récoltés."
+]
+quest.3067E8CC4B63BB85.title: "Surf dans les marais"
+quest.30B091E928A747BA.quest_desc: [
+	"Bienvenue dans ton premier &dDéfi de cours&r ! Il s’agit de pages de quêtes thématiques proposées par l’Académie aux dresseurs à chaque nouvelle saison."
+	""
+	"Ton temps pendant l’été ne t’exempte pas de tes études. Après tout, il n’y a pas de meilleur moment pour capturer des Cobblemon qu’au soleil !"
+	""
+	"Merci de signaler tes &eÉtudes d’été&r à l’Académie en complétant ce cours."
+]
+quest.30B091E928A747BA.quest_subtitle: "Septembre '25"
+quest.30B091E928A747BA.title: "Introduction : &eÉtudes d’été"
+quest.30F25D1438F61C3D.title: "Désert cristallisé"
+quest.3133820BF5042EAE.title: "Capturer un chromatique"
+quest.3201B0C9437E2404.quest_desc: ["&eTropius&r peut parfois être trouvé dans les coffres des &2Temples de jungle&r"]
+quest.322C2C94C9553102.quest_subtitle: "&9+3 &9Points de récompense"
+quest.329EC3D1D258E8AC.title: "Un panier d’Apitrini"
+quest.336D16B39C40FB4B.quest_subtitle: "&d+1 &dPoint de récompense"
+quest.33F2466AD5B0737A.title: "Choisis un starter de l’Académie !"
+quest.345A2CC31A4C2DBB.quest_desc: ["&eApitrini&r est une récompense garantie en capturant un &eApitrini chromatique sauvage&r"]
+quest.349ACDE82A5167A8.title: "Capturer 50 types Psy, Spectre ou Ténèbres"
+quest.34EF96846448B5D7.title: "Préparer un pique-nique"
+quest.34F1E67EDF4CD09E.title: "Feu"
+quest.34F3109D6DB33ACE.quest_desc: ["&eExcelangue&r peut parfois être trouvé dans les coffres des &aDonjons souterrains&r"]
+quest.35F946A371360686.title: "Capturer un chromatique de type Sol ou Roche"
+quest.362CD0AEAAA576D2.quest_desc: ["&eTortank&r peut être rarement &brepêché&r en pêchant avec une canne Pokerod"]
+quest.371C40D3B7F2CBCA.title: "Arène Plante"
+quest.37832223A9795B9F.title: "Arène Combat"
+quest.37E8C4CDD81A5438.title: "Diaboliquement fabuleux"
+quest.38073F1D770DC482.quest_desc: ["&eAxoloto&r est une récompense garantie en capturant un &eAxoloto chromatique sauvage&r"]
+quest.388831CF2DD29536.quest_desc: [
+	"Latios peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Plaines"
+	"• Bord de montagne"
+	"• Plages"
+	"• Côtes"
+	"• Biomes tempérés"
+]
+quest.388831CF2DD29536.quest_subtitle: "Invoque &3Latios"
+quest.388831CF2DD29536.title: "Ticket ÉON"
+quest.3943CD4A953384CE.quest_desc: ["&eGromago&r est connu pour se cacher des piglins dans les coffres des &4Bastions du Nether&r"]
+quest.396DC8F249B9D65D.quest_subtitle: "&d+1 &dPoint de récompense"
+quest.3A1DC0823F27CD0F.title: "Vaincre 50 types Sol ou Roche"
+quest.3AD0019907EC9178.quest_desc: [
+	"Un &6Ciseau&r remplace un bloc placé par le bloc dans la case à droite."
+	""
+	"Une &6Truelle&r place des blocs aléatoirement depuis ton inventaire."
+]
+quest.3B0CD98DC6E359A4.quest_desc: ["&eOlivini&r est une récompense garantie en capturant un &eOlivini chromatique sauvage&r"]
+quest.3B86D8E657CE7246.quest_desc: [
+	"Tokotoro peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Jungle"
+	"• Rivage rocheux"
+	"• Biomes de plage"
+]
+quest.3B86D8E657CE7246.quest_subtitle: "Invoque &3Tokotoro"
+quest.3B86D8E657CE7246.title: "Totem de Bulu"
+quest.3C9601ABC602E6C6.title: "Chasse hantée"
+quest.3CE6B2E18C1A24BA.quest_desc: [
+	"Pour t’aider à rester à jour dans tes études, l’Académie t’a donné des quêtes répétables à compléter pour obtenir des &dPacks de boosters&r et des &9Clés d’arène&r !"
+	""
+	"Tu n’as pas besoin de toutes les compléter. Les quêtes terminées donnent des &ePoints de récompense&r, nécessaires pour débloquer les récompenses."
+	""
+	"Les &dPacks de boosters nécessitent 3 points de récompense&r."
+	"Les &9Clés d’arène nécessitent 3 points de récompense&r."
+	""
+	"Une fois une récompense obtenue, ses quêtes se réinitialisent après &c8 heures IRL&r et deviennent à nouveau complétables."
+	""
+	"Le minuteur d’une quête continue même hors ligne, ce qui te permet d’aller prendre l’air en attendant la réinitialisation :')"
+	""
+	"&8&oLes quêtes et récompenses de ce chapitre sont automatiquement complétées/réclamées."
+	""
+	"&8&oIl n’existe actuellement aucun moyen de voir le temps restant avant la réinitialisation. Désolé :c&r"
+]
+quest.3CE6B2E18C1A24BA.title: "Introduction à : &cRecherches quotidiennes"
+quest.3D49440BD45A7487.title: "Gamba"
+quest.3D6B9FEC22BD2FCE.title: "Forêt stellaire"
+quest.3E5E3A32A5AC049D.title: "Arène Psy"
+quest.3E6677999274A212.title: "Choisis un starter de type Plante !"
+quest.3EF63685F662B1A4.quest_desc: [
+	"Kyurem peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Pics gelés"
+	"• Pentes enneigées"
+	"• Taïga enneigée"
+	"• Biomes glacés"
+	"• Biomes glaciaires"
+	"• Forêts enneigées"
+]
+quest.3EF63685F662B1A4.quest_subtitle: "Invoque &3Kyurem"
+quest.3EF63685F662B1A4.title: "Éclateur d’ADN"
+quest.3F81B979C14A3F03.title: "Tenues d’Halloween faites maison"
+quest.3F8C9648FB8E30A6.title: "Épisode plage !"
+quest.3FDE2A114A16EDA4.quest_desc: ["&eToudoudou&r peut rarement être trouvé dans les coffres de &dCités de l’End&r"]
+quest.406EB3624A51D50E.quest_desc: [
+	"Type: Null peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Profondeur sombre"
+	"• Biomes de la dimension End vanilla"
+]
+quest.406EB3624A51D50E.quest_subtitle: "Invoque &3Type: Null"
+quest.406EB3624A51D50E.title: "Masque Type: Null"
+quest.40AD841FE4BD0FDB.quest_desc: [
+	"&cAbe&r, pour avoir dirigé le projet et tout assemblé."
+	""
+	"&6Pete&r, pour avoir construit le modpack et fait plein de petites choses."
+	""
+	"&5KaptainWutax&r, pour être notre pilier en tant que développeur principal du mod Academy."
+	""
+	"&1Danny&r, pour les magnifiques artworks du mod Academy et être &lle&r seul et unique."
+	""
+	"&2iGoodie&r, pour le développement du site web et du système de cosmétiques."
+	""
+	"&aCorgiTaco&r, pour avoir rendu les lunes moins ternes avec Enhanced Celestials et quelques fonctionnalités SMP."
+	""
+	"&9Sunny, RockN et BzUrQ&r, pour leur talent en construction qui donne au pack un vrai foyer."
+	""
+	"&9ItsJustLav&r, pour avoir transformé le spawn de l’Academy en une magnifique île de départ."
+	""
+	"&dLilyPichu&r, pour notre superbe OST."
+	""
+	"&dPolyPuff&r, pour notre logo et l’animation du menu."
+	""
+	"&eAlways_Aiden&r, pour l’aide sur les équipes de Champions d’arène."
+	""
+	"&eFramedSole&r, pour nous permettre de monter encore plus de nos Pokémon préférés."
+	""
+	"&eDZK312&r, pour l’aide sur les spawns du Safari World revisité."
+	""
+	"&6La communauté du modding&r, pour être la base du modpack à travers des années de contributions."
+	""
+	"&5Les membres du SMP&r, pour avoir créé du contenu et l’avoir partagé avec leurs communautés (merci aussi pour les heures de folie)."
+	""
+	"&bBisectHosting&r, pour leur soutien et leur excellent partenariat."
+	""
+	"&cLes joueurs&r, pour avoir essayé le modpack :')"
+]
+quest.40AD841FE4BD0FDB.quest_subtitle: "À toute l’équipe incroyable derrière ce projet, merci <3"
+quest.40AD841FE4BD0FDB.title: "Crédits"
+quest.4129D58A028B9C3F.quest_desc: [
+	"Ton premier jour à l’Académie couvrira les bases pour te préparer au chemin à venir."
+	""
+	"Ce pack contient de nombreux mods, dont beaucoup étendent &cCobblemon&r ou ajoutent de beaux blocs pour construire. Si tu n’es pas familier avec Minecraft moddé, pas d’inquiétude. Tu n’auras pas besoin de connaître les turbines mécaniques ou la magie interdite pour profiter de ton aventure ici."
+	""
+	"Cette page présente quelques mods clés qui rendent ce monde unique et t’aideront à bien commencer."
+	""
+	"Si tu as des questions que cette page ne répond pas, n’hésite pas à demander sur notre &5Discord&r !"
+	""
+	"&bdiscord.gg/cobblemon-academy&r"
+]
+quest.4129D58A028B9C3F.title: "Introduction aux : Principes fondamentaux de l’Académie &dCore"
+quest.4268E602B3E11CA6.title: "Maturation par la croissance"
+quest.42CB3E72B6C624DC.quest_desc: ["&o&8Ignore cette quête, c’est juste pour les timers lol"]
+quest.42CB3E72B6C624DC.quest_subtitle: "&o3 points de récompense requis"
+quest.42CB3E72B6C624DC.title: "Pack de boosters"
+quest.434BF23BDEF60AEB.quest_subtitle: "Le meilleur dresseur ? Peut-être !"
+quest.434BF23BDEF60AEB.title: "Champion d’arène"
+quest.438B6F5789F31838.quest_desc: [
+	"Spectreval peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Biomes forestiers"
+	"• Forêt noire"
+	"• Plaines"
+	"• Biomes effrayants"
+]
+quest.438B6F5789F31838.quest_subtitle: "Invoque &3Spectreval"
+quest.438B6F5789F31838.title: "Carotte de bois d’ombre"
+quest.439C5C7FD456EF22.quest_desc: [
+	"Blizzeval peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Forêts enneigées"
+	"• Taïga"
+	"• Biomes de montagne"
+]
+quest.439C5C7FD456EF22.quest_subtitle: "Invoque &3Blizzeval"
+quest.439C5C7FD456EF22.title: "Carotte de bois de givre"
+quest.44A26F0157E315E2.title: "Capturer 100 Cobblemon"
+quest.44C4D0CEF98CD3C8.quest_desc: [
+	"Yveltal peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Forêt noire"
+	"• Marais"
+	"• Biomes effrayants"
+	"• Biomes de toundra"
+]
+quest.44C4D0CEF98CD3C8.quest_subtitle: "Invoque &3Yveltal"
+quest.44C4D0CEF98CD3C8.title: "Cocon de destruction"
+quest.44FD9C3751E1054C.quest_desc: [
+	"&eFrigodo&r est une récompense accordée aux champions de l’&6Arène de type Dragon&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et sont garanties au niveau 100"
+]
+quest.44FDD903C39D0C27.title: "Collectionneur étincelant"
+quest.4525B30817038F06.quest_desc: [
+	"Miraidon peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Collines graveleuses balayées par les vents"
+	"• Profondeur sombre"
+]
+quest.4525B30817038F06.quest_subtitle: "Invoque &3Miraidon"
+quest.4525B30817038F06.title: "Livre Violet"
+quest.45CB54FB00C90908.quest_desc: [
+	"&bBienvenue à l’Académie !&r"
+	""
+	"Ceci est la suite de notre premier projet &6Star Academy&r et n’aurait pas été possible sans tout l’amour de la communauté. Merci d’avoir téléchargé le mod. <3"
+	""
+	"Cette ligne de quêtes est là pour t’aider à comprendre les particularités du pack et te donner des récompenses utiles (et parfois très mignonnes)."
+	""
+	"Pour revenir ici, clique simplement sur le bouton &9Quêtes&r à droite de ton inventaire."
+]
+quest.45CB54FB00C90908.title: "&bBienvenue à l’Académie !&r"
+quest.45EBBA98AFBB05CE.quest_desc: [
+	"&bCobblemon Academy&r est, comme son nom l’indique, centré autour du &cmod Cobblemon&r (sans être affilié à lui !)"
+	""
+	"Ce chapitre couvre les bases de &cCobblemon&r, les addons comme &6Mega Showdown&r et &5Myths and Legends&r, ainsi que d’autres mods qui t’aideront dans ton aventure."
+]
+quest.45EBBA98AFBB05CE.title: "Introduction à : &cCobblemon"
+quest.465B6262C8ECE74D.quest_desc: ["Un &6Synchroniseur de Pokéball&r remplace la pokéball affichée d’un Cobblemon par la pokéball dans son slot d’objet tenu"]
+quest.46A4D6FEFDC2490D.quest_desc: ["Les &6Objets de puissance&r sont des objets tenus qui donnent des EV bonus lorsque le porteur participe à un combat"]
+quest.46AE01E58BFEE9AE.quest_desc: [
+	"Si tu veux créer une ferme d’animaux vanilla, les &bEnclos à animaux&r sont indispensables. Ils transforment de grandes fermes bruyantes en un seul bloc !"
+	""
+	"Installer une ferme est aussi simple que d’utiliser une &3Cage ou un conteneur pour animaux&r sur un animal et de le déposer dans un enclos."
+	""
+	"Nourrir les animaux dans un enclos fonctionne comme un élevage, tant que tu as au moins deux animaux au départ. Cela augmente leur nombre et donc les ressources obtenues."
+	""
+	"Les interactions vanilla sont possibles dans les enclos : tuer pour du loot, tondre les moutons, traire les vaches. Des interactions personnalisées existent aussi, comme récupérer des œufs via les poules, nourrir les tortues pour obtenir des écailles ou donner de la crème de magma aux grenouilles pour des blocs lumineux."
+	""
+	"&8&oObligatoire sur les serveurs officiels de l’Académie, car les fermes d’animaux vanilla sont interdites à cause du lag. Pense à faire pareil sur d’autres serveurs."
+]
+quest.46AE01E58BFEE9AE.title: "Enclos à animaux"
+quest.46C44829433ABD0D.quest_subtitle: "Tu n’as quand même pas tout capturé, si ?"
+quest.46C44829433ABD0D.title: "Le vrai expert Safari"
+quest.476A6261AB00E580.quest_desc: [
+	"&eCorvaillus&r est une récompense accordée aux champions de l’&6Arène de type Acier&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et sont garanties au niveau 100"
+]
+quest.483D0DED7B3A6111.quest_desc: [
+	"Si tu es inscrit à l’Académie avec d’autres joueurs, certains mods peuvent t’aider à interagir avec tes camarades."
+	""
+	"&bSimple Voice Chat&r ajoute un chat vocal de proximité. Pour le configurer, appuie sur &3V&r."
+	""
+	"Si tu préfères pointer les choses, &bPing Wheel&r utilise la touche &3~&r."
+	""
+	"Pour t’exprimer, &bEmotecraft&r te permet d’utiliser des émotes avec &3U&r."
+	""
+	"Un peu timide ? Envoie des lettres via &bMighty Mail&r avec un &3Boîte aux lettres&r."
+	""
+	"&bExposure&r ajoute un système de caméra pour capturer tes moments. Consulte le Poképedia pour apprendre à prendre des photos."
+	""
+	"Si tu trouves un &3Cœur de la mer&r, coupe-le en deux pour créer une &bPierre de cœur&r et retrouve ton partenaire grâce à elle."
+]
+quest.483D0DED7B3A6111.title: "Vie sociale"
+quest.4844EED3532CB9FA.title: "Sol"
+quest.48AF104D43EFD584.quest_desc: [
+	"Lugia peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Biomes océaniques"
+]
+quest.48AF104D43EFD584.quest_subtitle: "Invoque &3Lugia"
+quest.48AF104D43EFD584.title: "Plume d’argent"
+quest.493E6565D12709FE.title: "Nature surnaturelle"
+quest.49928E5B8733B626.title: "Capturer 300 Cobblemon"
+quest.49B6CDC935F39ADD.quest_desc: [
+	"Les &5Maîtrises&r testent ta compétence à capturer des Cobblemon de tous les &7types&r."
+	""
+	"Pour maîtriser un type, tu dois enregistrer un grand nombre de Cobblemon de ce type dans ton &cPokédex&r."
+	""
+	"Certains types demandent plus d’enregistrements que d’autres, car ils possèdent davantage de Cobblemon."
+]
+quest.49B6CDC935F39ADD.title: "Introduction à : &5Maîtrises"
+quest.49CC1689FF8EFF0F.title: "Arène Poison"
+quest.4A213DA3EA8A1520.quest_desc: [
+	"Amovénus peut être invoqué en utilisant cet objet clé dans ces biomes &9pendant un orage&r :"
+	""
+	"• Forêt fleurie"
+	"• Prairie"
+	"• Bosquet de cerisiers"
+]
+quest.4A213DA3EA8A1520.quest_subtitle: "Invoque &3Amovénus"
+quest.4A213DA3EA8A1520.title: "Glas révélateur"
+quest.4A4BD3C27A8B54DC.quest_desc: ["&eFrigodo&r est une récompense garantie en capturant un &eFrigodo chromatique sauvage&r"]
+quest.4AD4D25BDDB2DA95.title: "Remplir un sac de bonbons"
+quest.4B13968ABFCE0C3B.quest_desc: ["&eJoliflor&r est une récompense garantie en capturant un &eJoliflor chromatique sauvage&r"]
+quest.4B748F1C2D37B3CD.quest_subtitle: "&9+1 &9Point de récompense"
+quest.4D14CB069493E51B.quest_desc: [
+	"Cobaltium peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Biomes de collines"
+	"• Biomes de hautes terres"
+	"• Biomes de montagne"
+]
+quest.4D14CB069493E51B.quest_subtitle: "Invoque &3Cobaltium"
+quest.4D14CB069493E51B.title: "Épée de la volonté d’acier"
+quest.4D2E63379A1F472B.quest_desc: ["Le &6Grappin&r est un outil incroyablement puissant et amusant qui peut s’accrocher à des objets jusqu’à 100 blocs de distance !"]
+quest.4D584D835CC0F55F.quest_desc: [
+	"Un &6Bracelet Dynamax&r permet à un Cobblemon de Dynamaxer en combat, mais uniquement s’il est près d’un Point de Pouvoir."
+	""
+	"&8&oEn raison de la puissance de cet objet, l’Académie a supprimé sa recette et l’a rendu disponible uniquement à l’achat dans la Boutique."
+]
+quest.4DE83D38D9C4D9BB.quest_desc: [
+	"&eMimiqui&r est une récompense accordée aux champions de l’&6Arène de type Fée&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et sont garanties au niveau 100"
+]
+quest.4E461644FB949558.title: "Z-Moves"
+quest.4F02B569B1F97ECD.quest_desc: [
+	"&eLa famille Stalgamin&r est une récompense accordée aux champions de l’&6Arène de type Glace&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et sont garanties au niveau 100"
+]
+quest.4F3439AB86E4ECA3.title: "Outils de grind"
+quest.4F845B4F916E5226.quest_desc: [
+	"Un &6Mètre ruban&r mesure la distance entre deux blocs."
+	""
+	"Clic droit sur un bloc pour définir la première position, puis clic droit sur un autre bloc pour la seconde. L’outil affiche la distance. Shift + clic droit réinitialise les positions."
+]
+quest.500649FD8291AB06.quest_desc: [
+	"Regieleki peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Profondeur sombre"
+]
+quest.500649FD8291AB06.quest_subtitle: "Invoque &3Regieleki"
+quest.500649FD8291AB06.title: "Tablette plasma"
+quest.50ACC59B45227B96.title: "Capturer un arc-en-ciel d’automne"
+quest.50B741C86D2E7B24.quest_desc: [
+	"Une fois complétée, les quêtes de cette récompense se réinitialisent après &c8 heures IRL&r."
+]
+quest.50B741C86D2E7B24.quest_subtitle: "&d3 &dPoints de récompense requis"
+quest.50B741C86D2E7B24.title: "Pack de boosters"
+quest.50C7749D0F927CF9.title: "Arène Électrique"
+quest.51607C79D3AF30E8.title: "Parmi les arbres dorés"
+quest.518EC2C8AD93112B.title: "Spectre"
+quest.5194E596CF5D7CBF.quest_desc: [
+	"Dinglu peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Marais"
+]
+quest.5194E596CF5D7CBF.quest_subtitle: "Invoque &3Ting-Lu"
+quest.5194E596CF5D7CBF.title: "Vase des Ruines"
+quest.51FEBB1956655FF6.quest_desc: [
+	"Le &eGholdengo en Neterite&r, comme les autres Gholdengo, se cache des piglins dans les coffres des &4Bastions du Nether&r."
+	""
+	"Sa forme en netherite a toutefois été uniquement observée entourée de &6trésors&r..."
+]
+quest.5262BAF52062D708.quest_desc: [
+	"Un &6PokéFinder&r te permet de localiser les Cobblemon proches grâce à un HUD type radar au-dessus de ta barre d’inventaire."
+	""
+	"Associé à un &3PokéNav&r, il te permet de sélectionner rapidement et traquer les apparitions disponibles autour de toi !"
+]
+quest.52BA092D9D20D106.title: "Capturer les fantômes hantés"
+quest.5325A11A10EF6E61.quest_desc: ["&eFlorizarre&r est rarement obtenu en &arécoltant des Aprikornes entièrement mûres&r, peu importe leur couleur"]
+quest.539B973D350E3AB6.title: "Capturer les Cobblemon du soleil"
+quest.539FE598E7A49D24.title: "Répondre à l’appel du vide"
+quest.540859E384C55E9B.quest_desc: ["&eWailmer&r est une récompense garantie en capturant un &eWailmer chromatique sauvage&r"]
+quest.547FA9AEC92B8E13.quest_desc: [
+	"En explorant et en récupérant du butin, tu auras besoin de quoi transporter ce que ton inventaire ne peut pas contenir. &6Sophisticated Storage&r propose des sacs à dos et de nombreuses améliorations pour faciliter le loot."
+	""
+	"Il ajoute aussi des coffres et tonneaux améliorés, qui fonctionnent parfaitement avec &bTom’s Simple Storage&r."
+	""
+	"Tom’s regroupe tous tes coffres dans un grand terminal unique, où tu peux même crafter directement. Il existe aussi en version sans fil ! Consulte le &aPoképedia&r pour commencer."
+]
+quest.54FC909A7646B9D9.quest_desc: ["&ePiloswine&r est une récompense garantie en capturant un &ePiloswine chromatique sauvage&r"]
+quest.553E4DEC6EA9D9A3.quest_desc: [
+	"Envie de voyager sans voyager ? &bWaystones&r ajoute des blocs de téléportation que tu peux utiliser à tout moment avec un &3Parchemin de téléportation&r."
+	""
+	"Pour qu’un Waystone apparaisse dans ta liste, tu dois d’abord l’&bactiver&r en faisant un clic droit. Ils sont privés par défaut."
+	""
+	"Tu veux rejoindre un joueur directement ? Utilise un &eTelePass&r de la &6Boutique&r !"
+	""
+	"Le TelePass se lie au premier joueur qui le tient et doit être donné à quelqu’un d’autre. Quand ce joueur fait clic droit, il est téléporté vers le propriétaire."
+	""
+	"&8&oLes doyens de l’Académie peuvent créer des Waystones globaux accessibles à tous."
+]
+quest.553E4DEC6EA9D9A3.title: "Téléportation"
+quest.556D0617CD7FCF13.title: "Combat"
+quest.55707D3A2DE9528D.title: "Planeurs"
+quest.557081975048053B.quest_subtitle: "&d+1 &dPoint de récompense"
+quest.55D3D3B4F38A62B2.quest_desc: ["&eCarapuce&r peut être rarement &bpiqué à la canne&r en pêchant avec un Pokerod"]
+quest.55DC01F1BF2DF384.title: "Plante"
+quest.55F51EA0E41DE83C.quest_desc: [
+	"&eLézargus&r est une récompense accordée aux champions de l’&6Arène de type Insecte&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et sont garanties au niveau 100"
+]
+quest.5627D220BC84C195.title: "Forêt écarlate"
+quest.567A1C9B74CC22C5.quest_desc: [
+	"&eTrépassable&r est une récompense accordée aux champions de l’&6Arène de type Sol&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et sont garanties au niveau 100"
+]
+quest.567E175312F22829.quest_desc: [
+	"Cosmog peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Bosquet de cerisiers"
+	"• Forêt fleurie"
+	"• Prairie"
+	"• Champs de tournesols"
+	"• Biomes de l’End (vanilla)"
+]
+quest.567E175312F22829.quest_subtitle: "Invoque &3Cosmog"
+quest.567E175312F22829.title: "Sac de Lillie"
+quest.572F7AA4A630CC91.quest_desc: [
+	"Ho-Oh peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Prairie"
+	"• Champs de tournesols"
+	"• Forêt fleurie"
+	"• Biomes d’été"
+]
+quest.572F7AA4A630CC91.quest_subtitle: "Invoque &3Ho-Oh"
+quest.582FAD168A861CA4.title: "Introduction à : &6La Boutique"
+quest.584868E782EF4256.quest_desc: [
+	"Boréas peut être invoqué en utilisant cet objet clé dans ces biomes &9pendant un orage&r :"
+	""
+	"• Savane"
+	"• Champs de tournesols"
+	"• Désert"
+]
+quest.584868E782EF4256.quest_subtitle: "Invoque &3Landorus"
+quest.584868E782EF4256.title: "Glas révélateur"
+quest.58555DFC5D66800E.quest_desc: [
+	"Les &6Bottes nuageuses&r te donnent un bonus de saut et de vitesse. Les versions supérieures renforcent ces effets."
+	""
+	"Les &6Griffes d’escalade&r te permettent de grimper n’importe quel mur, quelle que soit sa hauteur."
+	""
+	"Les &6Patins à glace&r transforment le sol sous tes pieds en véritable patinoire."
+]
+quest.58555DFC5D66800E.title: "Tout-terrain"
+quest.5866E7030A06CF31.title: "Arène Roche"
+quest.58C794C7B210EFA5.quest_desc: [
+	"Bienvenue dans ton premier &dDéfi de cours&r ! Ce sont des pages de quêtes thématiques proposées par l’Académie à chaque nouvelle saison."
+	""
+	"Ce cours t’aidera à t’imposer comme un dresseur sérieux aux yeux de tes pairs et, surtout, du conseil."
+]
+quest.58C794C7B210EFA5.title: "Introduction à : &dLes Préliminaires"
+quest.58EC5FCBC1A9297B.quest_desc: ["Une fois complétée, les quêtes de cette récompense se réinitialisent après &c8 heures IRL&r."]
+quest.58EC5FCBC1A9297B.quest_subtitle: "&93 &9Points de récompense requis"
+quest.58EC5FCBC1A9297B.title: "Sac de clé d’arène"
+quest.599CBD8D3DBBE0EF.title: "Poison"
+quest.59B45B180C4BC2D1.quest_desc: ["&eGrelaçon&r peut parfois être trouvé dans les coffres de sous-sol des &bigloos&r"]
+quest.59F116520B42A5AF.quest_desc: [
+	"Zacian peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Forêt fleurie"
+	"• Prairie"
+	"• Biomes magiques"
+	"• Forêts"
+	"• Hautes terres"
+]
+quest.59F116520B42A5AF.quest_subtitle: "Invoque &3Zacian"
+quest.59F116520B42A5AF.title: "Épée rouillée"
+quest.5A650A97AFAE3F76.quest_desc: [
+	"Regice peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Rivière gelée"
+	"• Pics dentelés"
+	"• Plage enneigée"
+	"• Plaines enneigées"
+	"• Pentes enneigées"
+	"• Océan gelé"
+	"• Biomes glaciaires"
+	"• Forêts enneigées"
+	"• Biomes gelés"
+	"• Biomes de pics"
+	"• Taïga"
+	"• Toundra"
+]
+quest.5A650A97AFAE3F76.quest_subtitle: "Invoque &3Regice"
+quest.5A650A97AFAE3F76.title: "Tablette de glace"
+quest.5AB095B0AC24980A.quest_desc: [
+	"Tokopiyon peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Jungle"
+	"• Côte rocheuse"
+	"• Biomes de plage"
+]
+quest.5AB095B0AC24980A.quest_subtitle: "Invoque &3Tokopiyon"
+quest.5AB095B0AC24980A.title: "Totem de Fini"
+quest.5ACD9AB99E8D8ECF.quest_desc: ["Les &6Super Balls&r augmentent de x1.5 les chances de capture sur les Cobblemon sauvages."]
+quest.5AF73E7484202AD6.quest_desc: ["&eOlivini&r est une récompense garantie en capturant un &eOlivini chromatique sauvage&r"]
+quest.5B544A6556FA1E4D.quest_subtitle: "&9+1 &9Point de récompense"
+quest.5BA25E0B3DDEAC96.quest_desc: ["Le mod &6Waystones&r propose plusieurs moyens de téléportation entre différents lieux. Le parchemin dans ton inventaire te permet de voyager vers n’importe quel Waystone actif contre de l’XP."]
+quest.5C545D7F81E9EB5C.title: "Vol"
+quest.5C666C61F09D6125.quest_desc: ["&eSalamèche&r peut parfois t’être offert en &éfaisant évoluer Reptincel en Dracaufeu&r"]
+quest.5CDDFF2089058294.quest_subtitle: "&9+2 &9Points de récompense"
+quest.5CFFB1159EB99B66.quest_desc: [
+	"Les &6Coffres liés&r permettent de stocker et transférer des objets entre dimensions grâce à des canaux de couleur."
+	""
+	"Chaque coffre possède &etrois boutons&r pouvant être colorés avec des &etintes&r. Deux coffres partageant les mêmes couleurs forment un canal commun."
+	""
+	"Un clic avec un &eDiamant&r verrouille le canal pour ton usage exclusif, empêchant les autres joueurs de l’utiliser."
+]
+quest.5D7033A163A6B196.quest_desc: [
+	"Azelf peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Marais de mangrove"
+	"• Marais"
+	"• Biomes de rivières"
+]
+quest.5D7033A163A6B196.quest_subtitle: "Invoque &3Azelf"
+quest.5D7033A163A6B196.title: "Croc d’Azelf"
+
+quest.5D798E999D371708.quest_desc: [
+	"Latias peut être invoquée en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Forêt de fleurs"
+	"• Forêt de bouleaux"
+	"• Biomes côtiers"
+	"• Biomes tempérés"
+	"• Biomes de plage"
+]
+quest.5D798E999D371708.quest_subtitle: "Invoque &3Latias"
+quest.5D798E999D371708.title: "Ticket EON"
+
+quest.5D98DC1370E79C0B.title: "Fée"
+
+quest.5DA9C5E9FEC7BBF1.title: "Introduction à : &4Entraînement d’endurance"
+
+quest.5E5D5477D967C6AD.title: "Capturer 50 types Sol ou Roche"
+
+quest.5E9F64370726F7FA.quest_desc: [
+	"Le &6Planeur&r ralentit ta chute lorsqu’il est tenu dans une main, mais uniquement si tu maintiens la touche de saut. Les niveaux supérieurs permettent de planer plus loin."
+]
+
+quest.5EC3EC59BC672343.title: "Arène Fée"
+
+quest.5EC5C45F353618A2.quest_desc: ["&eRonflex&r peut être rarement obtenu via &9résurrection de fossile&r"]
+
+quest.5EF7BF2DE90BF88C.quest_desc: [
+	"Lunala peut être invoqué en utilisant cet objet clé dans ces biomes &9pendant la nuit&r :"
+	""
+	"• Forêt sombre"
+	"• Biomes de collines"
+]
+quest.5EF7BF2DE90BF88C.quest_subtitle: "Invoque &3Lunala"
+quest.5EF7BF2DE90BF88C.title: "Flûte de la Lune"
+
+quest.604F94F77D75204B.quest_desc: ["&eCrustabri&r peut parfois être trouvé dans les coffres et tonneaux des &9ruines sous-marines&r"]
+
+quest.61C329E1DEC6F0E4.quest_desc: ["La &6Griffe de Krabboss&r augmente ta portée de 5 blocs lorsqu’elle est tenue en main secondaire."]
+
+quest.62B7BC569BB4814C.title: "Capturer 30 Cobblemon"
+
+quest.63A5A8D2D64EB8CE.quest_desc: [
+	"Palkia peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Tous les biomes de l’End"
+]
+quest.63A5A8D2D64EB8CE.quest_subtitle: "Invoque &3Palkia"
+quest.63A5A8D2D64EB8CE.title: "Orbe lustre"
+
+quest.660C0B42E39D545C.title: "Arène Eau"
+
+quest.6624B1C13505A5EA.quest_desc: [
+	"Tokorico peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Jungle"
+	"• Côte rocheuse"
+	"• Biomes de plage"
+]
+quest.6624B1C13505A5EA.quest_subtitle: "Invoque &3Tokorico"
+quest.6624B1C13505A5EA.title: "Totem de Koko"
+
+quest.66AA28A037E7AF6F.quest_desc: [
+	"Reshiram peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Savane"
+	"• Plaines de tournesols"
+	"• Désert"
+]
+quest.66AA28A037E7AF6F.quest_subtitle: "Invoque &3Reshiram"
+quest.66AA28A037E7AF6F.title: "Pierre lumière"
+
+quest.66C8B4D9A3B07033.quest_desc: ["&eÉvoli&r est une récompense garantie en capturant un &eÉvoli chromatique sauvage&r"]
+
+quest.673019DDF191E7E4.title: "Champion d’arène Sol"
+
+quest.6770CB8BAE9AA027.quest_desc: [
+	"Tu croiseras des &6Bronze&r, &7Argent&r et même des &ePièces d’or&r durant ton aventure. Elles appartiennent au mod &6Numismatic Overhaul&r et servent de monnaie principale de l’Académie."
+	""
+	"Il existe plusieurs façons d’obtenir des pièces : looter des structures, capturer ou vaincre des Cobblemon sauvages, réussir des &eChasses&r, vaincre des &9Arènes&r et compléter des &3quêtes&r."
+	""
+	"Ton inventaire contient un &ePortefeuille&r lié à toi, où tu peux stocker tes richesses. Pour déposer, fais clic droit avec des pièces en main. Pour retirer, ouvre-le et ajuste la quantité."
+	""
+	"Les pièces se convertissent automatiquement en la plus haute valeur possible."
+	""
+	"&6100 Bronze&r = &71 Argent&r ; &7100 Argent&r = &e1 Or&r."
+	""
+	"Quand tu as accumulé une fortune, rends-toi à la &6Boutique&r pour dépenser tes pièces !"
+]
+quest.6770CB8BAE9AA027.title: "Introduction à : &6Numismatic Overhaul"
+
+quest.67E136397D4F305A.quest_desc: [
+	"Les &6Safari Balls&r ont un bonus de capture x1.5 sur les Cobblemon sauvages."
+	""
+	"Elles ne peuvent pas être craftées et sont les seules balles normales utilisables dans le &2Safari Realm&r."
+]
+
+quest.68E2F795B0EAD3CD.quest_desc: [
+	"&eTéraclope&r est une récompense accordée aux champions de l’&6Arène de type Vol&r"
+	""
+	"Les chances augmentent avec le niveau de l’arène et sont garanties au niveau 100"
+]
+
+quest.69052C05D1C60F30.quest_desc: [
+	"Regidrago peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Biomes du Nether vanilla"
+	"• Biomes de l’End vanilla"
+]
+quest.69052C05D1C60F30.quest_subtitle: "Invoque &3Regidrago"
+quest.69052C05D1C60F30.title: "Tablette écailleuse"
+
+quest.6947EA00F5548DC9.quest_desc: ["&eHerbizarre&r est rarement obtenu lors de la &arécolte d’Aprikornes entièrement mûres&r"]
+
+quest.6A0EA378A273D061.title: "Champion d’arène Spectre"
+
+quest.6A6694E4C5CC1544.title: "Téléportation"
+
+quest.6B3B2295BA251643.quest_desc: [
+	"Cresselia peut être invoqué en utilisant cet objet clé &cpendant la nuit&r dans ces biomes :"
+	""
+	"• Champs de champignons"
+	"• Côte de champignons"
+	"• Toundra enneigée"
+]
+quest.6B3B2295BA251643.quest_subtitle: "Invoque &3Cresselia"
+quest.6B3B2295BA251643.title: "Aile Lunaire"
+
+quest.6B8582E4ECAF2D8D.title: "Choisis un starter de type Eau !"
+
+quest.6BA0AC2E5593B911.quest_desc: ["&ePhantump&r a une chance de tomber lors de la capture d’un Phantump sauvage dans le &5Marais Sombre&r du &2Monde Safari&r"]
+
+quest.6D0A5CDAB50A891B.quest_desc: ["&eTreecko&r peut être obtenu rarement en &9réanimant un fossile&r"]
+
+quest.6D4A8213201042CA.title: "Capture un Pokémon chromatique de type Psy, Spectre ou Ténèbres"
+
+quest.6D75EA3AACF013E5.quest_desc: [
+	"Groudon peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Biomes volcaniques"
+	"• Badlands"
+	"• Badlands érodées"
+	"• Biomes désertiques"
+	"• Biomes arides"
+	"• Biomes thermiques"
+]
+
+quest.6D75EA3AACF013E5.quest_subtitle: "Invoque &3Groudon"
+quest.6D75EA3AACF013E5.title: "Orbe Rouge"
+
+quest.6DC4B8107650AE80.title: "Arène de Glace"
+
+quest.6DCDB93A59B0843A.quest_desc: [
+	"Chien-Pao peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Biomes glacés"
+]
+
+quest.6DCDB93A59B0843A.quest_subtitle: "Invoque &3Chien-Pao"
+quest.6DCDB93A59B0843A.title: "Lame du Fléau"
+
+quest.6E09D016292FCEF5.title: "Une volée de rongeurs"
+
+quest.6E48FC0B8237BAAA.quest_subtitle: "&d+2 &dPoints de récompense"
+
+quest.6E5C11BB3FC1E06B.quest_desc: [
+	"&eStonjourner&r est offert aux champions de l’&6Arène de type Roche&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et il est garanti au niveau 100"
+]
+
+quest.6EB0A92C7CFB581E.quest_desc: [
+	"&eAmpharos&r est offert aux champions de l’&6Arène de type Électrik&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et il est garanti au niveau 100"
+]
+
+quest.6F24EB7222E327F2.quest_desc: [
+	"Xerneas peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Forêt de fleurs"
+	"• Biomes forestiers"
+	"• Prairie"
+	"• Biomes magiques"
+	"• Biomes floraux"
+]
+
+quest.6F24EB7222E327F2.quest_subtitle: "Invoque &3Xerneas"
+quest.6F24EB7222E327F2.title: "Pousse de Vie"
+
+quest.6F9680A11597D34D.quest_desc: [
+	"Heatran peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Désolation du Nether"
+	"• Deltas de basalte"
+	"• Forêt carmin"
+]
+
+quest.6F9680A11597D34D.quest_subtitle: "Invoque &3Heatran"
+quest.6F9680A11597D34D.title: "Pierre Magma"
+
+quest.6F9703FACE4649BD.title: "Eau"
+
+quest.6FC1E5BABE21CF5C.title: "Arène Ténèbres"
+
+quest.6FFBD1CFF3D803D1.quest_desc: ["&eFantominus&r a une chance de tomber lors de la capture d’un Fantominus sauvage dans le &5Marais Sombre&r du &2Monde Safari&r"]
+
+quest.715646DBE5F1FEBE.quest_desc: [
+	"C’est l’endroit pour poser des questions, signaler des bugs ou simplement partager quelque chose que tu trouves cool."
+	""
+	"Il y a aussi un canal pour envoyer des captures d’écran si tu veux que l’une d’elles apparaisse dans le &ddiaporama de chargement du monde&r."
+	""
+	"&bdiscord.gg/cobblemon-academy&r"
+]
+quest.715646DBE5F1FEBE.quest_subtitle: "On a un Discord cette fois :\")"
+quest.715646DBE5F1FEBE.title: "Besoin d’aide ?"
+
+quest.717D5537D7253331.quest_desc: [
+	"Les Cobblemon &dLégendaires&r sont des êtres puissants qui n’apparaissent que si un dresseur possède leur &5objet clé&r."
+	""
+	"Les objets clés peuvent être trouvés dans des structures comme du &etrésor rare&r ou obtenus en récompense après avoir vaincu des &9Arènes&r. Les structures plus rares et les arènes de plus haut niveau ont plus de chances d’en donner un."
+	""
+	"Les objets clés doivent être utilisés dans des biomes spécifiques pour invoquer leur légendaire. Par exemple, une &5Orbe Bleue&r invoquera &dKyogre&r uniquement si le dresseur se trouve dans un &aOcéan&r."
+	""
+	"Une fois dans le bon biome et l’objet clé en main, &dclique droit dessus&r pour invoquer le légendaire. Il apparaîtra quelque part à proximité, reste attentif !"
+	""
+	"&8&oIl peut falloir plusieurs essais avant que l’objet invoque le légendaire. Continue de cliquer droit !"
+]
+
+quest.717D5537D7253331.title: "Introduction à : &dInvocation des Légendaires"
+
+quest.71A6DD341048F46C.quest_desc: ["Une &6Carte Shiny&r est un objet légendaire qui transforme un Cobblemon en sa forme chromatique"]
+
+quest.71EF959FBD19B266.quest_desc: ["&eCalyrex&r est un drop garanti lors de la &dcapture d’un Calyrex sauvage&r"]
+
+quest.71EFD0FD52A4CC68.quest_subtitle: "&d+1 &dPoint de récompense"
+
+quest.72192E605CF21E3B.quest_desc: ["&o&8Veuillez ignorer cette quête, elle sert juste pour les timers lol"]
+quest.72192E605CF21E3B.quest_subtitle: "&o3 Points de récompense requis"
+quest.72192E605CF21E3B.title: "Clé d’Arène"
+
+quest.721B628A2C2D854F.title: "Glace"
+
+quest.723717CBFD8DF3DA.quest_desc: [
+	"Un &6Point de Puissance&r est un bloc nécessaire pour créer une zone permettant la Dynamax. Tu dois être à moins de 20 blocs du Point de Puissance pendant un combat avec un Bracelet Dynamax équipé pour pouvoir Dynamax un Cobblemon."
+	""
+	"&8&oÀ cause de la puissance de cet objet, l’Académie a retiré sa recette et l’a rendu disponible uniquement à l’achat en boutique."
+]
+
+quest.72501C1DDBADB29A.quest_desc: [
+	"Si tu trouves des &6Pièces&r en &6Bronze&r, &7Argent&r ou &eOr&r durant ton aventure, elles proviennent de &6Numismatic Overhaul&r et peuvent être échangées contre des objets dans la &6Boutique&r."
+	""
+	"&bLes boutiques sont des structures de l’Académie disséminées dans le monde.&r"
+	""
+	"Il existe plusieurs moyens d’obtenir des pièces : looter des structures, capturer des Cobblemon sauvages et vaincre des &9Arènes&r."
+	""
+	"&6100 Bronze&r = &71 Argent&r, et &7100 Argent&r = &e1 Or&r."
+	""
+	"Ton inventaire contient un &6Portefeuille&r lié à toi pour toujours et sécurisé pour stocker tes richesses. Pour y déposer des pièces, tiens-les en main et fais clic droit. Pour retirer, clique dessus et utilise les flèches pour choisir le montant."
+	""
+	"Tu veux vendre tes objets aux autres ? Fabrique un &6bloc de boutique&r et fais ta pub !"
+	""
+	"&8&oLes pièces déposées dans ton portefeuille se convertissent automatiquement dans leur plus grande valeur. Tu peux retirer n’importe quelle dénomination."
+	"&8&oShift + clic sur les flèches augmente ou diminue par tranches de 10."
+]
+
+quest.72501C1DDBADB29A.title: "Économie"
+
+quest.72E2DFB536BC93F9.title: "Capture 75 Cobblemon"
+quest.7302A25CDE0F639E.title: "Capture 200 Cobblemon"
+
+quest.737CEB3C0D8FE0BD.quest_desc: [
+	"&eRabsca&r est offert aux champions de l’&6Arène de type Psy&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et il est garanti au niveau 100"
+]
+
+quest.73A9BF7626D99CD1.title: "Découverte des villages de l’End"
+
+quest.741F6D4584EB8FFB.quest_desc: [
+	"Uxie peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Mangrove"
+	"• Marais"
+	"• Biomes de rivière"
+	"• Biomes d’eau douce"
+]
+
+quest.741F6D4584EB8FFB.quest_subtitle: "Invoque &3Uxie"
+quest.741F6D4584EB8FFB.title: "Griffe d’Uxie"
+
+quest.74263F4EDFE19204.quest_desc: ["&eCarapuce&r peut être rarement &bpêché&r avec une Pokerod"]
+
+quest.745179AD1C8BA636.quest_desc: ["&eBekipan glacé (Eiscue)&r est un drop garanti en capturant un &eshiny Eiscue sauvage&r"]
+
+quest.754A191AD9E0647B.quest_desc: [
+	"&eAbsol&r est offert aux champions de l’&6Arène de type Ténèbres&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et il est garanti au niveau 100"
+]
+
+quest.7554BDFA3E7021FF.title: "Affrontement Méga"
+
+quest.759B0EADE80C8835.title: "Arène Normal"
+
+quest.76523991E58A0553.quest_desc: ["&eTrevenant&r peut être obtenu en capturant un Trevenant sauvage dans le &5Marais Sombre&r et les &9Forêts de Clair de Lune&r du &2Monde Safari&r"]
+
+quest.7799A77B6C756AEC.quest_desc: [
+	"Terrakium peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Collines"
+	"• Hautes terres"
+	"• Montagnes"
+]
+
+quest.7799A77B6C756AEC.quest_subtitle: "Invoque &3Terrakium"
+quest.7799A77B6C756AEC.title: "Bouclier des Cavernes"
+
+quest.781D763862E8672A.title: "Fin de cours"
+
+quest.789267C7AEAC3508.title: "Acier"
+
+quest.78EA4EBD06E2811F.quest_desc: ["&eBulbizarre&r est rarement obtenu en &brécoltant des Noigrumes totalement mûrs&r de n’importe quelle couleur"]
+
+quest.78ECE9F316C99327.quest_subtitle: "Vendus par lots de 6 comme des boîtes de cinnamon rolls Cinnabon"
+quest.78ECE9F316C99327.title: "Poké Balls"
+
+quest.79491F223F97674B.quest_desc: [
+	"&eObalie&r est offert aux champions de l’&6Arène de type Eau&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et il est garanti au niveau 100"
+]
+quest.79A72E3B56973870.quest_desc: [
+	"Koraidon peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Badlands"
+	"• Badlands érodées"
+	"• Savane"
+	"• Plateau de savane"
+	"• Biomes de savane"
+	"• Biomes de plateau"
+	"• Biomes de montagne"
+]
+quest.79A72E3B56973870.quest_subtitle: "Invoque &3Koraidon"
+quest.79A72E3B56973870.title: "Livre Écarlate"
+
+quest.79CC6F07B278B2CD.quest_desc: [
+	"Giratina peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Tous les biomes du Nether"
+]
+quest.79CC6F07B278B2CD.quest_subtitle: "Invoque &3Giratina"
+quest.79CC6F07B278B2CD.title: "Orbe Grise"
+
+quest.79FFB7A60E75B7A7.quest_desc: ["&eWailord&r a une chance d’être obtenu lors de la capture d’un Wailord sauvage dans les &9Mers étoilées&r du &2Monde Safari&r"]
+
+quest.7AF18AF6E5B5D339.quest_desc: ["Une &6Éther&r restaure 10 PP d’une attaque d’un Cobblemon."]
+quest.7AF18AF6E5B5D339.quest_subtitle: "30x &6Pièce de bronze"
+quest.7AF18AF6E5B5D339.title: "Éther"
+
+quest.7B22E1C67431EA4B.quest_desc: [
+	"Necrozma peut être invoqué en utilisant cet objet clé &cainsi que 3 Pierres Brillantes&r dans ces biomes :"
+	""
+	"• Deep Dark"
+	"• Biomes de l’End vanilla"
+]
+quest.7B22E1C67431EA4B.quest_subtitle: "Invoque &3Necrozma"
+quest.7B22E1C67431EA4B.title: "Prisme Nécro"
+
+quest.7B91A528E7490F4F.quest_desc: [
+	"Mewtwo peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Collines de gravier balayées par les vents"
+	"• Forêt noire"
+	"• Deep Dark"
+	"• Biomes de grottes"
+	"• Biomes effrayants"
+]
+quest.7B91A528E7490F4F.quest_subtitle: "Invoque &3Mewtwo"
+quest.7B91A528E7490F4F.title: "Journal du Dr Fuji"
+
+quest.7C11152DA1127B24.quest_desc: [
+	"Les &6planeurs&r ralentissent ta descente en tombant. Les planeurs de niveau supérieur ralentissent davantage et permettent de planer plus loin."
+	""
+	"Pour l’utiliser, tiens-le dans une main et garde le bouton de saut appuyé."
+	""
+	"&8&oTu veux en obtenir un meilleur ? Les planeurs en bois peuvent être échangés pour la moitié de leur valeur en les plaçant dans une table de craft."
+]
+
+quest.7C4036379658583E.quest_subtitle: "&9+1 &9Point de récompense"
+
+quest.7C4E4D79CEF301EC.quest_desc: [
+	"&eMunchlax&r est offert aux champions de l’&6Arène de type Normal&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et il est garanti au niveau 100"
+]
+
+quest.7C6DBC1165BE234A.quest_desc: ["&eDelibird&r peut parfois être trouvé dans des coffres au sommet des &6Tours du Sauvage&r"]
+
+quest.7CFF3CB438D86C45.quest_desc: [
+	"Kubfu peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Jungle"
+	"• Bambou"
+]
+quest.7CFF3CB438D86C45.quest_subtitle: "Invoque &3Kubfu"
+quest.7CFF3CB438D86C45.title: "Bracelet de Kubfu"
+
+quest.7D690863CE4C51F0.title: "Choisis un starter de type Feu !"
+
+quest.7D7632D13DFBDB16.title: "Roche"
+
+quest.7DCE99F3DA10873A.quest_desc: [
+	"Kyogre peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Biomes océaniques"
+]
+quest.7DCE99F3DA10873A.quest_subtitle: "Invoque &3Kyogre"
+quest.7DCE99F3DA10873A.title: "Orbe Bleue"
+
+quest.7E9A1D9406D51030.title: "Scanner 50 Cobblemon"
+
+quest.7EB65118ED7168DB.title: "Arène Acier"
+
+quest.7F0C7B93B201C567.quest_desc: [
+	"Moltres peut être invoqué en utilisant cet objet clé dans ces biomes :"
+	""
+	"• Badlands"
+	"• Collines balayées par les vents"
+	"• Biomes volcaniques"
+	"• Biomes thermiques"
+	"• Le ciel"
+]
+quest.7F0C7B93B201C567.quest_subtitle: "Invoque &3Moltres"
+quest.7F0C7B93B201C567.title: "Cloche des marées"
+
+quest.7F40F3523E7DB7C3.title: "Insecte"
+
+quest.7FDF7D9F7ACC1A32.quest_desc: [
+	"&eRiolu&r est offert aux champions de l’&6Arène de type Combat&r"
+	""
+	"Les chances d’en obtenir un augmentent avec le niveau de l’arène et il est garanti au niveau 100"
+]
+reward.00BF3B2B7892773B.title: "&5+1 Point de récompense"
+reward.01EDD5AD69119848.title: "&e+1 Point de récompense"
+reward.030FB4BF5DFFDD98.title: "&5+1 Point de récompense"
+reward.036F3F360C20F8D8.title: " "
+reward.05446B38591D68CC.title: "&5+1 Point de récompense"
+reward.067743798C9F2EF4.title: "Objets de puissance"
+reward.06D6820D9245BEB1.title: "&e+1 Point de récompense"
+reward.07063B6DB5A84BA8.title: "&e+1 Point de récompense"
+reward.076123331378A3A6.title: "Clé d’Arène (Feu)"
+reward.078E84C676FAA68D.title: "Clé d’Arène (Normal)"
+reward.081D2217EC9FF101.title: "&e+1 Point de récompense"
+reward.08B51AABC8E8C761.title: "&e+1 Point de récompense"
+reward.09ED5067912497CA.title: "Clé d’Arène (Spectre)"
+reward.0AFBF373D8798EEA.title: "&9+1 &9Point de récompense"
+reward.0B4776540AE04FEA.title: "&5+1 Point de récompense"
+reward.0B8E083E1F0651AB.title: "&e+1 Point de récompense"
+reward.0B9DADBCE4A63EAE.title: "&e+1 Point de récompense"
+reward.0B9F8DA731E531E3.title: "&5+1 Point de récompense"
+reward.0BCB0F2D20549389.title: "&5+1 Point de récompense"
+reward.0DAACF4AE381D2F5.title: "Se réinitialise toutes les 12 heures"
+reward.0ED0DCDE50E8C77C.title: "&5+1 Point de récompense"
+reward.0F34FA16E822C7C5.title: "Clé d’Arène (Eau)"
+reward.0FA20C582B626424.title: " "
+reward.0FCE8884158743E1.title: "&5+1 Point de récompense"
+reward.108B9A56E1A1DD3D.title: "&d+1 &dPoint de récompense"
+reward.114C13CD7DA1B483.title: "&e+1 Point de récompense"
+reward.12705E02936922EE.title: "&5+1 Point de récompense"
+reward.12A9A431B9F43AD4.title: "&5+1 Point de récompense"
+reward.1363042E2DC87D9F.title: "&5+1 Point de récompense"
+reward.145442FEA0D8405E.title: " "
+reward.15BEFF8D82A68CD7.title: "&e+1 Point de récompense"
+reward.163595BF7574D3B9.title: " "
+reward.1674D94CA5C8AA31.title: "&9+1 &9Point de récompense"
+reward.169B02E677ABC122.title: "&e+1 Point de récompense"
+reward.16AB7CE686283058.title: "&5+1 Point de récompense"
+reward.1774756CCA597BBD.title: " "
+reward.18A61BF0291AA3A0.title: "&e+1 Point de récompense"
+reward.192910173AA24AA6.title: "&d+1 &dPoint de récompense"
+reward.193B15B4FC79E05C.title: "&5+1 Point de récompense"
+reward.19D735A6BF8B66D3.title: "&5+1 Point de récompense"
+reward.19FEC9A75D629831.title: "&5+1 Point de récompense"
+reward.1ABF6837FA1482C9.title: "&5+1 Point de récompense"
+reward.1ADF5C937302483C.title: "&e+1 Point de récompense"
+reward.1C2B0E5B1C6EA7EB.title: "&e+1 Point de récompense"
+reward.1CEF2A9137D0E9D9.title: "&5+1 Point de récompense"
+reward.1D87A455AFEAC7D6.title: "&e+1 Point de récompense"
+reward.1DE02DAFF9B4DBC2.title: "&5+1 Point de récompense"
+reward.1EDC786773071B9C.title: " "
+reward.20C655127658DE1D.title: "&5+1 Point de récompense"
+reward.2169F39BF35743C9.title: "&5+1 Point de récompense"
+reward.228DBCA96F97DC86.title: "&9+1 &9Point de récompense"
+reward.2304F8602E27D009.title: "Clé d’Arène (Vol)"
+reward.241F9CF8F2024E6F.title: "&5+1 Point de récompense"
+reward.24B5DCFB80906005.title: "&e+1 Point de récompense"
+reward.258E1F74B3954DA2.title: "&e+1 Point de récompense"
+reward.2794F01DE93703A8.title: "&5+1 Point de récompense"
+reward.282A7556AAC98A83.title: "&5+1 Point de récompense"
+reward.2961B1DD222B7F73.title: "&e+1 Point de récompense"
+reward.296B882A15B3F003.title: "&e+1 Point de récompense"
+reward.29D1ACD094A16BF4.title: " "
+reward.29E910C77669FDF9.title: "&5+1 Point de récompense"
+reward.2A5067D6DC3FF14E.title: " "
+reward.2A887F4E8334927A.title: "Clé d’Arène (Sol)"
+reward.2AE33ADC769F35B9.title: "&e+1 Point de récompense"
+reward.2B72330ED7F727A4.title: "&5+1 Point de récompense"
+reward.2C439E33AC79BBB1.title: " "
+reward.2C6C548AC60C459D.title: "&d+2 Points de récompense"
+reward.2C8D1D684F1DED9C.title: " "
+reward.2CBE14C58B28EE63.title: " "
+reward.2CC67FB2DE3CF542.title: "&e+1 Point de récompense"
+reward.2D11C8FD1FE31D48.title: "&5+1 Point de récompense"
+reward.2D4717CE997D2F53.title: "&e+1 Point de récompense"
+reward.2F8ED0D977A064BE.title: "Clé d’Arène (Fée)"
+reward.3050BE5B6EFF61A3.title: "&e+1 Point de récompense"
+reward.306C0B17F5246ECC.title: "&5+1 Point de récompense"
+reward.31813A60F909EC9E.title: "&5+1 Point de récompense"
+reward.3258D8EEDE7CBDCE.title: "&e+1 Point de récompense"
+reward.325DB130B9D251CA.title: " "
+reward.32C1FA2F955419C9.title: "&5+1 Point de récompense"
+reward.3310EE75AA7A0D96.title: "&5+1 Point de récompense"
+reward.336C0507CE2D7A84.title: "&5+1 Point de récompense"
+reward.344B08201BAFF822.title: "&5+1 Point de récompense"
+reward.345627DA624082C4.title: "&e+1 Point de récompense"
+reward.358B73AFBA284BC3.title: "Clé d’Arène (Fée)"
+reward.36244DA8C4BC26F3.title: " "
+reward.36E60D769233A357.title: "&5+1 Point de récompense"
+reward.36EA14C3DF66622D.title: "&e+1 Point de récompense"
+reward.37B30F20D516B4F5.title: "&e+1 Point de récompense"
+reward.383B84CD7BD539D1.title: "&5+1 Point de récompense"
+reward.38E5E7F623FDE72F.title: "&e+1 Point de récompense"
+reward.3943E9BCC29E38F7.title: "&5+1 Point de récompense"
+reward.39DD84186F62B11F.title: "&5+1 Point de récompense"
+reward.3B223FECEF841C44.title: "&5+1 Point de récompense"
+reward.3B5BA61562F054C1.title: "&5+1 Point de récompense"
+reward.3BFC10ECDBEF6EA3.title: "&5+1 Point de récompense"
+reward.3C271F57B3E7706A.title: "&e+1 Point de récompense"
+reward.3D06EDBD7B548590.title: "Clé d’Arène (Électrik)"
+reward.3EF7B45E20943DF3.title: "&e+1 Point de récompense"
+reward.3F7981CE8C309BC0.title: "&e+1 Point de récompense"
+reward.4163193EB208CC98.title: "&9+1 &9Point de récompense"
+reward.4201E951E90BC9F1.title: "&9+3 Points de récompense"
+reward.421C657E39F77397.title: " "
+reward.421E4CA36EC52BBB.title: "&d+1 Point de récompense"
+reward.424DEF8FAAFDFAF5.title: "&e+1 Point de récompense"
+reward.425CC1D180E39B14.title: " "
+reward.428E4FBEAC92E235.title: "Clé d’Arène (Insecte)"
+reward.428F5EC5A4A6A45B.title: "&e+1 Point de récompense"
+reward.434AFF3A9D891CC1.title: "&e+1 Point de récompense"
+reward.45DC12039549A171.title: "&5+1 Point de récompense"
+reward.46CEAD5C7D25D500.title: "&e+1 Point de récompense"
+reward.471F5677BC60FAA2.title: "&e+1 Point de récompense"
+reward.480AA2A6F6E7C4BB.title: "&9+2 Points de récompense"
+reward.48E509C54EFFC0B8.title: "&e+1 Point de récompense"
+reward.4920E3C2F15B3052.title: "&e+1 Point de récompense"
+reward.4A45770B303372C6.title: "&e+1 Point de récompense"
+reward.4A6F69DA7BAC24A4.title: "&5+1 Point de récompense"
+reward.4AB64C9AF8D248C8.title: "&5+1 Point de récompense"
+reward.4BBE154EF507863A.title: "&e+1 Point de récompense"
+reward.4C227B7948FDE2C6.title: "Pierre Étincelante"
+reward.4C388481E7B10CE2.title: "&5+1 Point de récompense"
+reward.4C4594AAD5FD5B2B.title: "Clé d’Arène (Combat)"
+reward.4D4725FB6E6430EC.title: "Clé d’Arène (Glace)"
+reward.4E4061C63FB461D0.title: "Choisis un starter de type Feu !"
+reward.4F2B7CDEF364306D.title: "&5+1 Point de récompense"
+reward.4F3B9559BEE50FD9.title: "Clé d’Arène (Plante)"
+reward.507EE3A69B31AB0F.title: "Choisis un starter de l’Académie !"
+reward.514357F39403A923.title: "&d+1 Point de récompense"
+reward.51A59A90206459C8.title: "&e+1 Point de récompense"
+reward.51D1B949C4BBD4D5.title: "&e+1 Point de récompense"
+reward.523AD6891C200889.title: "&5+1 Point de récompense"
+reward.5292CAF5DEDB9F24.title: "&e+1 Point de récompense"
+reward.529C0CBFBBFB9480.title: "Clé d’Arène (Dragon)"
+reward.53751A8C73F86264.title: "&5+1 Point de récompense"
+reward.53B89A83FF448CAB.title: "&e+1 Point de récompense"
+reward.54B6C2527ADE4C55.title: "&5+1 Point de récompense"
+reward.5551D5E074789092.title: "&e+1 Point de récompense"
+reward.555F42522F5C9734.title: "&e+1 Point de récompense"
+reward.5616D70801E117D0.title: "&e+1 Point de récompense"
+reward.5685C45B854FA1AE.title: "Choisis un starter de type Plante !"
+reward.572FB620DBF890F8.title: "&e+1 Point de récompense"
+reward.58AC8974BFE78702.title: "Clé d’Arène (Roche)"
+reward.58C619371F7AB31D.title: "&5+1 Point de récompense"
+reward.590CB5E879DAD0E3.title: "Clé d’Arène (Acier)"
+reward.5A4F98326632E76A.title: "&9+1 Point de récompense"
+reward.5B39D0DA4DF8164D.title: " "
+reward.5B490794D3C1B027.title: "&5+1 Point de récompense"
+reward.5BB59AA06675B62F.title: "&5+1 Point de récompense"
+reward.5C677307DC26190D.title: "&e+1 Point de récompense"
+reward.5C6B41239F197047.title: "&5+1 Point de récompense"
+reward.5C80FC7218121EAD.title: " "
+reward.5CBBDAC3C586DCC0.title: "&e+1 Point de récompense"
+reward.5CFD252850DC9BEF.title: "&5+1 Point de récompense"
+reward.5D1EEC82E2A4E56C.title: "&d+1 Point de récompense"
+reward.5D469625B92C011C.title: "Clé d’Arène (Ténèbres)"
+reward.5DBE1B012F75F9E8.title: "+30 niveaux d’expérience"
+reward.5E12A0C7D94608D1.title: "&e+1 Point de récompense"
+reward.5E8AF75F408D83B9.title: "Accessoires de sirène"
+reward.5E98207FE23DAD10.title: "&e+1 Point de récompense"
+reward.5F6191C0BEF60AB2.title: "Choisis un starter de type Eau !"
+reward.6077F11CF480BADF.title: "&5+1 Point de récompense"
+reward.612A7FE04B5E2906.title: "&5+1 Point de récompense"
+reward.61B3B46FD9BB5B14.title: " "
+reward.626E9537CF3377D1.title: "&e+1 Point de récompense"
+reward.6275F71AAC0DB853.title: " "
+reward.63382CFA856D7021.title: "&5+1 Point de récompense"
+reward.634B592B0F0F0C9D.title: "&e+1 Point de récompense"
+reward.64D30BBB35DA3BB4.title: "&9+1 Point de récompense"
+reward.657A7A3939B7623C.title: "&5+1 Point de récompense"
+reward.662CA2F29F53A0E5.title: "&e+1 Point de récompense"
+reward.667882E67B54EE27.title: "&e+1 Point de récompense"
+reward.668BB540B628801B.title: "&5+1 Point de récompense"
+reward.66B56F51801BB60F.title: " "
+reward.673E64C741B99B15.title: "&e+1 Point de récompense"
+reward.678F612B18BF95A1.title: "&5+1 Point de récompense"
+reward.67F1808391ED1E0D.title: "&9+1 Point de récompense"
+reward.67FFAB476EEE36D4.title: "&e+1 Point de récompense"
+reward.68C88C30C770A83A.title: "&e+1 Point de récompense"
+reward.69163E744EE0ADCD.title: " "
+reward.6A2A591FD8C985D3.title: "&e+1 Point de récompense"
+reward.6B4D70856793526D.title: "&d+3 Points de récompense"
+reward.6CD315E91F188569.title: "Clé d’Arène (Poison)"
+reward.6DD958410CA5B4EA.title: "&5+1 Point de récompense"
+reward.6FB47EB50C01140A.title: "&5+1 Point de récompense"
+reward.70EDD16395D65045.title: "Récompense quotidienne ! Reviens toutes les 24 heures"
+reward.70FC9288F47AD515.title: "&e+1 Point de récompense"
+reward.71FEB592D07BE1AA.title: "&e+1 Point de récompense"
+reward.7298919D1CD68DA9.title: "&d+2 Points de récompense"
+reward.72D416FE9CDBDE04.title: "&9+3 Points de récompense"
+reward.7335399E4F41E1A1.title: "&5+1 Point de récompense"
+reward.73A905F8E2C9A72E.title: "&5+1 Point de récompense"
+reward.73BF6DBF0862E20C.title: "&e+1 Point de récompense"
+reward.740030EA553AC94B.title: "&9+1 Point de récompense"
+reward.74429A3C112FDB87.title: "&e+1 Point de récompense"
+reward.745A100A9BA85278.title: " "
+reward.75AEB867F823EF91.title: "&d+1 Point de récompense"
+reward.767C97F353E2CD68.title: "&e+1 Point de récompense"
+reward.7851E855B098A6C4.title: "&e+1 Point de récompense"
+reward.7873D1C1BF277677.title: " "
+reward.78E0710DD45EA2C6.title: " "
+reward.7984505F833E4CED.title: "&e+1 Point de récompense"
+reward.7A087255997DA425.title: "&5+1 Point de récompense"
+reward.7A2C94C184F31D90.title: "&d+1 Point de récompense"
+reward.7A93D41B9D905F5D.title: "&d+1 Point de récompense"
+reward.7B416499DC971EA7.title: "&e+1 Point de récompense"
+reward.7BADD2885ED26600.title: "&d+1 Point de récompense"
+reward.7C9CFE94CF547D97.title: "&5+1 Point de récompense"
+reward.7D11A37A4666994F.title: "&e+1 Point de récompense"
+reward.7DB5692E49D56DAF.title: " "
+reward.7E19725C99EFC910.title: "&e+1 Point de récompense"
+reward.7F0C992BFCC6F66C.title: "&9+1 Point de récompense"
+reward.7F20A6F73280C6E7.title: "&e+1 Point de récompense"
+reward.7FCC15A444AB3BAB.title: " "
+reward_table.01A7EE6B50E260A8.title: "Peluches shiny Salamèche"
+reward_table.048F1B649B2F9C31.title: "Pokedoll shiny Blizzaroi"
+reward_table.04D35D8696F911D8.title: "Défaite_T4"
+reward_table.0577FE1BDF8D4FBC.title: "Capture shiny"
+reward_table.09EB84DB6CA81EC0.title: "Capture_T4"
+reward_table.0F96F1A4F29466CC.title: "Récompense d’Arène"
+reward_table.0FB1681C7A220C08.title: "Bonbons"
+reward_table.12A28FDAB7130DE9.title: "Nourriture starter (Plante)"
+reward_table.12EFC48ED858846E.title: "Œufs"
+reward_table.142C2E295DB3B49E.title: "Défaite_T1"
+reward_table.144A1218F251C3EB.title: "Fossile de Brindibou"
+reward_table.16969C483E2EC7D4.title: "Pokedoll shiny Wailord"
+reward_table.180BBDF3A71FF95C.title: "Résumé d’été"
+reward_table.1843033FAA677D5C.title: "Pierre étincelante"
+reward_table.18B08876965550C8.title: "Capture_T5"
+reward_table.198C95E2AE0B1AFD.title: "Libération shiny"
+reward_table.1A5FFADB39D62892.title: "Récompense légendaire"
+reward_table.1A651BF629D1CBE6.title: "Récompense de cours 2"
+reward_table.1F263A15C3FDA2B3.title: "Fossile Ronflex"
+reward_table.2065605F622A74A7.title: "Objets de puissance"
+reward_table.220E0B5857A76876.title: "Bracelet Méga"
+reward_table.22282A48CB866CF3.title: "Fossile de Germignon"
+reward_table.298404DF1257CEE2.title: "Tickets Safari"
+reward_table.2A3D7E4EE566571D.title: "Capture_T1"
+reward_table.2C615FA1460C6BDD.title: "Défaite_T5"
+reward_table.2C9D03CA7F60CE6A.title: "Chapeaux Pokémon"
+reward_table.3081156FB0F16270.title: "Accessoires de sirène"
+reward_table.35F0F3014AA2177D.title: "Super Bonbon"
+reward_table.3827D05306591BCF.title: "Récompense de cours 3"
+reward_table.3C5DAC9F2DB15971.title: "Livres enchantés"
+reward_table.3D3A72B230E945FE.title: "Défaite_T6"
+reward_table.40EB1C4D3B67251D.title: "Shiny caché"
+reward_table.422AC2F7763CC04D.title: "Soin"
+reward_table.47A1B87E4ABB0407.title: "Récompense shiny"
+reward_table.47A8C1AB80904085.title: "Défaite_T3"
+reward_table.4B9D2787A249FE78.title: "Capture_T7"
+reward_table.4F29A660A102C51A.title: "Baies grillées"
+reward_table.4F4F7835591F59F1.title: "Défaite_T2"
+reward_table.5024192FF1C51BEF.title: "Nourriture starter (Feu)"
+reward_table.50588BCFB15CBFA7.title: "Pokedoll shiny Fantominus"
+reward_table.547D7B4C7E2E44D1.title: "Peluches shiny rares"
+reward_table.549D28CCFD3E1699.title: "Capture_T6"
+reward_table.55071EF0D82D0A3D.title: "Éclats Tera"
+reward_table.55E826C47BCC07E8.title: "Défaite_T7"
+reward_table.5620473E957045AD.title: "Capture_T8"
+reward_table.5AD5E66D983D4C35.title: "Défaite_T8"
+reward_table.5DE1D168E3CA88B0.title: "Z-Ring"
+reward_table.5E38BBB273AF57A9.title: "Objets Max"
+reward_table.602476F10E1D4D4E.title: "Pokedoll shiny Phantump"
+reward_table.6094D6D19A92AD9B.title: "Tickets Safari"
+reward_table.60CEF86661D55FAA.title: "Pokedoll shiny Trevenant"
+reward_table.66779DA1006F1E18.title: "Nourriture starter (Eau)"
+reward_table.669953DD25DBDD46.title: "Tickets Safari"
+reward_table.66C43092517E5E2B.title: "Pokedoll shiny Luvdisc"
+reward_table.6728C36DA3E15243.title: "Eiscue"
+reward_table.6766096A74620B75.title: "Capture_T2"
+reward_table.68C9ACB10B64272F.title: "Nourriture starter (Académie)"
+reward_table.694D16F22D93CFBD.title: "Récompense de maîtrise"
+reward_table.694D3665C0EE125B.title: "Capture_T3"
+reward_table.6AFC12C132EE017C.title: "Tickets Safari"
+reward_table.6C98427001AB2A68.title: "Novembre '25"
+reward_table.6E1992550106B716.title: "Récompense de cours 1"
+reward_table.716E560C792ED3CF.title: "Tickets Safari"
+reward_table.74C63F0FC17B107C.title: "Octobre '25"
+reward_table.763136B9394B5FFC.title: "Éclats Z"
+reward_table.7B35AD3207250B63.title: "Carte Shiny"
+reward_table.7B656B482970A9FD.title: "Tickets Safari"
+reward_table.7CF565AD133F62A8.title: "Pokedoll shiny Ténéfix"
+
+task.011C122D2B9FB996.title: "Enregistrer 70 types Plante"
+task.019EDE5EB8963C69.title: "(Quotidien) Capturer 1 Cobblemon"
+task.01EAC3F25409F825.title: "Gagner ta première pièce d’or"
+task.0248DA945BCDCBD1.title: "Cherche comment faire du thé à la rose et soumets-en un"
+task.02C1785F0BFCA4F0.title: "Capturer 300 Cobblemon dans le Safari"
+task.03044CE091C52235.title: "Capturer 20 Cobblemon dans le Marais Sombre"
+task.03D33016900B1997.title: "Compléter toutes les étapes du Safari"
+task.04EF8D76829FCE76.title: "Capturer Arcanin de Hisui"
+task.07A2B459A94DF271.title: "Ok !"
+task.07F3D56BB2FBBF64.title: "Faire évoluer 10 Cobblemon"
+task.081B55D015F5FF36.title: "Choisis un starter de type Eau !"
+task.08B9799A06FAE47C.title: "Terminer le cours"
+task.08E3BFB72784C29F.title: "Acheter tous les objets spéciaux de la boutique"
+task.08F5C20EA99E9256.title: "Obtenir un sac à dos en fer"
+task.099FB445C2B23FA7.title: "Obtenir une Noigrume"
+task.0B08E72D6FD90217.title: "Capturer 3 Cobblemon dans le Safari"
+task.0B69533A15641CA5.title: "Capturer un starter de type Plante"
+task.0B71951B34DF9CA1.title: "Capturer 5 Cobblemon dans le monde normal"
+task.0CDD5DC700E1713F.title: "Enregistrer 30 types Électrik"
+task.0CEF8DC9C34FDB83.title: "Soumettre 30 niveaux d’XP"
+task.0EE22F1FA8625BDF.title: "Capturer un Paradoxe"
+task.0F0FEEB8AA8A56B7.title: "Soumettre 2 Bonbons Exp. L"
+task.0F6AA1B98949FE52.title: "Soumettre 6 Soupe de Vivichoke"
+task.1014D14FD3CEB769.title: "Faire évoluer un Cobblemon"
+task.10A01406254ACBF2.title: "Capturer 50 types Feu"
+task.10D4D51CF441860B.title: "Soumettre 3 Feuilles de menthe verte"
+task.13DF2E5FC00199DB.title: "3 Points de récompense"
+task.13EE40842FEA317F.title: "Ok !"
+task.160217A903945ED9.title: "Ok !"
+task.165D8D08AC5141F9.title: "Capturer 30 Cobblemon dans la Forêt Écarlate du Safari"
+task.1783B5B21E8FA4C1.title: "Soumettre 4 Brasseries Médicinales"
+task.17DE7ADCB265E715.title: "Visiter le Désert Cristallisé"
+task.183F2E1B9DFB39C0.title: "Capturer un Shiny"
+task.1868FAFD65F2EFD8.title: "Terminer les préliminaires"
+task.189B1B47B1E89B0B.title: "Soumettre 1 Chaudron d’Or Épais"
+task.18FE628F3446AF9A.title: "Capturer 50 types Insecte"
+task.199D10E365249644.title: "Choisir un starter de type Feu"
+task.19A6E980D9DDCF08.title: "Faire évoluer un Cobblemon 2 fois"
+task.1A5DC375364A1859.title: "test"
+task.1AC3FEA4665E0B6B.title: "Battre le Directeur de l’Académie"
+task.1C088AFE43C5A7E4.title: "Remettre 16 Pierres de Feu"
+task.1C97EA6C323D9AF6.title: "Échanger un Cobblemon avec un autre joueur"
+task.1E9A2DB5AE643B99.title: "Soumettre 1 Orbe Vie"
+task.1F9A1AFA217C5E3F.title: "Soumettre 3 Feuilles de menthe cyan"
+task.2007E4B7F536ACB2.title: "Faire évoluer Quilladin en Blindépique"
+task.20E44C26F7F5E618.title: "Visiter la Mer Étoilée"
+task.20E4E54FA43EDD7E.title: "Capturer 30 Cobblemon dans le Marais Sombre du Safari"
+task.2139134EB6BC1C62.title: "Maîtriser les 18 types"
+task.2225B47AD00ACC1C.title: "Capturer 10 Cobblemon"
+task.226F1F589C5965DE.title: "3 Points de récompense"
+task.228637A039AAFEAC.title: "Ok !"
+task.238F64F274F5D6E9.title: "40 Points de récompense"
+task.240C7BE655D800BB.title: "Enregistrer 30 types Glace"
+task.244EFB58FD243A3C.title: "Enregistrer 40 types Insecte"
+task.249106D569152F33.title: "Battre 10 Cobblemon"
+task.2659E65C904454D7.title: "Capturer 30 Cobblemon dans la Forêt d’Érable Automnale"
+task.26FD0EF8C7DC9EF4.title: "Visiter la Forêt Étoilée"
+task.2807AFE68130041B.title: "Capturer 5 Cobblemon dans le Nether"
+task.298F7DD6EDEE0E65.title: "Enregistrer 50 types Roche"
+task.2A25597AF4BD80AF.title: "Enregistrer 70 types Vol"
+task.2A70DA73CADFDC19.title: "Monter un Cobblemon niveau 30"
+task.2CADC93A7915F2EA.title: "Capturer 75 Cobblemon dans le Safari"
+task.2D389C3FE7C0A2F6.title: "Battre 50 types Plante"
+task.2DE1045D3F682D51.title: "Visiter la Forêt de Givre Étoilé"
+task.2E334A7B07196F68.title: "Soumettre 3 Feuilles de menthe rose"
+task.2E4994AB38CD087E.title: "Soumettre 3 Feuilles de menthe rouge"
+task.2E7AD5364FE97B27.title: "Scanner 50 Cobblemon"
+task.2EA2808D5C5042A8.title: "Soumettre 2 Super Bonbons"
+task.2EB541E494A2BF83.title: "Capturer 20 Cobblemon le long des rivières de Torreya"
+task.2F0CE68E56DE03AE.title: "Faire revivre un fossile"
+task.2F0E3E0FDB0AA730.title: "Soumettre 6 Fruits Earlight suspendus"
+task.2F1C5130C1FB095C.title: "93 Points de récompense"
+task.2F4590D03F29F4C5.title: "Ok merci !"
+task.30C5CB7924EDF394.title: "Capturer un Shiny de type Spectre, Ténèbres ou Psy"
+task.31439A19CF5FBF4C.title: "Pêcher 10 Cobblemon"
+task.31992E9D7713FB96.title: "Obtenir une Pierre de Voyage"
+task.33610A3E5F94AF2F.title: "Ok !"
+task.33C39F131F565B61.title: "Capturer 100 Cobblemon dans le Safari"
+task.346657D66073631B.title: "Ok !"
+task.347169400BA3255D.title: "Choisir ton starter"
+task.34F1FFC23CA78240.title: "Enregistrer 30 types Dragon"
+task.35475E3B3A71FF2B.title: "Capturer 200 Cobblemon dans le Safari"
+task.36E9FC59C0D82952.title: "Terminer le cours !"
+task.3727456A5179F083.title: "Ok !"
+task.372AC0E9AF66D620.title: "Visiter la Forêt de Kelp Spirale"
+task.3769DC2C7AE39FC8.title: "Soumettre 4 Flacons de Lueur Rouge"
+task.378EC937D12B34BB.title: "Jouer une journée complète (IRL)"
+task.387562F70383B0D9.title: "Capturer un Cobblemon Shiny"
+task.388522028EDBD2B7.title: "Monter un Cobblemon 30 niveaux"
+task.38A8BDCCD732C8B5.title: "Terminer le cours !"
+task.38E3064D10698194.title: "Capturer une Ultra-Chimère"
+task.3945858FA9DB8369.title: "Faire évoluer Évoli en Phyllali"
+task.3A04105BAD6E9156.title: "Visiter la Forêt Dense Étoilée"
+task.3AA99363C9ECF0C2.title: "Monter un Cobblemon de base niveau 100"
+task.3B3A0D85B28F9888.title: "Visiter le Safari"
+task.3B47F78AB413839E.title: "Soumettre 1 pièce d’or"
+task.3C34A80D0CAA6FC6.title: "Obtenir un Connecteur d’Inventaire"
+task.3CBED59BBAC8F1D5.title: "Capturer 20 Cobblemon dans la Forêt Écarlate"
+task.3E13EF55DC325CAD.title: "Capturer Volcaropod"
+task.3E7EB1EE4C22D220.title: "Capturer 50 Cobblemon dans le Safari"
+task.3F63170224F81538.title: "Ok !"
+task.3FC6CB41612B9D8D.title: "Soumettre 3 Pierres d’évolution"
+task.41A8A51FDB7D322B.title: "Obtenir une Cage à animaux"
+task.41D54E64A7C98011.title: "Obtenir une bûche"
+task.4221081CB2BE146D.title: "Battre 10 Cobblemon sauvages"
+task.426D5DE110FEEA5B.title: "Capturer 5 Cobblemon dans l’End"
+task.429CFA8985E93A0C.title: "Enregistrer 30 types Combat"
+task.439C8A53C7434242.title: "Terminer le cours !"
+task.43F06C589471C15D.title: "Battre le Directeur de l’Académie"
+task.443010F8F81E3A15.title: "Capturer un Cobblemon fabuleux"
+task.44AB1D63DA942543.title: "Trouver une tour des Badlands"
+task.4522B9D7A2998BE8.title: "Capturer 10 Cobblemon dans le monde normal"
+task.45248A0D32E248A3.title: "Ok !"
+task.4607BF82B1597130.title: "Soumettre 6 Peau de Faucheur"
+task.474B3E257F60E15C.title: "Aller à la plage !"
+task.474C91DD937F0ED0.title: "Enregistrer 50 types Poison"
+task.47DAB2B1BE56CB9D.title: "Fabriquer une Station de Capsules"
+task.47DC65BF42CF8A43.title: "Soumettre 3 Feuilles de menthe bleue"
+task.483690698DDA1B63.title: "3 Points de récompense"
+task.492F09F8B6892DDA.title: "Visiter la mer peu profonde luxuriante"
+task.493EADEC188FBF5B.title: "Capturer 40 Cobblemon dans le monde normal"
+task.4960FE2DAB9839DC.title: "Enregistrer 30 types Ténèbres"
+task.4977CFB0AB0B8D09.title: "Enregistrer 30 types Fée"
+task.4ADF7AE46DD3995C.title: "Prendre une photo d’un Cobblemon dans l’End"
+task.4B4BFB6DE1E8F46B.title: "Visiter la Forêt de Torreya"
+task.4B676B09B0AE5C7F.title: "Soumettre 8 Sucre Féerique"
+task.4BC5FB71C0E675C2.title: "Trouver un village dans l’End"
+task.4C38AA7996437364.title: "Ok !"
+task.4CBA0D59E113F8B7.title: "Jouer 1 tick"
+task.4DC8C535DF5B4CBD.title: "Pêcher un Léviator sous la pleine lune"
+task.4E158D34C909A296.title: "Capturer 20 Cobblemon dans la Forêt Étoilée"
+task.4E1FF2D938ABC2AF.title: "Enregistrer 50 types Feu"
+task.4F6BFF08AF61D833.title: "Soumettre un sac de pièces reliques"
+task.4F724114150D4BF0.title: "Choisir un starter de type Plante"
+task.4F9AB3856AFFBB94.title: "Ok !"
+task.505F64D813F5B9BC.title: "Capturer une Ultra-Chimère"
+task.516967A3A28D4818.title: "Capturer Héliatronc"
+task.51E0AE2B7B40696A.title: "Capturer 10 Cobblemon dans le Nether"
+task.52840AC575B0AA6F.title: "Trouver une météorite du Safari"
+task.5284D46F7CDF476F.title: "Soumettre 1 sticker de Gym Spectre"
+task.52AB52808831D31F.title: "Soumettre 3 potions médicinales"
+task.53A7417E21416FCD.title: "Entrer dans le Safari"
+task.53E9FB1F657E14D2.title: "Scanner 30 Slugma ou Magcargo dans le Nether"
+task.5463BEF1E290BE9F.title: "Ok !"
+task.54871ACB43DCD8DF.title: "test"
+task.5572321B9A1D48DB.title: "Capturer Marowak d’Alola"
+task.55F58952FEDCFF3E.title: "Capturer 40 Cobblemon dans l’End"
+task.57D54FC395A4FF0F.title: "Enregistrer 40 types Spectre"
+task.57DAC71358E1B417.title: "Visiter le Marais Sombre"
+task.58510CAE862A5DBC.title: "Remettre 24 Pierres Feuille"
+task.595E499661149BC0.title: "Soumettre 1 pièce relique"
+task.59DB576BB5CF9681.title: "Visiter la Forêt Écarlate"
+task.5A46DE3FBB8E609F.title: "Marcher 1 km"
+task.5A53758C67FE937F.title: "Fabriquer un hologramme de prévision lunaire"
+task.5A6AFA34624E91F0.title: "Enregistrer 40 types Psy"
+task.5B7A6F60AFB07802.title: "Ouvrir des boosters"
+task.5CC27865B9FFA2DE.title: "Choisis ton starter !"
+task.5CCCC92052B9EBFD.title: "Capturer 10 Cobblemon dans l’End"
+task.5CF360043BA87A6C.title: "Découvrir un chunk fabuleux dans une météorite du Safari"
+task.5DEBEC9CCF029A04.title: "Capturer un Shiny de type Sol ou Roche"
+task.5FD8B7211FC592C9.title: "Soumettre 3 vivichokes en soupe"
+task.6163BD9052CE6DEB.title: "Soumettre 16 éclats d’améthyste"
+task.6165E1164D7FF6ED.title: "Capturer Solrock"
+task.61A9E9752227B589.title: "Faire évoluer un Applin en Dipplin avec un pot de miel"
+task.61D2721834724122.title: "Remettre 64 Hyper Balls"
+task.61D39BE99D9065C1.title: "Tomber sur une météorite du Safari"
+task.621CD3BD83B98869.title: "Ok !"
+task.625469FAB6223BFD.title: "Soumettre 1 lingot de Netherite"
+task.62A2FD09ADFE20EC.title: "Remettre 64 Park Balls"
+task.6346B398FF06BD61.title: "Faire évoluer Applin en Flapple avec une pomme acidulée"
+task.63A26AC62626F43A.title: "Trouver le rare Arbre Elfique"
+task.665C1115D5FA462B.title: "Enregistrer 30 types Acier"
+task.676F49B210052D18.title: "Terminer toutes les quêtes de capture des biomes Étoilés"
+task.68E2FC23DA0A2E3C.title: "Capturer 20 Cobblemon dans la forêt de permafrost étoilé"
+task.69351EC24065A3A2.title: "Capturer 20 Cobblemon dans le désert cristallisé"
+task.69ADAE677DEFE745.title: "Capturer 30 Cobblemon dans le Safari"
+task.6A2283A934AA94DA.title: "Ok !"
+task.6B2591B92D1635FF.title: "Soumettre 3 feuilles de menthe blanche"
+task.6B46C8A39055821C.title: "Soumettre 2 tartes aux pommes vertes"
+task.6C1F47BA98993C38.title: "Capturer un Cobblemon starter"
+task.6C7B80C0C85AC72D.title: "Capturer 20 Cobblemon dans les mers Étoilées"
+task.6D6A7A7D9A29B1EE.title: "Pêcher 10 Cobblemon"
+task.6DEFC143CD6B9A34.title: "Soumettre 3 diamants"
+task.6F1D2C350F29C991.title: "Piller 100 conteneurs"
+task.6F3A83D663F5CB3D.title: "Enregistrer 80 types Normal"
+task.6FB498E4EAC1E17D.title: "Capturer 10 Cobblemon dans le Safari"
+task.705A69680CA26CB6.title: "Soumettre 64 Hyper Balls"
+task.70A3E18C2DC9A3AF.title: "Choisir un starter de l’Académie"
+task.723D8136B3436D10.title: "Capturer 40 Cobblemon dans le Nether"
+task.731606BDE264D578.title: "Choisis ton starter"
+task.7378BFD074C499F8.title: "Capturer 30 Magicarpe"
+task.77519DF84BC602CF.title: "Capturer un Shiny dans le Safari"
+task.77D3DA38EEF29646.title: "Obtenir un enclos à animaux"
+task.77DA48B367D29459.title: "Battre tous les gymnases"
+task.77E16DE4FB6D84BE.title: "Soumettre 3 pommes dorées"
+task.78082D48BCA7A461.title: "Enregistrer 100 types Eau"
+task.78172E18448184EA.title: "Ok !"
+task.784D4E771BA407DC.title: "Capturer 20 Cobblemon dans le Safari"
+task.797A466B23E3BAC9.title: "Soumettre 16 Hyper Balls"
+task.7A1A058CBD06A2CB.title: "Faire évoluer Applin en Appletun avec une pomme sucrée"
+task.7AA57FFA06B047AF.title: "Obtenir un appareil photo"
+task.7B94D5A0C7A0BA88.title: "Capturer un Shiny"
+task.7BB6D4A78D7EEF87.title: "Visiter la côte chaude"
+task.7CD859B6A03B903E.title: "Soumettre 10 jus de baies"
+task.7CDD2D9F9D2BFE8B.title: "Soumettre une gemme de type"
+task.7D2C1B98BA98F728.title: "Ok !"
+task.7D3B60B1FCA78ED6.title: "Enregistrer 50 types Sol"
+task.7E380A146B8BCBF7.title: "Acheter un marteau"
+task.7E9C4B008A86EBA2.title: "Obtenir un booster pack"
+task.7F83156262931BC9.title: "Soumettre un sticker de gym Sol"
+task.7F854F32296785DE.title: "Faire revivre 5 fossiles"
+task.7FBD4EE33A9769ED.title: "Faire évoluer ton starter jusqu’à sa forme finale"
+task.7FD018AD2E1C230D.title: "520 points de récompense"
+}
