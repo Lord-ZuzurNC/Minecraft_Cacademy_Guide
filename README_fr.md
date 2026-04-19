@@ -168,7 +168,7 @@ Dans le dossier `14.FTB_quests`, vous trouverez un fichier `fr_fr.snbt`.
 
 À placer dans :
 ```bash
-C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\config/ftbquest/quests/lang
+C:\Users\"user"\curseforge\minecraft\Instances\Cacademy\config\ftbquest\quests\lang
 ```
 
 ## Commandes utiles
